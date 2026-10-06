@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
-  <!-- Estudy logo: a flower whose petals cycle sunflower → daisy → hibiscus, with a smiling face for a centre.
+  <!-- Estudy logo: a flower whose petals cycle sunflower → leaf-green daisy → hibiscus, with a smiling face for a centre.
        Also the source of the PNG app icons (tools/gen-app-icons.mjs). -->
   <defs>
     <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
@@ -9,29 +9,29 @@
       <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
     <radialGradient id="hibiscus" cx="0.5" cy="1" r="1">
-      <stop offset="0" stop-color="#7a0716"/>
-      <stop offset="0.3" stop-color="#c8102e"/>
-      <stop offset="0.75" stop-color="#ec1f35"/>
-      <stop offset="1" stop-color="#ff5a5f"/>
+      <stop offset="0" stop-color="#4a000c"/>
+      <stop offset="0.3" stop-color="#9e0018"/>
+      <stop offset="0.75" stop-color="#cc0022"/>
+      <stop offset="1" stop-color="#e3172f"/>
     </radialGradient>
     <linearGradient id="sunflower" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#f08c00"/>
-      <stop offset="0.45" stop-color="#ffd23f"/>
-      <stop offset="0.6" stop-color="#ffc21a"/>
-      <stop offset="1" stop-color="#e67e00"/>
+      <stop offset="0" stop-color="#b35400"/>
+      <stop offset="0.45" stop-color="#ffb000"/>
+      <stop offset="0.6" stop-color="#f59a00"/>
+      <stop offset="1" stop-color="#a84f00"/>
     </linearGradient>
-    <linearGradient id="daisy" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#cdd6e6"/>
-      <stop offset="0.45" stop-color="#ffffff"/>
-      <stop offset="1" stop-color="#c3cde0"/>
+    <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0a5a26"/>
+      <stop offset="0.45" stop-color="#1f9d47"/>
+      <stop offset="1" stop-color="#0b5f29"/>
     </linearGradient>
     <radialGradient id="centre" cx="0.38" cy="0.32" r="0.75">
-      <stop offset="0" stop-color="#fff3c4"/>
-      <stop offset="0.5" stop-color="#ffd27a"/>
-      <stop offset="1" stop-color="#e09a45"/>
+      <stop offset="0" stop-color="#fffbd1"/>
+      <stop offset="0.5" stop-color="#ffe733"/>
+      <stop offset="1" stop-color="#f5b800"/>
     </radialGradient>
     <path id="p-hibiscus" d="M60 60 C45 49 37 29 42.5 15 Q50.5 6.5 60 11.5 Q69.5 6.5 77.5 15 C83 29 75 49 60 60 Z"/>
-    <path id="p-sunflower" d="M60 58 C46 46 46.5 23 60 5 C73.5 23 74 46 60 58 Z"/>
+    <path id="p-sunflower" d="M60 58 C40 47 41 23 56 7.5 Q59.5 4 62 8 C77 23 79 46 60 58 Z"/>
     <path id="p-daisy" d="M60 58 C52.5 47 52 24 54.5 15 Q60 9 65.5 15 C68 24 67.5 47 60 58 Z"/>
   </defs>
 
@@ -51,7 +51,7 @@
     <use href="#p-sunflower" transform="rotate(240 60 60)"/>
     <use href="#p-sunflower" transform="rotate(300 60 60)"/>
   </g>
-  <g filter="url(#shadow)" fill="url(#daisy)">
+  <g filter="url(#shadow)" fill="url(#leaf)">
     <use href="#p-daisy" transform="rotate(20 60 60)"/>
     <use href="#p-daisy" transform="rotate(80 60 60)"/>
     <use href="#p-daisy" transform="rotate(140 60 60)"/>
@@ -60,6 +60,7 @@
     <use href="#p-daisy" transform="rotate(320 60 60)"/>
   </g>
 
+  <g transform="translate(60 60) scale(0.75) translate(-60 -60)">
   <g filter="url(#shadow)">
     <circle cx="60" cy="60" r="21" fill="url(#centre)"/>
   </g>
@@ -77,4 +78,5 @@
   <ellipse cx="47.5" cy="64" rx="3.4" ry="2.1" fill="#ff7f8f" opacity="0.5"/>
   <ellipse cx="72.5" cy="64" rx="3.4" ry="2.1" fill="#ff7f8f" opacity="0.5"/>
   <path d="M53 64.5 Q60 71.5 67 64.5" fill="none" stroke="#5a3a22" stroke-width="2.4" stroke-linecap="round"/>
+  </g>
 </svg>
