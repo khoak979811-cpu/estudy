@@ -197,6 +197,15 @@
    "am_michael"
   ]
  },
+ "r-b-arts-2": {
+  "file": "r-b-arts-2.mp3",
+  "hash": "005ff07449e3",
+  "match": 1.0,
+  "seconds": 22.9,
+  "voices": [
+   "am_michael"
+  ]
+ },
  "r-b-country": {
   "file": "r-b-country.mp3",
   "hash": "df2b50408db2",
@@ -222,6 +231,15 @@
   "seconds": 22.5,
   "voices": [
    "am_michael"
+  ]
+ },
+ "r-b-education-2": {
+  "file": "r-b-education-2.mp3",
+  "hash": "78f46ee4fc1e",
+  "match": 0.97,
+  "seconds": 23.8,
+  "voices": [
+   "af_bella"
   ]
  },
  "r-b-enviro": {
@@ -260,6 +278,15 @@
    "am_michael"
   ]
  },
+ "r-b-food-2": {
+  "file": "r-b-food-2.mp3",
+  "hash": "4c1d775d2ca9",
+  "match": 0.97,
+  "seconds": 26.2,
+  "voices": [
+   "am_michael"
+  ]
+ },
  "r-b-health": {
   "file": "r-b-health.mp3",
   "hash": "6a1ec39d80eb",
@@ -267,6 +294,15 @@
   "seconds": 25.8,
   "voices": [
    "am_fenrir"
+  ]
+ },
+ "r-b-health-2": {
+  "file": "r-b-health-2.mp3",
+  "hash": "53cc1b2cd241",
+  "match": 0.92,
+  "seconds": 21.9,
+  "voices": [
+   "am_michael"
   ]
  },
  "r-b-hotel": {
@@ -296,6 +332,15 @@
    "am_fenrir"
   ]
  },
+ "r-b-life-2": {
+  "file": "r-b-life-2.mp3",
+  "hash": "2f89f40dabbf",
+  "match": 1.0,
+  "seconds": 21.3,
+  "voices": [
+   "af_heart"
+  ]
+ },
  "r-b-nature": {
   "file": "r-b-nature.mp3",
   "hash": "896de702457d",
@@ -303,6 +348,15 @@
   "seconds": 20.2,
   "voices": [
    "af_heart"
+  ]
+ },
+ "r-b-nature-2": {
+  "file": "r-b-nature-2.mp3",
+  "hash": "5fa5c1fb5722",
+  "match": 0.97,
+  "seconds": 27.4,
+  "voices": [
+   "am_michael"
   ]
  },
  "r-b-people": {
@@ -332,6 +386,15 @@
    "af_heart"
   ]
  },
+ "r-b-sports-2": {
+  "file": "r-b-sports-2.mp3",
+  "hash": "373011d8b699",
+  "match": 0.93,
+  "seconds": 23.2,
+  "voices": [
+   "af_heart"
+  ]
+ },
  "r-b-tech": {
   "file": "r-b-tech.mp3",
   "hash": "8f199e2ed4d8",
@@ -339,6 +402,15 @@
   "seconds": 22.7,
   "voices": [
    "af_bella"
+  ]
+ },
+ "r-b-tech-2": {
+  "file": "r-b-tech-2.mp3",
+  "hash": "277cae5fdacc",
+  "match": 1.0,
+  "seconds": 24.7,
+  "voices": [
+   "am_fenrir"
   ]
  },
  "r-b-transport": {
@@ -350,6 +422,15 @@
    "af_bella"
   ]
  },
+ "r-b-transport-2": {
+  "file": "r-b-transport-2.mp3",
+  "hash": "4aec1035423b",
+  "match": 1.0,
+  "seconds": 24.7,
+  "voices": [
+   "af_heart"
+  ]
+ },
  "r-b-travel": {
   "file": "r-b-travel.mp3",
   "hash": "52bb7cbc566c",
@@ -357,6 +438,15 @@
   "seconds": 19.4,
   "voices": [
    "af_heart"
+  ]
+ },
+ "r-b-travel-2": {
+  "file": "r-b-travel-2.mp3",
+  "hash": "bcdb719c2247",
+  "match": 0.97,
+  "seconds": 26.2,
+  "voices": [
+   "am_fenrir"
   ]
  },
  "r-i-admin": {

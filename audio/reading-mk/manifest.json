@@ -175,6 +175,14 @@
    "am_puck"
   ]
  },
+ "r-b-arts-2": {
+  "file": "r-b-arts-2.mp3",
+  "hash": "13409bfaee3b",
+  "seconds": 21.1,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-b-country": {
   "file": "r-b-country.mp3",
   "hash": "e45a021f0d9b",
@@ -195,6 +203,14 @@
   "file": "r-b-education.mp3",
   "hash": "d12d374a3b20",
   "seconds": 20.7,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-education-2": {
+  "file": "r-b-education-2.mp3",
+  "hash": "79ba1f62303a",
+  "seconds": 22.1,
   "voices": [
    "am_puck"
   ]
@@ -231,10 +247,26 @@
    "am_puck"
   ]
  },
+ "r-b-food-2": {
+  "file": "r-b-food-2.mp3",
+  "hash": "05e20d048ace",
+  "seconds": 22.0,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-b-health": {
   "file": "r-b-health.mp3",
   "hash": "7df47b88517e",
   "seconds": 21.1,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-health-2": {
+  "file": "r-b-health-2.mp3",
+  "hash": "ab4fc75cb1b1",
+  "seconds": 20.8,
   "voices": [
    "am_puck"
   ]
@@ -263,10 +295,26 @@
    "am_puck"
   ]
  },
+ "r-b-life-2": {
+  "file": "r-b-life-2.mp3",
+  "hash": "0e1b7df39a8d",
+  "seconds": 21.2,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-b-nature": {
   "file": "r-b-nature.mp3",
   "hash": "dddb4bb0dde8",
   "seconds": 21.5,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-nature-2": {
+  "file": "r-b-nature-2.mp3",
+  "hash": "087dd71af6e3",
+  "seconds": 22.4,
   "voices": [
    "am_puck"
   ]
@@ -295,10 +343,26 @@
    "am_puck"
   ]
  },
+ "r-b-sports-2": {
+  "file": "r-b-sports-2.mp3",
+  "hash": "3181efffed38",
+  "seconds": 22.2,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-b-tech": {
   "file": "r-b-tech.mp3",
   "hash": "c91758ee3a03",
   "seconds": 21.9,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-tech-2": {
+  "file": "r-b-tech-2.mp3",
+  "hash": "a61a026c2027",
+  "seconds": 21.3,
   "voices": [
    "am_puck"
   ]
@@ -311,10 +375,26 @@
    "am_puck"
   ]
  },
+ "r-b-transport-2": {
+  "file": "r-b-transport-2.mp3",
+  "hash": "ae26434e846a",
+  "seconds": 23.2,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-b-travel": {
   "file": "r-b-travel.mp3",
   "hash": "62117d2091f5",
   "seconds": 20.8,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-travel-2": {
+  "file": "r-b-travel-2.mp3",
+  "hash": "2ee622009588",
+  "seconds": 21.5,
   "voices": [
    "am_puck"
   ]

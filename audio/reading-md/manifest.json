@@ -197,6 +197,15 @@
    "am_puck"
   ]
  },
+ "r-b-arts-2": {
+  "file": "r-b-arts-2.mp3",
+  "hash": "109d480ad225",
+  "match": 1.0,
+  "seconds": 23.5,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-b-country": {
   "file": "r-b-country.mp3",
   "hash": "5cf61909c50f",
@@ -220,6 +229,15 @@
   "hash": "fad8cd47bca5",
   "match": 0.95,
   "seconds": 17.9,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-education-2": {
+  "file": "r-b-education-2.mp3",
+  "hash": "e303e52233e1",
+  "match": 0.98,
+  "seconds": 21.5,
   "voices": [
    "am_puck"
   ]
@@ -260,11 +278,29 @@
    "am_puck"
   ]
  },
+ "r-b-food-2": {
+  "file": "r-b-food-2.mp3",
+  "hash": "16e089a43f5b",
+  "match": 1.0,
+  "seconds": 23.1,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-b-health": {
   "file": "r-b-health.mp3",
   "hash": "3af93b6a2a73",
   "match": 1.0,
   "seconds": 19.3,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-health-2": {
+  "file": "r-b-health-2.mp3",
+  "hash": "f102aeaa2dda",
+  "match": 0.91,
+  "seconds": 19.0,
   "voices": [
    "am_puck"
   ]
@@ -296,11 +332,29 @@
    "am_puck"
   ]
  },
+ "r-b-life-2": {
+  "file": "r-b-life-2.mp3",
+  "hash": "8fe216d3fd9e",
+  "match": 1.0,
+  "seconds": 21.1,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-b-nature": {
   "file": "r-b-nature.mp3",
   "hash": "8ea982037623",
   "match": 1.0,
   "seconds": 19.2,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-nature-2": {
+  "file": "r-b-nature-2.mp3",
+  "hash": "ef0aceecc619",
+  "match": 0.97,
+  "seconds": 23.6,
   "voices": [
    "am_puck"
   ]
@@ -332,11 +386,29 @@
    "am_puck"
   ]
  },
+ "r-b-sports-2": {
+  "file": "r-b-sports-2.mp3",
+  "hash": "6874da48216b",
+  "match": 0.93,
+  "seconds": 22.8,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-b-tech": {
   "file": "r-b-tech.mp3",
   "hash": "c4f04c0d8f6e",
   "match": 1.0,
   "seconds": 21.0,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-tech-2": {
+  "file": "r-b-tech-2.mp3",
+  "hash": "cfcd1f6dc0c6",
+  "match": 1.0,
+  "seconds": 21.4,
   "voices": [
    "am_puck"
   ]
@@ -350,11 +422,29 @@
    "am_puck"
   ]
  },
+ "r-b-transport-2": {
+  "file": "r-b-transport-2.mp3",
+  "hash": "85f25f4feb2d",
+  "match": 1.0,
+  "seconds": 22.6,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-b-travel": {
   "file": "r-b-travel.mp3",
   "hash": "4568b949089b",
   "match": 0.97,
   "seconds": 17.1,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-travel-2": {
+  "file": "r-b-travel-2.mp3",
+  "hash": "106ef1507025",
+  "match": 0.94,
+  "seconds": 21.8,
   "voices": [
    "am_puck"
   ]
