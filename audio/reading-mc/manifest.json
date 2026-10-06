@@ -467,6 +467,15 @@
    "am_puck"
   ]
  },
+ "r-i-arts-2": {
+  "file": "r-i-arts-2.mp3",
+  "hash": "1c5aa65c7574",
+  "match": 1.0,
+  "seconds": 26.4,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-i-country": {
   "file": "r-i-country.mp3",
   "hash": "ca3753e107c0",
@@ -490,6 +499,15 @@
   "hash": "b23a9bdebb4c",
   "match": 0.98,
   "seconds": 39.3,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-education-2": {
+  "file": "r-i-education-2.mp3",
+  "hash": "31ad5f0ffae9",
+  "match": 0.98,
+  "seconds": 32.7,
   "voices": [
    "am_puck"
   ]
@@ -521,6 +539,15 @@
    "am_puck"
   ]
  },
+ "r-i-finance-2": {
+  "file": "r-i-finance-2.mp3",
+  "hash": "446a60e380b6",
+  "match": 1.0,
+  "seconds": 27.5,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-i-food": {
   "file": "r-i-food.mp3",
   "hash": "9fdb92fb4deb",
@@ -530,11 +557,29 @@
    "am_puck"
   ]
  },
+ "r-i-food-2": {
+  "file": "r-i-food-2.mp3",
+  "hash": "618a81c90b2c",
+  "match": 0.98,
+  "seconds": 30.3,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-i-health": {
   "file": "r-i-health.mp3",
   "hash": "b8f7d1fb09dc",
   "match": 1.0,
   "seconds": 36.5,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-health-2": {
+  "file": "r-i-health-2.mp3",
+  "hash": "1190631fc994",
+  "match": 0.96,
+  "seconds": 30.7,
   "voices": [
    "am_puck"
   ]
@@ -566,11 +611,29 @@
    "am_puck"
   ]
  },
+ "r-i-life-2": {
+  "file": "r-i-life-2.mp3",
+  "hash": "eb714d7f66c9",
+  "match": 0.98,
+  "seconds": 28.8,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-i-nature": {
   "file": "r-i-nature.mp3",
   "hash": "43b900a1d77f",
   "match": 0.93,
   "seconds": 27.3,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-nature-2": {
+  "file": "r-i-nature-2.mp3",
+  "hash": "19fb85183b24",
+  "match": 0.97,
+  "seconds": 30.1,
   "voices": [
    "am_puck"
   ]
@@ -611,6 +674,15 @@
    "am_puck"
   ]
  },
+ "r-i-tech-2": {
+  "file": "r-i-tech-2.mp3",
+  "hash": "37fa944daa5a",
+  "match": 1.0,
+  "seconds": 27.1,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-i-transport": {
   "file": "r-i-transport.mp3",
   "hash": "a237b04403d7",
@@ -620,11 +692,29 @@
    "am_puck"
   ]
  },
+ "r-i-transport-2": {
+  "file": "r-i-transport-2.mp3",
+  "hash": "f8f6006ee24b",
+  "match": 0.98,
+  "seconds": 30.3,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-i-travel": {
   "file": "r-i-travel.mp3",
   "hash": "3fa8be1c3415",
   "match": 1.0,
   "seconds": 46.2,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-travel-2": {
+  "file": "r-i-travel-2.mp3",
+  "hash": "c9d70ccd2cd2",
+  "match": 0.94,
+  "seconds": 27.7,
   "voices": [
    "am_puck"
   ]

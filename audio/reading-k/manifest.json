@@ -415,6 +415,14 @@
    "af_bella"
   ]
  },
+ "r-i-arts-2": {
+  "file": "r-i-arts-2.mp3",
+  "hash": "b10520d57ab7",
+  "seconds": 35.1,
+  "voices": [
+   "am_fenrir"
+  ]
+ },
  "r-i-country": {
   "file": "r-i-country.mp3",
   "hash": "26c4f1b6cbc4",
@@ -435,6 +443,14 @@
   "file": "r-i-education.mp3",
   "hash": "9bab713c7a13",
   "seconds": 56.2,
+  "voices": [
+   "am_fenrir"
+  ]
+ },
+ "r-i-education-2": {
+  "file": "r-i-education-2.mp3",
+  "hash": "9c0b87b6565a",
+  "seconds": 43.0,
   "voices": [
    "am_fenrir"
   ]
@@ -463,10 +479,26 @@
    "am_fenrir"
   ]
  },
+ "r-i-finance-2": {
+  "file": "r-i-finance-2.mp3",
+  "hash": "a16d9999ae01",
+  "seconds": 32.4,
+  "voices": [
+   "af_heart"
+  ]
+ },
  "r-i-food": {
   "file": "r-i-food.mp3",
   "hash": "49999f9f70f3",
   "seconds": 48.2,
+  "voices": [
+   "af_bella"
+  ]
+ },
+ "r-i-food-2": {
+  "file": "r-i-food-2.mp3",
+  "hash": "02759a3558bb",
+  "seconds": 36.9,
   "voices": [
    "af_bella"
   ]
@@ -477,6 +509,14 @@
   "seconds": 44.2,
   "voices": [
    "af_heart"
+  ]
+ },
+ "r-i-health-2": {
+  "file": "r-i-health-2.mp3",
+  "hash": "10c20ae7fea3",
+  "seconds": 38.5,
+  "voices": [
+   "am_michael"
   ]
  },
  "r-i-hotel": {
@@ -503,10 +543,26 @@
    "af_heart"
   ]
  },
+ "r-i-life-2": {
+  "file": "r-i-life-2.mp3",
+  "hash": "34c806b22657",
+  "seconds": 35.1,
+  "voices": [
+   "am_michael"
+  ]
+ },
  "r-i-nature": {
   "file": "r-i-nature.mp3",
   "hash": "2c1866dad53b",
   "seconds": 34.2,
+  "voices": [
+   "af_bella"
+  ]
+ },
+ "r-i-nature-2": {
+  "file": "r-i-nature-2.mp3",
+  "hash": "122217a68d3b",
+  "seconds": 35.6,
   "voices": [
    "af_bella"
   ]
@@ -543,10 +599,26 @@
    "am_fenrir"
   ]
  },
+ "r-i-tech-2": {
+  "file": "r-i-tech-2.mp3",
+  "hash": "53275db9041c",
+  "seconds": 32.9,
+  "voices": [
+   "af_heart"
+  ]
+ },
  "r-i-transport": {
   "file": "r-i-transport.mp3",
   "hash": "bf4c6a75901e",
   "seconds": 48.7,
+  "voices": [
+   "am_fenrir"
+  ]
+ },
+ "r-i-transport-2": {
+  "file": "r-i-transport-2.mp3",
+  "hash": "b68e0be6171c",
+  "seconds": 40.5,
   "voices": [
    "am_fenrir"
   ]
@@ -557,6 +629,14 @@
   "seconds": 59.2,
   "voices": [
    "am_michael"
+  ]
+ },
+ "r-i-travel-2": {
+  "file": "r-i-travel-2.mp3",
+  "hash": "9ffa2f43be3e",
+  "seconds": 33.0,
+  "voices": [
+   "af_bella"
   ]
  }
 }
