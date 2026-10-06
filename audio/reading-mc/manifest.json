@@ -1,542 +1,542 @@
 {
  "r-a-admin": {
   "file": "r-a-admin.mp3",
-  "hash": "0365b5f10fef",
+  "hash": "e2a061b4a3ef",
   "match": 1.0,
-  "seconds": 49.2,
+  "seconds": 46.0,
   "voices": [
-   "af_heart"
+   "am_puck"
   ]
  },
  "r-a-arts": {
   "file": "r-a-arts.mp3",
-  "hash": "a56c0f0bb064",
+  "hash": "f4177d05d270",
   "match": 0.97,
-  "seconds": 67.2,
+  "seconds": 54.2,
   "voices": [
-   "am_fenrir"
+   "am_puck"
   ]
  },
  "r-a-country": {
   "file": "r-a-country.mp3",
-  "hash": "324fb8b73558",
-  "match": 0.97,
-  "seconds": 42.4,
+  "hash": "777d6e753779",
+  "match": 1.0,
+  "seconds": 37.1,
   "voices": [
-   "am_michael"
+   "am_puck"
   ]
  },
  "r-a-disaster": {
   "file": "r-a-disaster.mp3",
-  "hash": "a921f48be2b2",
+  "hash": "29b67b8dd3c9",
   "match": 1.0,
-  "seconds": 41.1,
+  "seconds": 32.5,
   "voices": [
-   "am_fenrir"
+   "am_puck"
   ]
  },
  "r-a-education": {
   "file": "r-a-education.mp3",
-  "hash": "4837e05a7096",
+  "hash": "c57025391eae",
   "match": 0.95,
-  "seconds": 52.9,
+  "seconds": 45.9,
   "voices": [
-   "am_michael"
+   "am_puck"
   ]
  },
  "r-a-enviro": {
   "file": "r-a-enviro.mp3",
-  "hash": "4c10d460e819",
-  "match": 0.96,
-  "seconds": 67.4,
+  "hash": "8a597bb0eae4",
+  "match": 0.97,
+  "seconds": 53.7,
   "voices": [
-   "am_fenrir"
+   "am_puck"
   ]
  },
  "r-a-festival": {
   "file": "r-a-festival.mp3",
-  "hash": "d13ef7988084",
-  "match": 0.93,
-  "seconds": 40.2,
+  "hash": "b00e8ae5711f",
+  "match": 1.0,
+  "seconds": 37.1,
   "voices": [
-   "af_heart"
+   "am_puck"
   ]
  },
  "r-a-finance": {
   "file": "r-a-finance.mp3",
-  "hash": "8e13b832748f",
+  "hash": "6f9a11f68999",
   "match": 1.0,
-  "seconds": 54.9,
+  "seconds": 50.5,
   "voices": [
-   "af_heart"
+   "am_puck"
   ]
  },
  "r-a-food": {
   "file": "r-a-food.mp3",
-  "hash": "2201fc4ffa91",
-  "match": 0.97,
-  "seconds": 58.0,
+  "hash": "32dacd453f21",
+  "match": 0.94,
+  "seconds": 48.2,
   "voices": [
-   "am_fenrir"
+   "am_puck"
   ]
  },
  "r-a-health": {
   "file": "r-a-health.mp3",
-  "hash": "0224fcea03c9",
+  "hash": "b928b231e1d4",
   "match": 1.0,
-  "seconds": 55.4,
+  "seconds": 45.2,
   "voices": [
-   "am_michael"
+   "am_puck"
   ]
  },
  "r-a-hotel": {
   "file": "r-a-hotel.mp3",
-  "hash": "aff999a5fe58",
+  "hash": "bf07ff0403a3",
   "match": 0.95,
-  "seconds": 51.9,
+  "seconds": 48.7,
   "voices": [
-   "af_bella"
+   "am_puck"
   ]
  },
  "r-a-job": {
   "file": "r-a-job.mp3",
-  "hash": "4d03fdbb0baf",
-  "match": 1.0,
-  "seconds": 49.1,
+  "hash": "2e0b58a98037",
+  "match": 0.96,
+  "seconds": 43.2,
   "voices": [
-   "am_fenrir"
+   "am_puck"
   ]
  },
  "r-a-life": {
   "file": "r-a-life.mp3",
-  "hash": "3edf3b249257",
-  "match": 0.96,
-  "seconds": 56.3,
+  "hash": "b8dcb055100c",
+  "match": 1.0,
+  "seconds": 50.5,
   "voices": [
-   "am_michael"
+   "am_puck"
   ]
  },
  "r-a-nature": {
   "file": "r-a-nature.mp3",
-  "hash": "4328aebac866",
+  "hash": "33ff1b5dd89f",
   "match": 1.0,
-  "seconds": 41.4,
+  "seconds": 40.3,
   "voices": [
-   "af_heart"
+   "am_puck"
   ]
  },
  "r-a-people": {
   "file": "r-a-people.mp3",
-  "hash": "d888c76a01d5",
+  "hash": "2c332ce8a733",
   "match": 1.0,
-  "seconds": 40.0,
+  "seconds": 36.0,
   "voices": [
-   "af_bella"
+   "am_puck"
   ]
  },
  "r-a-service": {
   "file": "r-a-service.mp3",
-  "hash": "4207060223f9",
+  "hash": "0e7f24762f5e",
   "match": 1.0,
-  "seconds": 55.5,
+  "seconds": 43.9,
   "voices": [
-   "am_michael"
+   "am_puck"
   ]
  },
  "r-a-sports": {
   "file": "r-a-sports.mp3",
-  "hash": "53e858402a56",
+  "hash": "ed7381cb9698",
   "match": 0.93,
-  "seconds": 49.4,
+  "seconds": 48.5,
   "voices": [
-   "af_bella"
+   "am_puck"
   ]
  },
  "r-a-tech": {
   "file": "r-a-tech.mp3",
-  "hash": "685f52e2c568",
+  "hash": "4b237cf14af0",
   "match": 1.0,
-  "seconds": 47.5,
+  "seconds": 44.5,
   "voices": [
-   "af_heart"
+   "am_puck"
   ]
  },
  "r-a-transport": {
   "file": "r-a-transport.mp3",
-  "hash": "59cd5138dfc6",
+  "hash": "10ef84ae8112",
   "match": 1.0,
-  "seconds": 52.6,
+  "seconds": 50.2,
   "voices": [
-   "af_heart"
+   "am_puck"
   ]
  },
  "r-a-travel": {
   "file": "r-a-travel.mp3",
-  "hash": "6f1195aa69a6",
+  "hash": "727938dff57b",
   "match": 0.96,
-  "seconds": 51.7,
+  "seconds": 50.5,
   "voices": [
-   "af_bella"
+   "am_puck"
   ]
  },
  "r-b-admin": {
   "file": "r-b-admin.mp3",
-  "hash": "57d94e9f16da",
-  "match": 0.96,
-  "seconds": 23.8,
+  "hash": "8ae6c2468c32",
+  "match": 0.97,
+  "seconds": 19.7,
   "voices": [
-   "af_heart"
+   "am_puck"
   ]
  },
  "r-b-arts": {
   "file": "r-b-arts.mp3",
-  "hash": "01dc9bb95048",
+  "hash": "8788fcd2891b",
   "match": 1.0,
-  "seconds": 23.6,
+  "seconds": 22.7,
   "voices": [
-   "am_michael"
+   "am_puck"
   ]
  },
  "r-b-country": {
   "file": "r-b-country.mp3",
-  "hash": "df2b50408db2",
-  "match": 0.96,
-  "seconds": 25.8,
+  "hash": "f761a5955b68",
+  "match": 1.0,
+  "seconds": 22.8,
   "voices": [
-   "am_michael"
+   "am_puck"
   ]
  },
  "r-b-disaster": {
   "file": "r-b-disaster.mp3",
-  "hash": "b821c91f2716",
+  "hash": "4cd9eb37cc35",
   "match": 1.0,
-  "seconds": 21.9,
+  "seconds": 18.4,
   "voices": [
-   "am_fenrir"
+   "am_puck"
   ]
  },
  "r-b-education": {
   "file": "r-b-education.mp3",
-  "hash": "10c80dae8bc2",
+  "hash": "69ce29cdeb63",
   "match": 0.98,
-  "seconds": 22.5,
+  "seconds": 19.9,
   "voices": [
-   "am_michael"
+   "am_puck"
   ]
  },
  "r-b-enviro": {
   "file": "r-b-enviro.mp3",
-  "hash": "cccaa4f214ee",
+  "hash": "075bea0ec114",
   "match": 1.0,
-  "seconds": 22.3,
+  "seconds": 20.0,
   "voices": [
-   "am_michael"
+   "am_puck"
   ]
  },
  "r-b-festival": {
   "file": "r-b-festival.mp3",
-  "hash": "31a3fa298c11",
+  "hash": "b596e7d45b8a",
   "match": 1.0,
-  "seconds": 25.4,
+  "seconds": 22.9,
   "voices": [
-   "af_heart"
+   "am_puck"
   ]
  },
  "r-b-finance": {
   "file": "r-b-finance.mp3",
-  "hash": "5a344a4eda18",
-  "match": 1.0,
-  "seconds": 19.6,
+  "hash": "58343d8be8d1",
+  "match": 0.98,
+  "seconds": 18.1,
   "voices": [
-   "af_bella"
+   "am_puck"
   ]
  },
  "r-b-food": {
   "file": "r-b-food.mp3",
-  "hash": "932c7bb35781",
+  "hash": "f2d08ea04005",
   "match": 1.0,
-  "seconds": 22.7,
+  "seconds": 18.9,
   "voices": [
-   "am_michael"
+   "am_puck"
   ]
  },
  "r-b-health": {
   "file": "r-b-health.mp3",
-  "hash": "6a1ec39d80eb",
+  "hash": "a9f24e4ed794",
   "match": 1.0,
-  "seconds": 25.8,
+  "seconds": 19.6,
   "voices": [
-   "am_fenrir"
+   "am_puck"
   ]
  },
  "r-b-hotel": {
   "file": "r-b-hotel.mp3",
-  "hash": "92bdb014723c",
-  "match": 1.0,
-  "seconds": 22.0,
+  "hash": "9eb9dafd0daf",
+  "match": 0.97,
+  "seconds": 19.1,
   "voices": [
-   "af_bella"
+   "am_puck"
   ]
  },
  "r-b-job": {
   "file": "r-b-job.mp3",
-  "hash": "94b868ba653c",
+  "hash": "3675f54e3493",
   "match": 1.0,
-  "seconds": 24.2,
+  "seconds": 19.4,
   "voices": [
-   "am_fenrir"
+   "am_puck"
   ]
  },
  "r-b-life": {
   "file": "r-b-life.mp3",
-  "hash": "86e1b0aee661",
+  "hash": "01e000e63877",
   "match": 1.0,
-  "seconds": 21.2,
+  "seconds": 16.6,
   "voices": [
-   "am_fenrir"
+   "am_puck"
   ]
  },
  "r-b-nature": {
   "file": "r-b-nature.mp3",
-  "hash": "896de702457d",
+  "hash": "6f8db8d2b08e",
   "match": 1.0,
-  "seconds": 20.2,
+  "seconds": 17.2,
   "voices": [
-   "af_heart"
+   "am_puck"
   ]
  },
  "r-b-people": {
   "file": "r-b-people.mp3",
-  "hash": "dd2ffb0510da",
-  "match": 0.96,
-  "seconds": 20.9,
+  "hash": "28a384829385",
+  "match": 0.98,
+  "seconds": 19.5,
   "voices": [
-   "af_bella"
+   "am_puck"
   ]
  },
  "r-b-service": {
   "file": "r-b-service.mp3",
-  "hash": "e58f68bc3577",
+  "hash": "bb44bbef370d",
   "match": 1.0,
-  "seconds": 23.2,
+  "seconds": 21.0,
   "voices": [
-   "am_michael"
+   "am_puck"
   ]
  },
  "r-b-sports": {
   "file": "r-b-sports.mp3",
-  "hash": "d343c19a49f2",
+  "hash": "c3b67536bb03",
   "match": 1.0,
-  "seconds": 19.2,
+  "seconds": 18.5,
   "voices": [
-   "af_heart"
+   "am_puck"
   ]
  },
  "r-b-tech": {
   "file": "r-b-tech.mp3",
-  "hash": "8f199e2ed4d8",
+  "hash": "077023391e5d",
   "match": 1.0,
-  "seconds": 22.7,
+  "seconds": 19.4,
   "voices": [
-   "af_bella"
+   "am_puck"
   ]
  },
  "r-b-transport": {
   "file": "r-b-transport.mp3",
-  "hash": "f45aaf1dba19",
+  "hash": "05c0c71c46d0",
   "match": 0.98,
-  "seconds": 19.6,
+  "seconds": 19.1,
   "voices": [
-   "af_bella"
+   "am_puck"
   ]
  },
  "r-b-travel": {
   "file": "r-b-travel.mp3",
-  "hash": "52bb7cbc566c",
-  "match": 0.96,
-  "seconds": 19.4,
+  "hash": "2643a9e40be2",
+  "match": 0.97,
+  "seconds": 18.1,
   "voices": [
-   "af_heart"
+   "am_puck"
   ]
  },
  "r-i-admin": {
   "file": "r-i-admin.mp3",
-  "hash": "60d0fecb57c2",
+  "hash": "ba7d5f19ea62",
   "match": 1.0,
-  "seconds": 36.9,
+  "seconds": 35.3,
   "voices": [
-   "af_bella"
+   "am_puck"
   ]
  },
  "r-i-arts": {
   "file": "r-i-arts.mp3",
-  "hash": "3300db4c51b7",
-  "match": 1.0,
-  "seconds": 43.8,
+  "hash": "88a5b26052a5",
+  "match": 0.98,
+  "seconds": 42.6,
   "voices": [
-   "af_bella"
+   "am_puck"
   ]
  },
  "r-i-country": {
   "file": "r-i-country.mp3",
-  "hash": "50340cee6b56",
-  "match": 1.0,
-  "seconds": 36.2,
+  "hash": "ca3753e107c0",
+  "match": 0.97,
+  "seconds": 27.4,
   "voices": [
-   "am_fenrir"
+   "am_puck"
   ]
  },
  "r-i-disaster": {
   "file": "r-i-disaster.mp3",
-  "hash": "41cdf9acc00f",
+  "hash": "e87c6db62743",
   "match": 1.0,
-  "seconds": 35.4,
+  "seconds": 31.2,
   "voices": [
-   "am_michael"
+   "am_puck"
   ]
  },
  "r-i-education": {
   "file": "r-i-education.mp3",
-  "hash": "7307be98ee1a",
-  "match": 1.0,
-  "seconds": 53.0,
+  "hash": "b23a9bdebb4c",
+  "match": 0.98,
+  "seconds": 39.3,
   "voices": [
-   "am_fenrir"
+   "am_puck"
   ]
  },
  "r-i-enviro": {
   "file": "r-i-enviro.mp3",
-  "hash": "b42c96945520",
+  "hash": "7a57c1bc4ced",
   "match": 0.96,
-  "seconds": 43.6,
+  "seconds": 41.4,
   "voices": [
-   "af_bella"
+   "am_puck"
   ]
  },
  "r-i-festival": {
   "file": "r-i-festival.mp3",
-  "hash": "f1d0e9d1be08",
+  "hash": "337c8e821492",
   "match": 0.92,
-  "seconds": 31.2,
+  "seconds": 28.8,
   "voices": [
-   "af_bella"
+   "am_puck"
   ]
  },
  "r-i-finance": {
   "file": "r-i-finance.mp3",
-  "hash": "75f0cc96acc0",
+  "hash": "2530515951c2",
   "match": 0.73,
-  "seconds": 55.8,
+  "seconds": 43.2,
   "voices": [
-   "am_fenrir"
+   "am_puck"
   ]
  },
  "r-i-food": {
   "file": "r-i-food.mp3",
-  "hash": "abb18627ee08",
+  "hash": "9fdb92fb4deb",
   "match": 1.0,
-  "seconds": 42.8,
+  "seconds": 36.6,
   "voices": [
-   "af_bella"
+   "am_puck"
   ]
  },
  "r-i-health": {
   "file": "r-i-health.mp3",
-  "hash": "56c9aa52f915",
+  "hash": "b8f7d1fb09dc",
   "match": 1.0,
-  "seconds": 38.5,
+  "seconds": 36.5,
   "voices": [
-   "af_heart"
+   "am_puck"
   ]
  },
  "r-i-hotel": {
   "file": "r-i-hotel.mp3",
-  "hash": "fdf43434728e",
-  "match": 0.93,
-  "seconds": 38.8,
+  "hash": "9b917e8238f1",
+  "match": 1.0,
+  "seconds": 34.3,
   "voices": [
-   "af_heart"
+   "am_puck"
   ]
  },
  "r-i-job": {
   "file": "r-i-job.mp3",
-  "hash": "349e21b8676d",
-  "match": 0.97,
-  "seconds": 43.5,
+  "hash": "019c67ac37b2",
+  "match": 1.0,
+  "seconds": 37.3,
   "voices": [
-   "am_michael"
+   "am_puck"
   ]
  },
  "r-i-life": {
   "file": "r-i-life.mp3",
-  "hash": "e87a708fd53c",
-  "match": 1.0,
-  "seconds": 43.2,
+  "hash": "053e24adc683",
+  "match": 0.97,
+  "seconds": 40.8,
   "voices": [
-   "af_heart"
+   "am_puck"
   ]
  },
  "r-i-nature": {
   "file": "r-i-nature.mp3",
-  "hash": "704d2f1f68d7",
-  "match": 0.89,
-  "seconds": 31.4,
+  "hash": "43b900a1d77f",
+  "match": 0.93,
+  "seconds": 27.3,
   "voices": [
-   "af_bella"
+   "am_puck"
   ]
  },
  "r-i-people": {
   "file": "r-i-people.mp3",
-  "hash": "6c6342c367e6",
-  "match": 0.8,
-  "seconds": 31.5,
+  "hash": "29360b041a7e",
+  "match": 0.9,
+  "seconds": 26.8,
   "voices": [
-   "af_heart"
+   "am_puck"
   ]
  },
  "r-i-service": {
   "file": "r-i-service.mp3",
-  "hash": "2fc89cbdd79a",
+  "hash": "70083e3b92d5",
   "match": 1.0,
-  "seconds": 40.3,
+  "seconds": 31.7,
   "voices": [
-   "am_fenrir"
+   "am_puck"
   ]
  },
  "r-i-sports": {
   "file": "r-i-sports.mp3",
-  "hash": "70f85271e5f7",
+  "hash": "f3df7b0d2150",
   "match": 1.0,
-  "seconds": 45.8,
+  "seconds": 38.4,
   "voices": [
-   "am_michael"
+   "am_puck"
   ]
  },
  "r-i-tech": {
   "file": "r-i-tech.mp3",
-  "hash": "2e956cbd1b76",
-  "match": 1.0,
-  "seconds": 42.4,
+  "hash": "74da6195b51d",
+  "match": 0.94,
+  "seconds": 36.4,
   "voices": [
-   "am_fenrir"
+   "am_puck"
   ]
  },
  "r-i-transport": {
   "file": "r-i-transport.mp3",
-  "hash": "2a261088f627",
-  "match": 1.0,
-  "seconds": 46.8,
+  "hash": "a237b04403d7",
+  "match": 0.97,
+  "seconds": 35.7,
   "voices": [
-   "am_fenrir"
+   "am_puck"
   ]
  },
  "r-i-travel": {
   "file": "r-i-travel.mp3",
-  "hash": "0d87be1808cd",
+  "hash": "3fa8be1c3415",
   "match": 1.0,
-  "seconds": 52.6,
+  "seconds": 46.2,
   "voices": [
-   "am_michael"
+   "am_puck"
   ]
  }
 }
