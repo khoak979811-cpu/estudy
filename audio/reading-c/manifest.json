@@ -143,6 +143,78 @@
    "af_bella"
   ]
  },
+ "r-a-japan-ageing": {
+  "file": "r-a-japan-ageing.mp3",
+  "hash": "6190f65999ec",
+  "match": 0.96,
+  "seconds": 56.5,
+  "voices": [
+   "af_bella"
+  ]
+ },
+ "r-a-japan-akiya": {
+  "file": "r-a-japan-akiya.mp3",
+  "hash": "398aa9b8e671",
+  "match": 0.97,
+  "seconds": 56.2,
+  "voices": [
+   "af_heart"
+  ]
+ },
+ "r-a-japan-karoshi": {
+  "file": "r-a-japan-karoshi.mp3",
+  "hash": "5e813e6c3ab6",
+  "match": 0.97,
+  "seconds": 61.2,
+  "voices": [
+   "am_fenrir"
+  ]
+ },
+ "r-a-japan-monozukuri": {
+  "file": "r-a-japan-monozukuri.mp3",
+  "hash": "b0c3acde39b6",
+  "match": 0.97,
+  "seconds": 64.0,
+  "voices": [
+   "am_fenrir"
+  ]
+ },
+ "r-a-japan-okinawa": {
+  "file": "r-a-japan-okinawa.mp3",
+  "hash": "7f726db3b38c",
+  "match": 0.94,
+  "seconds": 52.7,
+  "voices": [
+   "af_bella"
+  ]
+ },
+ "r-a-japan-robots": {
+  "file": "r-a-japan-robots.mp3",
+  "hash": "e682653f653a",
+  "match": 1.0,
+  "seconds": 56.2,
+  "voices": [
+   "am_michael"
+  ]
+ },
+ "r-a-japan-wabisabi": {
+  "file": "r-a-japan-wabisabi.mp3",
+  "hash": "917dbfb7ca94",
+  "match": 0.96,
+  "seconds": 59.1,
+  "voices": [
+   "am_michael"
+  ]
+ },
+ "r-a-japan-waste": {
+  "file": "r-a-japan-waste.mp3",
+  "hash": "025b530d973b",
+  "match": 0.98,
+  "seconds": 54.2,
+  "voices": [
+   "af_heart"
+  ]
+ },
  "r-a-job": {
   "file": "r-a-job.mp3",
   "hash": "4d03fdbb0baf",
@@ -400,6 +472,78 @@
   "hash": "92bdb014723c",
   "match": 1.0,
   "seconds": 22.0,
+  "voices": [
+   "af_bella"
+  ]
+ },
+ "r-b-japan-bento": {
+  "file": "r-b-japan-bento.mp3",
+  "hash": "6c51f3c2ecc1",
+  "match": 0.97,
+  "seconds": 31.2,
+  "voices": [
+   "af_heart"
+  ]
+ },
+ "r-b-japan-fuji": {
+  "file": "r-b-japan-fuji.mp3",
+  "hash": "81b676c6b1e7",
+  "match": 0.98,
+  "seconds": 32.0,
+  "voices": [
+   "am_fenrir"
+  ]
+ },
+ "r-b-japan-hanami": {
+  "file": "r-b-japan-hanami.mp3",
+  "hash": "1dd7c57f96d1",
+  "match": 0.96,
+  "seconds": 33.2,
+  "voices": [
+   "am_fenrir"
+  ]
+ },
+ "r-b-japan-homestay": {
+  "file": "r-b-japan-homestay.mp3",
+  "hash": "e44b3f99b720",
+  "match": 0.98,
+  "seconds": 30.9,
+  "voices": [
+   "am_michael"
+  ]
+ },
+ "r-b-japan-newyear": {
+  "file": "r-b-japan-newyear.mp3",
+  "hash": "094fdf2d4bab",
+  "match": 0.96,
+  "seconds": 37.0,
+  "voices": [
+   "am_michael"
+  ]
+ },
+ "r-b-japan-onsen": {
+  "file": "r-b-japan-onsen.mp3",
+  "hash": "5fc979dff401",
+  "match": 0.98,
+  "seconds": 26.9,
+  "voices": [
+   "af_heart"
+  ]
+ },
+ "r-b-japan-shinkansen": {
+  "file": "r-b-japan-shinkansen.mp3",
+  "hash": "4ac5fecbdea9",
+  "match": 1.0,
+  "seconds": 30.3,
+  "voices": [
+   "af_bella"
+  ]
+ },
+ "r-b-japan-tokyo": {
+  "file": "r-b-japan-tokyo.mp3",
+  "hash": "d3462b3c34f0",
+  "match": 0.98,
+  "seconds": 28.1,
   "voices": [
    "af_bella"
   ]
@@ -679,6 +823,78 @@
   "hash": "fdf43434728e",
   "match": 0.93,
   "seconds": 38.8,
+  "voices": [
+   "af_heart"
+  ]
+ },
+ "r-i-japan-anime": {
+  "file": "r-i-japan-anime.mp3",
+  "hash": "550cae395b20",
+  "match": 0.98,
+  "seconds": 52.4,
+  "voices": [
+   "am_michael"
+  ]
+ },
+ "r-i-japan-konbini": {
+  "file": "r-i-japan-konbini.mp3",
+  "hash": "15ec942f2a65",
+  "match": 0.96,
+  "seconds": 46.0,
+  "voices": [
+   "af_bella"
+  ]
+ },
+ "r-i-japan-kyoto": {
+  "file": "r-i-japan-kyoto.mp3",
+  "hash": "f4c06f636b9f",
+  "match": 1.0,
+  "seconds": 45.1,
+  "voices": [
+   "af_bella"
+  ]
+ },
+ "r-i-japan-omotenashi": {
+  "file": "r-i-japan-omotenashi.mp3",
+  "hash": "364e74bc3e88",
+  "match": 0.96,
+  "seconds": 58.2,
+  "voices": [
+   "am_fenrir"
+  ]
+ },
+ "r-i-japan-quake": {
+  "file": "r-i-japan-quake.mp3",
+  "hash": "c4e7ea1fc013",
+  "match": 0.96,
+  "seconds": 57.0,
+  "voices": [
+   "am_fenrir"
+  ]
+ },
+ "r-i-japan-school": {
+  "file": "r-i-japan-school.mp3",
+  "hash": "240bd5f3f9a1",
+  "match": 1.0,
+  "seconds": 52.0,
+  "voices": [
+   "am_michael"
+  ]
+ },
+ "r-i-japan-trains": {
+  "file": "r-i-japan-trains.mp3",
+  "hash": "ccd1cee304d0",
+  "match": 0.98,
+  "seconds": 46.2,
+  "voices": [
+   "af_heart"
+  ]
+ },
+ "r-i-japan-washoku": {
+  "file": "r-i-japan-washoku.mp3",
+  "hash": "6b54a4b880cb",
+  "match": 0.97,
+  "seconds": 48.0,
   "voices": [
    "af_heart"
   ]
