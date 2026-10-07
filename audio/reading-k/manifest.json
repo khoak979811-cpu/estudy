@@ -127,6 +127,70 @@
    "af_bella"
   ]
  },
+ "r-a-japan-ageing": {
+  "file": "r-a-japan-ageing.mp3",
+  "hash": "29609d627cd5",
+  "seconds": 64.8,
+  "voices": [
+   "af_bella"
+  ]
+ },
+ "r-a-japan-akiya": {
+  "file": "r-a-japan-akiya.mp3",
+  "hash": "6b9d85d4d4d7",
+  "seconds": 62.3,
+  "voices": [
+   "af_heart"
+  ]
+ },
+ "r-a-japan-karoshi": {
+  "file": "r-a-japan-karoshi.mp3",
+  "hash": "aa1f8b83873c",
+  "seconds": 66.3,
+  "voices": [
+   "am_fenrir"
+  ]
+ },
+ "r-a-japan-monozukuri": {
+  "file": "r-a-japan-monozukuri.mp3",
+  "hash": "cb42a3c0cfbd",
+  "seconds": 56.5,
+  "voices": [
+   "am_fenrir"
+  ]
+ },
+ "r-a-japan-okinawa": {
+  "file": "r-a-japan-okinawa.mp3",
+  "hash": "be8b620126db",
+  "seconds": 61.2,
+  "voices": [
+   "af_bella"
+  ]
+ },
+ "r-a-japan-robots": {
+  "file": "r-a-japan-robots.mp3",
+  "hash": "2ce9744731a0",
+  "seconds": 62.0,
+  "voices": [
+   "am_michael"
+  ]
+ },
+ "r-a-japan-wabisabi": {
+  "file": "r-a-japan-wabisabi.mp3",
+  "hash": "50e5623454a4",
+  "seconds": 61.2,
+  "voices": [
+   "am_michael"
+  ]
+ },
+ "r-a-japan-waste": {
+  "file": "r-a-japan-waste.mp3",
+  "hash": "d026e51cf343",
+  "seconds": 61.1,
+  "voices": [
+   "af_heart"
+  ]
+ },
  "r-a-job": {
   "file": "r-a-job.mp3",
   "hash": "6fdad6b94fdf",
@@ -355,6 +419,70 @@
   "file": "r-b-hotel.mp3",
   "hash": "e430d3b28fea",
   "seconds": 25.9,
+  "voices": [
+   "af_bella"
+  ]
+ },
+ "r-b-japan-bento": {
+  "file": "r-b-japan-bento.mp3",
+  "hash": "c4c2d22b985d",
+  "seconds": 37.4,
+  "voices": [
+   "af_heart"
+  ]
+ },
+ "r-b-japan-fuji": {
+  "file": "r-b-japan-fuji.mp3",
+  "hash": "ba5fd8d879c8",
+  "seconds": 40.5,
+  "voices": [
+   "am_fenrir"
+  ]
+ },
+ "r-b-japan-hanami": {
+  "file": "r-b-japan-hanami.mp3",
+  "hash": "3d47ce6b906c",
+  "seconds": 34.9,
+  "voices": [
+   "am_fenrir"
+  ]
+ },
+ "r-b-japan-homestay": {
+  "file": "r-b-japan-homestay.mp3",
+  "hash": "75e447ae6146",
+  "seconds": 35.4,
+  "voices": [
+   "am_michael"
+  ]
+ },
+ "r-b-japan-newyear": {
+  "file": "r-b-japan-newyear.mp3",
+  "hash": "69d3dfc71e00",
+  "seconds": 41.7,
+  "voices": [
+   "am_michael"
+  ]
+ },
+ "r-b-japan-onsen": {
+  "file": "r-b-japan-onsen.mp3",
+  "hash": "cf72c3beb95e",
+  "seconds": 33.3,
+  "voices": [
+   "af_heart"
+  ]
+ },
+ "r-b-japan-shinkansen": {
+  "file": "r-b-japan-shinkansen.mp3",
+  "hash": "272d8398fe66",
+  "seconds": 38.4,
+  "voices": [
+   "af_bella"
+  ]
+ },
+ "r-b-japan-tokyo": {
+  "file": "r-b-japan-tokyo.mp3",
+  "hash": "63da3eec9325",
+  "seconds": 34.5,
   "voices": [
    "af_bella"
   ]
@@ -603,6 +731,70 @@
   "file": "r-i-hotel.mp3",
   "hash": "25df6c11ae81",
   "seconds": 42.2,
+  "voices": [
+   "af_heart"
+  ]
+ },
+ "r-i-japan-anime": {
+  "file": "r-i-japan-anime.mp3",
+  "hash": "5b772cf5ed17",
+  "seconds": 62.3,
+  "voices": [
+   "am_michael"
+  ]
+ },
+ "r-i-japan-konbini": {
+  "file": "r-i-japan-konbini.mp3",
+  "hash": "dc71fa590271",
+  "seconds": 58.2,
+  "voices": [
+   "af_bella"
+  ]
+ },
+ "r-i-japan-kyoto": {
+  "file": "r-i-japan-kyoto.mp3",
+  "hash": "a2a4bd012086",
+  "seconds": 53.8,
+  "voices": [
+   "af_bella"
+  ]
+ },
+ "r-i-japan-omotenashi": {
+  "file": "r-i-japan-omotenashi.mp3",
+  "hash": "3362b3bb9674",
+  "seconds": 59.6,
+  "voices": [
+   "am_fenrir"
+  ]
+ },
+ "r-i-japan-quake": {
+  "file": "r-i-japan-quake.mp3",
+  "hash": "7dad767b7ede",
+  "seconds": 67.9,
+  "voices": [
+   "am_fenrir"
+  ]
+ },
+ "r-i-japan-school": {
+  "file": "r-i-japan-school.mp3",
+  "hash": "80d3ac893d7e",
+  "seconds": 55.7,
+  "voices": [
+   "am_michael"
+  ]
+ },
+ "r-i-japan-trains": {
+  "file": "r-i-japan-trains.mp3",
+  "hash": "35367375bdd8",
+  "seconds": 51.3,
+  "voices": [
+   "af_heart"
+  ]
+ },
+ "r-i-japan-washoku": {
+  "file": "r-i-japan-washoku.mp3",
+  "hash": "af430f085e19",
+  "seconds": 52.0,
   "voices": [
    "af_heart"
   ]
