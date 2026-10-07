@@ -101,77 +101,77 @@
  },
  "toeic-1-p2": {
   "file": "toeic-1-p2.mp3",
-  "hash": "a903a3135c28",
-  "seconds": 410.8
+  "hash": "92651f782fba",
+  "seconds": 502.0
  },
  "toeic-1-p3": {
   "file": "toeic-1-p3.mp3",
-  "hash": "24bc53f76f6f",
-  "seconds": 459.6
+  "hash": "2220df8aa91a",
+  "seconds": 485.6
  },
  "toeic-1-p4": {
   "file": "toeic-1-p4.mp3",
-  "hash": "c49cd9f793ec",
-  "seconds": 340.8
+  "hash": "048079bded04",
+  "seconds": 360.8
  },
  "toeic-2-p2": {
   "file": "toeic-2-p2.mp3",
-  "hash": "cf969f38e71e",
-  "seconds": 386.1
+  "hash": "97c2a32a464d",
+  "seconds": 477.4
  },
  "toeic-2-p3": {
   "file": "toeic-2-p3.mp3",
-  "hash": "8df045211d74",
-  "seconds": 383.5
+  "hash": "4d9d1fc7fcf8",
+  "seconds": 409.5
  },
  "toeic-2-p4": {
   "file": "toeic-2-p4.mp3",
-  "hash": "54417dc256ef",
-  "seconds": 279.6
+  "hash": "62ef2632767f",
+  "seconds": 299.6
  },
  "toeic-3-p2": {
   "file": "toeic-3-p2.mp3",
-  "hash": "403d92920967",
-  "seconds": 410.7
+  "hash": "74acf46c55ea",
+  "seconds": 502.0
  },
  "toeic-3-p3": {
   "file": "toeic-3-p3.mp3",
-  "hash": "b27e4594dad5",
-  "seconds": 436.7
+  "hash": "4574e54cb2cc",
+  "seconds": 462.7
  },
  "toeic-3-p4": {
   "file": "toeic-3-p4.mp3",
-  "hash": "42f604044c1e",
-  "seconds": 326.8
+  "hash": "aecc892c3742",
+  "seconds": 346.8
  },
  "toeic-4-p2": {
   "file": "toeic-4-p2.mp3",
-  "hash": "6adf6ce7cf23",
-  "seconds": 389.9
+  "hash": "02a854264008",
+  "seconds": 481.1
  },
  "toeic-4-p3": {
   "file": "toeic-4-p3.mp3",
-  "hash": "8e7e7dd4f933",
-  "seconds": 380.9
+  "hash": "637532d2d8e9",
+  "seconds": 406.9
  },
  "toeic-4-p4": {
   "file": "toeic-4-p4.mp3",
-  "hash": "02559cee4176",
-  "seconds": 310.7
+  "hash": "1ba5ec1195ed",
+  "seconds": 330.7
  },
  "toeic-5-p2": {
   "file": "toeic-5-p2.mp3",
-  "hash": "703dd67d20c8",
-  "seconds": 400.5
+  "hash": "37f26e024e63",
+  "seconds": 491.8
  },
  "toeic-5-p3": {
   "file": "toeic-5-p3.mp3",
-  "hash": "c80256aac417",
-  "seconds": 374.9
+  "hash": "710cdd0945a2",
+  "seconds": 400.9
  },
  "toeic-5-p4": {
   "file": "toeic-5-p4.mp3",
-  "hash": "95a928ac4b9d",
-  "seconds": 288.5
+  "hash": "7625c524a136",
+  "seconds": 308.5
  }
 }
