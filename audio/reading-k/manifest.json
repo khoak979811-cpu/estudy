@@ -7,6 +7,14 @@
    "af_heart"
   ]
  },
+ "r-a-aiart": {
+  "file": "r-a-aiart.mp3",
+  "hash": "b1a652efa757",
+  "seconds": 88.1,
+  "voices": [
+   "af_heart"
+  ]
+ },
  "r-a-anchoring": {
   "file": "r-a-anchoring.mp3",
   "hash": "47eed497cbd6",
@@ -131,6 +139,14 @@
   "file": "r-a-enviro.mp3",
   "hash": "588a5f076f67",
   "seconds": 72.8,
+  "voices": [
+   "am_fenrir"
+  ]
+ },
+ "r-a-ewaste": {
+  "file": "r-a-ewaste.mp3",
+  "hash": "7c5bb930ab08",
+  "seconds": 94.1,
   "voices": [
    "am_fenrir"
   ]
@@ -271,6 +287,14 @@
    "af_heart"
   ]
  },
+ "r-a-japan-fukushima": {
+  "file": "r-a-japan-fukushima.mp3",
+  "hash": "66f39699fd4b",
+  "seconds": 91.6,
+  "voices": [
+   "af_heart"
+  ]
+ },
  "r-a-japan-haiku": {
   "file": "r-a-japan-haiku.mp3",
   "hash": "e90cf8f4e809",
@@ -291,6 +315,14 @@
   "file": "r-a-japan-ikigai.mp3",
   "hash": "80afc2ce52cd",
   "seconds": 74.0,
+  "voices": [
+   "am_fenrir"
+  ]
+ },
+ "r-a-japan-japonisme": {
+  "file": "r-a-japan-japonisme.mp3",
+  "hash": "3d173d3ad9ed",
+  "seconds": 91.8,
   "voices": [
    "am_fenrir"
   ]
@@ -355,6 +387,14 @@
   "file": "r-a-japan-okinawa.mp3",
   "hash": "be8b620126db",
   "seconds": 61.2,
+  "voices": [
+   "af_bella"
+  ]
+ },
+ "r-a-japan-railsafety": {
+  "file": "r-a-japan-railsafety.mp3",
+  "hash": "b757873e9f93",
+  "seconds": 84.9,
   "voices": [
    "af_bella"
   ]
@@ -487,6 +527,22 @@
    "af_bella"
   ]
  },
+ "r-a-mangroves": {
+  "file": "r-a-mangroves.mp3",
+  "hash": "a60a2fb2f5df",
+  "seconds": 96.8,
+  "voices": [
+   "am_michael"
+  ]
+ },
+ "r-a-microbiome": {
+  "file": "r-a-microbiome.mp3",
+  "hash": "8b244cbb00a4",
+  "seconds": 95.7,
+  "voices": [
+   "am_michael"
+  ]
+ },
  "r-a-microplastics": {
   "file": "r-a-microplastics.mp3",
   "hash": "175978210294",
@@ -607,6 +663,14 @@
    "af_heart"
   ]
  },
+ "r-a-sunkcost": {
+  "file": "r-a-sunkcost.mp3",
+  "hash": "dc25326e857e",
+  "seconds": 90.5,
+  "voices": [
+   "af_bella"
+  ]
+ },
  "r-a-tech": {
   "file": "r-a-tech.mp3",
   "hash": "e209c68ac9ff",
@@ -695,6 +759,14 @@
    "af_heart"
   ]
  },
+ "r-b-adoptcat": {
+  "file": "r-b-adoptcat.mp3",
+  "hash": "e2dea313427a",
+  "seconds": 45.9,
+  "voices": [
+   "am_michael"
+  ]
+ },
  "r-b-arts": {
   "file": "r-b-arts.mp3",
   "hash": "9e6a4dd3e13e",
@@ -743,10 +815,26 @@
    "am_fenrir"
   ]
  },
+ "r-b-bikeride": {
+  "file": "r-b-bikeride.mp3",
+  "hash": "5ea155b46952",
+  "seconds": 44.2,
+  "voices": [
+   "am_michael"
+  ]
+ },
  "r-b-birthday": {
   "file": "r-b-birthday.mp3",
   "hash": "6fb9dd8b2fd2",
   "seconds": 32.1,
+  "voices": [
+   "af_bella"
+  ]
+ },
+ "r-b-bookclub": {
+  "file": "r-b-bookclub.mp3",
+  "hash": "a0a55f930901",
+  "seconds": 42.3,
   "voices": [
    "af_bella"
   ]
@@ -855,6 +943,14 @@
    "af_bella"
   ]
  },
+ "r-b-firstday": {
+  "file": "r-b-firstday.mp3",
+  "hash": "89d54aac2029",
+  "seconds": 42.0,
+  "voices": [
+   "af_heart"
+  ]
+ },
  "r-b-firstflight": {
   "file": "r-b-firstflight.mp3",
   "hash": "50a1179f1e82",
@@ -949,6 +1045,14 @@
   "seconds": 34.9,
   "voices": [
    "am_fenrir"
+  ]
+ },
+ "r-b-japan-hinamatsuri": {
+  "file": "r-b-japan-hinamatsuri.mp3",
+  "hash": "002717748a2d",
+  "seconds": 45.6,
+  "voices": [
+   "af_bella"
   ]
  },
  "r-b-japan-homestay": {
@@ -1047,12 +1151,28 @@
    "af_heart"
   ]
  },
+ "r-b-japan-schoolcleaning": {
+  "file": "r-b-japan-schoolcleaning.mp3",
+  "hash": "412566084009",
+  "seconds": 45.4,
+  "voices": [
+   "af_heart"
+  ]
+ },
  "r-b-japan-setsubun": {
   "file": "r-b-japan-setsubun.mp3",
   "hash": "395446019167",
   "seconds": 44.5,
   "voices": [
    "af_bella"
+  ]
+ },
+ "r-b-japan-shichigosan": {
+  "file": "r-b-japan-shichigosan.mp3",
+  "hash": "92b105bc97d0",
+  "seconds": 52.8,
+  "voices": [
+   "am_fenrir"
   ]
  },
  "r-b-japan-shinkansen": {
@@ -1237,6 +1357,14 @@
   "seconds": 42.5,
   "voices": [
    "am_michael"
+  ]
+ },
+ "r-b-picnic": {
+  "file": "r-b-picnic.mp3",
+  "hash": "c6fd2e21a74b",
+  "seconds": 45.2,
+  "voices": [
+   "am_fenrir"
   ]
  },
  "r-b-rainyseason": {
@@ -1503,6 +1631,14 @@
    "af_bella"
   ]
  },
+ "r-i-esports": {
+  "file": "r-i-esports.mp3",
+  "hash": "a012348f9b27",
+  "seconds": 83.4,
+  "voices": [
+   "am_fenrir"
+  ]
+ },
  "r-i-fastfashion": {
   "file": "r-i-fastfashion.mp3",
   "hash": "ecb1dfdc45c1",
@@ -1611,6 +1747,14 @@
   "file": "r-i-japan-catisland.mp3",
   "hash": "4cca040a2a3e",
   "seconds": 58.4,
+  "voices": [
+   "af_bella"
+  ]
+ },
+ "r-i-japan-cleanfans": {
+  "file": "r-i-japan-cleanfans.mp3",
+  "hash": "14e0b45e987c",
+  "seconds": 70.1,
   "voices": [
    "af_bella"
   ]
@@ -1735,6 +1879,14 @@
    "af_heart"
   ]
  },
+ "r-i-japan-sakurafront": {
+  "file": "r-i-japan-sakurafront.mp3",
+  "hash": "a235d1a3c9d5",
+  "seconds": 84.1,
+  "voices": [
+   "am_fenrir"
+  ]
+ },
  "r-i-japan-school": {
   "file": "r-i-japan-school.mp3",
   "hash": "80d3ac893d7e",
@@ -1755,6 +1907,14 @@
   "file": "r-i-japan-snowmonkeys.mp3",
   "hash": "220f8440874c",
   "seconds": 58.4,
+  "voices": [
+   "af_heart"
+  ]
+ },
+ "r-i-japan-tattoos": {
+  "file": "r-i-japan-tattoos.mp3",
+  "hash": "8248cd984b3a",
+  "seconds": 70.3,
   "voices": [
    "af_heart"
   ]
@@ -1815,12 +1975,28 @@
    "am_michael"
   ]
  },
+ "r-i-laughter": {
+  "file": "r-i-laughter.mp3",
+  "hash": "8abc040e1f0f",
+  "seconds": 81.2,
+  "voices": [
+   "am_michael"
+  ]
+ },
  "r-i-lefthanded": {
   "file": "r-i-lefthanded.mp3",
   "hash": "1e5ce118f32f",
   "seconds": 64.5,
   "voices": [
    "af_heart"
+  ]
+ },
+ "r-i-libraries": {
+  "file": "r-i-libraries.mp3",
+  "hash": "5b2a5afefe2d",
+  "seconds": 75.4,
+  "voices": [
+   "af_bella"
   ]
  },
  "r-i-life": {
@@ -1853,6 +2029,14 @@
   "seconds": 68.0,
   "voices": [
    "af_bella"
+  ]
+ },
+ "r-i-miyawaki": {
+  "file": "r-i-miyawaki.mp3",
+  "hash": "76dd197c92d3",
+  "seconds": 81.1,
+  "voices": [
+   "am_michael"
   ]
  },
  "r-i-naps": {
@@ -1981,6 +2165,14 @@
   "seconds": 65.8,
   "voices": [
    "am_michael"
+  ]
+ },
+ "r-i-subscriptions": {
+  "file": "r-i-subscriptions.mp3",
+  "hash": "e8dff10ef8f2",
+  "seconds": 75.6,
+  "voices": [
+   "af_heart"
   ]
  },
  "r-i-teaching": {
