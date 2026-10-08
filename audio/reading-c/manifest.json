@@ -8,6 +8,15 @@
    "af_heart"
   ]
  },
+ "r-a-aiart": {
+  "file": "r-a-aiart.mp3",
+  "hash": "8f3144aad2f5",
+  "match": 0.95,
+  "seconds": 74.7,
+  "voices": [
+   "af_heart"
+  ]
+ },
  "r-a-anchoring": {
   "file": "r-a-anchoring.mp3",
   "hash": "efe042ef00f3",
@@ -148,6 +157,15 @@
   "hash": "4c10d460e819",
   "match": 0.96,
   "seconds": 67.4,
+  "voices": [
+   "am_fenrir"
+  ]
+ },
+ "r-a-ewaste": {
+  "file": "r-a-ewaste.mp3",
+  "hash": "9da8a2eb7798",
+  "match": 0.94,
+  "seconds": 96.0,
   "voices": [
    "am_fenrir"
   ]
@@ -573,6 +591,15 @@
   "seconds": 71.7,
   "voices": [
    "af_bella"
+  ]
+ },
+ "r-a-mangroves": {
+  "file": "r-a-mangroves.mp3",
+  "hash": "8f3606f3f205",
+  "match": 0.94,
+  "seconds": 90.6,
+  "voices": [
+   "am_michael"
   ]
  },
  "r-a-microbiome": {
