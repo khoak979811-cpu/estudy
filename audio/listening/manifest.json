@@ -335,6 +335,15 @@
    "am_michael"
   ]
  },
+ "ls-a-coralreefs": {
+  "file": "ls-a-coralreefs.mp3",
+  "hash": "b7457688e513",
+  "seconds": 104.7,
+  "voices": [
+   "af_bella",
+   "am_michael"
+  ]
+ },
  "ls-a-country": {
   "file": "ls-a-country.mp3",
   "hash": "adbd6d78f6e1",
@@ -470,6 +479,14 @@
    "am_fenrir"
   ]
  },
+ "ls-a-japan-kaizen": {
+  "file": "ls-a-japan-kaizen.mp3",
+  "hash": "ea19963696c1",
+  "seconds": 107.7,
+  "voices": [
+   "af_heart"
+  ]
+ },
  "ls-a-japan-quakealert": {
   "file": "ls-a-japan-quakealert.mp3",
   "hash": "3f8f9fa05896",
@@ -526,6 +543,15 @@
   "hash": "c5f3836443f8",
   "seconds": 96.3,
   "voices": [
+   "am_fenrir"
+  ]
+ },
+ "ls-a-musictherapy": {
+  "file": "ls-a-musictherapy.mp3",
+  "hash": "9e899f884678",
+  "seconds": 112.5,
+  "voices": [
+   "af_heart",
    "am_fenrir"
   ]
  },
@@ -675,6 +701,15 @@
   "voices": [
    "af_bella",
    "am_fenrir"
+  ]
+ },
+ "ls-b-clothesreturn": {
+  "file": "ls-b-clothesreturn.mp3",
+  "hash": "3327263b428c",
+  "seconds": 56.9,
+  "voices": [
+   "af_bella",
+   "am_michael"
   ]
  },
  "ls-b-country": {
@@ -855,6 +890,15 @@
    "am_michael"
   ]
  },
+ "ls-b-japan-ticketmachine": {
+  "file": "ls-b-japan-ticketmachine.mp3",
+  "hash": "81b47fb9b8b5",
+  "seconds": 68.1,
+  "voices": [
+   "af_bella",
+   "am_fenrir"
+  ]
+ },
  "ls-b-job": {
   "file": "ls-b-job.mp3",
   "hash": "00544cfdb7e4",
@@ -888,6 +932,15 @@
   "seconds": 24.4,
   "voices": [
    "af_heart"
+  ]
+ },
+ "ls-b-lostbag": {
+  "file": "ls-b-lostbag.mp3",
+  "hash": "2786a5430f88",
+  "seconds": 59.1,
+  "voices": [
+   "af_heart",
+   "am_michael"
   ]
  },
  "ls-b-lostphone": {
@@ -1039,6 +1092,15 @@
    "af_heart"
   ]
  },
+ "ls-i-bikeshare": {
+  "file": "ls-i-bikeshare.mp3",
+  "hash": "8dfdaf93a1a4",
+  "seconds": 82.0,
+  "voices": [
+   "af_heart",
+   "am_michael"
+  ]
+ },
  "ls-i-carrental": {
   "file": "ls-i-carrental.mp3",
   "hash": "cd9e368a63a2",
@@ -1161,6 +1223,15 @@
    "am_fenrir"
   ]
  },
+ "ls-i-japan-cityoffice": {
+  "file": "ls-i-japan-cityoffice.mp3",
+  "hash": "03a2f89828b0",
+  "seconds": 86.3,
+  "voices": [
+   "af_heart",
+   "am_fenrir"
+  ]
+ },
  "ls-i-japan-drill": {
   "file": "ls-i-japan-drill.mp3",
   "hash": "f26f7b75da04",
@@ -1237,6 +1308,15 @@
   "voices": [
    "af_bella",
    "am_michael"
+  ]
+ },
+ "ls-i-jobinterview": {
+  "file": "ls-i-jobinterview.mp3",
+  "hash": "f0303a23f800",
+  "seconds": 110.0,
+  "voices": [
+   "af_bella",
+   "am_fenrir"
   ]
  },
  "ls-i-life": {
