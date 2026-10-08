@@ -8,6 +8,15 @@
    "am_puck"
   ]
  },
+ "r-a-aiart": {
+  "file": "r-a-aiart.mp3",
+  "hash": "b2a6793d7255",
+  "match": 0.95,
+  "seconds": 76.8,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-a-anchoring": {
   "file": "r-a-anchoring.mp3",
   "hash": "088545632a48",
@@ -148,6 +157,15 @@
   "hash": "8a597bb0eae4",
   "match": 0.97,
   "seconds": 53.7,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-ewaste": {
+  "file": "r-a-ewaste.mp3",
+  "hash": "9cc0a2ca525f",
+  "match": 0.94,
+  "seconds": 78.1,
   "voices": [
    "am_puck"
   ]
@@ -305,6 +323,15 @@
    "am_puck"
   ]
  },
+ "r-a-japan-fukushima": {
+  "file": "r-a-japan-fukushima.mp3",
+  "hash": "037a80b7709e",
+  "match": 0.87,
+  "seconds": 80.7,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-a-japan-haiku": {
   "file": "r-a-japan-haiku.mp3",
   "hash": "91d2430f0e50",
@@ -328,6 +355,15 @@
   "hash": "9b4bdced1036",
   "match": 0.97,
   "seconds": 61.4,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-japan-japonisme": {
+  "file": "r-a-japan-japonisme.mp3",
+  "hash": "a342320fb862",
+  "match": 0.97,
+  "seconds": 71.5,
   "voices": [
    "am_puck"
   ]
@@ -400,6 +436,15 @@
   "hash": "6e887a4cd65f",
   "match": 0.94,
   "seconds": 51.3,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-japan-railsafety": {
+  "file": "r-a-japan-railsafety.mp3",
+  "hash": "9231a0acf340",
+  "match": 0.93,
+  "seconds": 70.0,
   "voices": [
    "am_puck"
   ]
@@ -548,6 +593,24 @@
    "am_puck"
   ]
  },
+ "r-a-mangroves": {
+  "file": "r-a-mangroves.mp3",
+  "hash": "fd032969d5a1",
+  "match": 0.93,
+  "seconds": 79.2,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-microbiome": {
+  "file": "r-a-microbiome.mp3",
+  "hash": "6d8501caf829",
+  "match": 0.96,
+  "seconds": 75.6,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-a-microplastics": {
   "file": "r-a-microplastics.mp3",
   "hash": "4e8e0a41c537",
@@ -683,6 +746,15 @@
    "am_puck"
   ]
  },
+ "r-a-sunkcost": {
+  "file": "r-a-sunkcost.mp3",
+  "hash": "4753105ab493",
+  "match": 0.95,
+  "seconds": 79.4,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-a-tech": {
   "file": "r-a-tech.mp3",
   "hash": "4b237cf14af0",
@@ -782,6 +854,15 @@
    "am_puck"
   ]
  },
+ "r-b-adoptcat": {
+  "file": "r-b-adoptcat.mp3",
+  "hash": "f494d3e160c1",
+  "match": 0.93,
+  "seconds": 32.6,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-b-arts": {
   "file": "r-b-arts.mp3",
   "hash": "8788fcd2891b",
@@ -836,11 +917,29 @@
    "am_puck"
   ]
  },
+ "r-b-bikeride": {
+  "file": "r-b-bikeride.mp3",
+  "hash": "fd5482ca6b66",
+  "match": 0.94,
+  "seconds": 31.6,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-b-birthday": {
   "file": "r-b-birthday.mp3",
   "hash": "b711dd96a03a",
   "match": 0.94,
   "seconds": 26.3,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-bookclub": {
+  "file": "r-b-bookclub.mp3",
+  "hash": "12d262b169c8",
+  "match": 0.92,
+  "seconds": 31.9,
   "voices": [
    "am_puck"
   ]
@@ -958,6 +1057,15 @@
   "hash": "58343d8be8d1",
   "match": 0.98,
   "seconds": 18.1,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-firstday": {
+  "file": "r-b-firstday.mp3",
+  "hash": "649641135451",
+  "match": 0.98,
+  "seconds": 33.8,
   "voices": [
    "am_puck"
   ]
@@ -1187,11 +1295,29 @@
    "am_puck"
   ]
  },
+ "r-b-japan-schoolcleaning": {
+  "file": "r-b-japan-schoolcleaning.mp3",
+  "hash": "dd129ec6cc84",
+  "match": 0.92,
+  "seconds": 36.9,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-b-japan-setsubun": {
   "file": "r-b-japan-setsubun.mp3",
   "hash": "249855c60eee",
   "match": 0.96,
   "seconds": 35.4,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-japan-shichigosan": {
+  "file": "r-b-japan-shichigosan.mp3",
+  "hash": "1b343c21afb6",
+  "match": 0.95,
+  "seconds": 39.0,
   "voices": [
    "am_puck"
   ]
@@ -1399,6 +1525,15 @@
   "hash": "0650776f2357",
   "match": 0.98,
   "seconds": 33.4,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-picnic": {
+  "file": "r-b-picnic.mp3",
+  "hash": "578ee7c69c95",
+  "match": 1.0,
+  "seconds": 33.8,
   "voices": [
    "am_puck"
   ]
@@ -1700,6 +1835,15 @@
    "am_puck"
   ]
  },
+ "r-i-esports": {
+  "file": "r-i-esports.mp3",
+  "hash": "f235a980be7b",
+  "match": 0.96,
+  "seconds": 65.8,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-i-fastfashion": {
   "file": "r-i-fastfashion.mp3",
   "hash": "4cc13fab1df2",
@@ -1822,6 +1966,15 @@
   "hash": "a9bdcff8c617",
   "match": 0.94,
   "seconds": 49.5,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-japan-cleanfans": {
+  "file": "r-i-japan-cleanfans.mp3",
+  "hash": "be15eb460212",
+  "match": 0.97,
+  "seconds": 58.9,
   "voices": [
    "am_puck"
   ]
@@ -1961,6 +2114,15 @@
    "am_puck"
   ]
  },
+ "r-i-japan-sakurafront": {
+  "file": "r-i-japan-sakurafront.mp3",
+  "hash": "b49585322f56",
+  "match": 0.98,
+  "seconds": 60.4,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-i-japan-school": {
   "file": "r-i-japan-school.mp3",
   "hash": "79dcb55e1d83",
@@ -1984,6 +2146,15 @@
   "hash": "fced5d5377ee",
   "match": 0.97,
   "seconds": 52.8,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-japan-tattoos": {
+  "file": "r-i-japan-tattoos.mp3",
+  "hash": "608f9d73665d",
+  "match": 0.97,
+  "seconds": 61.3,
   "voices": [
    "am_puck"
   ]
@@ -2051,11 +2222,29 @@
    "am_puck"
   ]
  },
+ "r-i-laughter": {
+  "file": "r-i-laughter.mp3",
+  "hash": "2bfe9306db00",
+  "match": 0.97,
+  "seconds": 67.8,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-i-lefthanded": {
   "file": "r-i-lefthanded.mp3",
   "hash": "6cfdc1487532",
   "match": 0.96,
   "seconds": 54.5,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-libraries": {
+  "file": "r-i-libraries.mp3",
+  "hash": "1368dacececc",
+  "match": 0.96,
+  "seconds": 61.9,
   "voices": [
    "am_puck"
   ]
@@ -2092,6 +2281,15 @@
   "hash": "2a3c39e2000a",
   "match": 0.95,
   "seconds": 55.5,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-miyawaki": {
+  "file": "r-i-miyawaki.mp3",
+  "hash": "4d02ed8bca0f",
+  "match": 0.97,
+  "seconds": 63.3,
   "voices": [
    "am_puck"
   ]
@@ -2236,6 +2434,15 @@
   "hash": "876d4520de24",
   "match": 0.94,
   "seconds": 48.9,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-subscriptions": {
+  "file": "r-i-subscriptions.mp3",
+  "hash": "5753ef202bbd",
+  "match": 0.97,
+  "seconds": 62.0,
   "voices": [
    "am_puck"
   ]

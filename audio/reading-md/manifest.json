@@ -8,6 +8,42 @@
    "am_puck"
   ]
  },
+ "r-a-aiart": {
+  "file": "r-a-aiart.mp3",
+  "hash": "745f70c23c36",
+  "match": 0.95,
+  "seconds": 76.6,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-anchoring": {
+  "file": "r-a-anchoring.mp3",
+  "hash": "94df255deee5",
+  "match": 0.94,
+  "seconds": 67.6,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-ancientdna": {
+  "file": "r-a-ancientdna.mp3",
+  "hash": "8113414b60e4",
+  "match": 0.88,
+  "seconds": 73.6,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-antibiotics": {
+  "file": "r-a-antibiotics.mp3",
+  "hash": "0fbe649a196c",
+  "match": 0.97,
+  "seconds": 70.3,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-a-arts": {
   "file": "r-a-arts.mp3",
   "hash": "d15b3ba238c6",
@@ -26,6 +62,15 @@
    "am_puck"
   ]
  },
+ "r-a-boredom": {
+  "file": "r-a-boredom.mp3",
+  "hash": "0969c7960156",
+  "match": 0.98,
+  "seconds": 63.0,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-a-country": {
   "file": "r-a-country.mp3",
   "hash": "180b9b1d33f1",
@@ -35,11 +80,56 @@
    "am_puck"
   ]
  },
+ "r-a-crispr": {
+  "file": "r-a-crispr.mp3",
+  "hash": "0f4530df759c",
+  "match": 0.94,
+  "seconds": 77.8,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-deepsea": {
+  "file": "r-a-deepsea.mp3",
+  "hash": "84c6b54a4474",
+  "match": 0.88,
+  "seconds": 71.4,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-deextinction": {
+  "file": "r-a-deextinction.mp3",
+  "hash": "5848bdc7f922",
+  "match": 0.97,
+  "seconds": 60.2,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-desalination": {
+  "file": "r-a-desalination.mp3",
+  "hash": "05f18391635e",
+  "match": 1.0,
+  "seconds": 70.5,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-a-disaster": {
   "file": "r-a-disaster.mp3",
   "hash": "5918a3c81055",
   "match": 0.98,
   "seconds": 33.2,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-dyinglanguages": {
+  "file": "r-a-dyinglanguages.mp3",
+  "hash": "7288e60d1bb2",
+  "match": 0.92,
+  "seconds": 68.3,
   "voices": [
    "am_puck"
   ]
@@ -67,6 +157,15 @@
   "hash": "32fb6382ba0e",
   "match": 1.0,
   "seconds": 54.4,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-ewaste": {
+  "file": "r-a-ewaste.mp3",
+  "hash": "45c4e8330bf5",
+  "match": 0.94,
+  "seconds": 78.4,
   "voices": [
    "am_puck"
   ]
@@ -116,6 +215,51 @@
    "am_puck"
   ]
  },
+ "r-a-fourdayweek": {
+  "file": "r-a-fourdayweek.mp3",
+  "hash": "36e7efe587c5",
+  "match": 0.92,
+  "seconds": 68.0,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-fungi": {
+  "file": "r-a-fungi.mp3",
+  "hash": "642fb3f632e8",
+  "match": 0.95,
+  "seconds": 68.3,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-geoengineering": {
+  "file": "r-a-geoengineering.mp3",
+  "hash": "bf40b2359a1b",
+  "match": 0.96,
+  "seconds": 74.9,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-groupthink": {
+  "file": "r-a-groupthink.mp3",
+  "hash": "726a3f5726b4",
+  "match": 0.97,
+  "seconds": 67.4,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-habits": {
+  "file": "r-a-habits.mp3",
+  "hash": "621b5aef0e23",
+  "match": 0.97,
+  "seconds": 57.3,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-a-health": {
   "file": "r-a-health.mp3",
   "hash": "d6ffa87687fb",
@@ -152,6 +296,258 @@
    "am_puck"
   ]
  },
+ "r-a-japan-ainu": {
+  "file": "r-a-japan-ainu.mp3",
+  "hash": "fcafb0eca9ea",
+  "match": 0.94,
+  "seconds": 64.7,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-japan-akiya": {
+  "file": "r-a-japan-akiya.mp3",
+  "hash": "1ba01963d3e4",
+  "match": 0.93,
+  "seconds": 55.0,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-japan-edo": {
+  "file": "r-a-japan-edo.mp3",
+  "hash": "69d73a8921df",
+  "match": 0.94,
+  "seconds": 59.8,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-japan-fukushima": {
+  "file": "r-a-japan-fukushima.mp3",
+  "hash": "f033e204673c",
+  "match": 0.87,
+  "seconds": 82.1,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-japan-haiku": {
+  "file": "r-a-japan-haiku.mp3",
+  "hash": "642bcb17646d",
+  "match": 0.94,
+  "seconds": 70.1,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-japan-hikikomori": {
+  "file": "r-a-japan-hikikomori.mp3",
+  "hash": "d2cc2b16a507",
+  "match": 0.96,
+  "seconds": 59.2,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-japan-ikigai": {
+  "file": "r-a-japan-ikigai.mp3",
+  "hash": "caded741e99c",
+  "match": 0.97,
+  "seconds": 62.0,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-japan-japonisme": {
+  "file": "r-a-japan-japonisme.mp3",
+  "hash": "88296a3e8365",
+  "match": 0.96,
+  "seconds": 70.9,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-japan-karoshi": {
+  "file": "r-a-japan-karoshi.mp3",
+  "hash": "89c76071ecba",
+  "match": 0.97,
+  "seconds": 51.6,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-japan-keigo": {
+  "file": "r-a-japan-keigo.mp3",
+  "hash": "0778ec849707",
+  "match": 0.92,
+  "seconds": 61.1,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-japan-kintsugi": {
+  "file": "r-a-japan-kintsugi.mp3",
+  "hash": "f49da8254fdc",
+  "match": 0.96,
+  "seconds": 62.1,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-japan-lifetime": {
+  "file": "r-a-japan-lifetime.mp3",
+  "hash": "39634477c2be",
+  "match": 0.94,
+  "seconds": 74.6,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-japan-meiji": {
+  "file": "r-a-japan-meiji.mp3",
+  "hash": "2c49bb3a80e7",
+  "match": 1.0,
+  "seconds": 60.4,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-japan-minamata": {
+  "file": "r-a-japan-minamata.mp3",
+  "hash": "a3e12646a504",
+  "match": 0.96,
+  "seconds": 69.4,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-japan-monozukuri": {
+  "file": "r-a-japan-monozukuri.mp3",
+  "hash": "9e5988907e6a",
+  "match": 0.97,
+  "seconds": 54.0,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-japan-okinawa": {
+  "file": "r-a-japan-okinawa.mp3",
+  "hash": "ece8cc4b5712",
+  "match": 0.93,
+  "seconds": 53.5,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-japan-railsafety": {
+  "file": "r-a-japan-railsafety.mp3",
+  "hash": "3a85f6af2464",
+  "match": 0.93,
+  "seconds": 74.4,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-japan-robots": {
+  "file": "r-a-japan-robots.mp3",
+  "hash": "96c4430c871f",
+  "match": 0.98,
+  "seconds": 49.7,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-japan-sakoku": {
+  "file": "r-a-japan-sakoku.mp3",
+  "hash": "4cc4f2f51ab9",
+  "match": 0.94,
+  "seconds": 69.0,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-japan-seismic": {
+  "file": "r-a-japan-seismic.mp3",
+  "hash": "fc7a7da3a107",
+  "match": 0.96,
+  "seconds": 69.0,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-japan-shinrinyoku": {
+  "file": "r-a-japan-shinrinyoku.mp3",
+  "hash": "c55922d21d96",
+  "match": 0.97,
+  "seconds": 59.5,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-japan-shinto": {
+  "file": "r-a-japan-shinto.mp3",
+  "hash": "6972494775d5",
+  "match": 0.97,
+  "seconds": 50.8,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-japan-tsunamistones": {
+  "file": "r-a-japan-tsunamistones.mp3",
+  "hash": "0b262b88df3d",
+  "match": 0.94,
+  "seconds": 66.1,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-japan-tuna": {
+  "file": "r-a-japan-tuna.mp3",
+  "hash": "9c4f291add88",
+  "match": 0.94,
+  "seconds": 61.5,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-japan-wabisabi": {
+  "file": "r-a-japan-wabisabi.mp3",
+  "hash": "19b07793c1a1",
+  "match": 0.96,
+  "seconds": 53.1,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-japan-waste": {
+  "file": "r-a-japan-waste.mp3",
+  "hash": "5a8773197e80",
+  "match": 0.95,
+  "seconds": 54.9,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-japan-womenwork": {
+  "file": "r-a-japan-womenwork.mp3",
+  "hash": "6718cab5069f",
+  "match": 1.0,
+  "seconds": 66.0,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-japan-writing": {
+  "file": "r-a-japan-writing.mp3",
+  "hash": "1f95294f8952",
+  "match": 0.92,
+  "seconds": 72.4,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-a-job": {
   "file": "r-a-job.mp3",
   "hash": "67df033b634f",
@@ -179,6 +575,69 @@
    "am_puck"
   ]
  },
+ "r-a-lightpollution": {
+  "file": "r-a-lightpollution.mp3",
+  "hash": "4b86e033554d",
+  "match": 0.95,
+  "seconds": 62.0,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-loneliness": {
+  "file": "r-a-loneliness.mp3",
+  "hash": "4fdd30f7e6b2",
+  "match": 0.98,
+  "seconds": 73.1,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-mangroves": {
+  "file": "r-a-mangroves.mp3",
+  "hash": "cbc069ce462f",
+  "match": 0.93,
+  "seconds": 77.1,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-microbiome": {
+  "file": "r-a-microbiome.mp3",
+  "hash": "1e62ee75c175",
+  "match": 0.94,
+  "seconds": 75.6,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-microplastics": {
+  "file": "r-a-microplastics.mp3",
+  "hash": "dde15fd6a5d7",
+  "match": 0.94,
+  "seconds": 59.8,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-misinformation": {
+  "file": "r-a-misinformation.mp3",
+  "hash": "10830e9963aa",
+  "match": 0.96,
+  "seconds": 53.5,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-moneyhappiness": {
+  "file": "r-a-moneyhappiness.mp3",
+  "hash": "3f14b9b88408",
+  "match": 0.94,
+  "seconds": 66.2,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-a-nature": {
   "file": "r-a-nature.mp3",
   "hash": "54e201e7fa1d",
@@ -197,11 +656,56 @@
    "am_puck"
   ]
  },
+ "r-a-nudge": {
+  "file": "r-a-nudge.mp3",
+  "hash": "e1d25f730027",
+  "match": 0.93,
+  "seconds": 71.7,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-oceanacid": {
+  "file": "r-a-oceanacid.mp3",
+  "hash": "dec4132d1bd6",
+  "match": 0.95,
+  "seconds": 66.1,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-a-people": {
   "file": "r-a-people.mp3",
   "hash": "dc45335707d1",
   "match": 1.0,
   "seconds": 35.9,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-placebo": {
+  "file": "r-a-placebo.mp3",
+  "hash": "1d8acafd6f85",
+  "match": 0.94,
+  "seconds": 63.7,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-procrastination": {
+  "file": "r-a-procrastination.mp3",
+  "hash": "8f576efc547a",
+  "match": 0.97,
+  "seconds": 67.0,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-rewilding": {
+  "file": "r-a-rewilding.mp3",
+  "hash": "387f46e7dd5c",
+  "match": 0.91,
+  "seconds": 70.4,
   "voices": [
    "am_puck"
   ]
@@ -215,11 +719,38 @@
    "am_puck"
   ]
  },
+ "r-a-spacejunk": {
+  "file": "r-a-spacejunk.mp3",
+  "hash": "ee6cf1bc6aef",
+  "match": 0.98,
+  "seconds": 59.7,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-a-sports": {
   "file": "r-a-sports.mp3",
   "hash": "2f96f415978f",
   "match": 0.93,
   "seconds": 47.5,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-sportsdata": {
+  "file": "r-a-sportsdata.mp3",
+  "hash": "9c5fbe47ccdd",
+  "match": 0.97,
+  "seconds": 66.6,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-sunkcost": {
+  "file": "r-a-sunkcost.mp3",
+  "hash": "380def38bd0c",
+  "match": 0.95,
+  "seconds": 76.9,
   "voices": [
    "am_puck"
   ]
@@ -238,6 +769,15 @@
   "hash": "0580e251e710",
   "match": 0.88,
   "seconds": 39.5,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-translation": {
+  "file": "r-a-translation.mp3",
+  "hash": "4f3cc7e6ccfd",
+  "match": 1.0,
+  "seconds": 60.0,
   "voices": [
    "am_puck"
   ]
@@ -278,11 +818,47 @@
    "am_puck"
   ]
  },
+ "r-a-ubi": {
+  "file": "r-a-ubi.mp3",
+  "hash": "c7883105095e",
+  "match": 0.92,
+  "seconds": 64.0,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-urbanheat": {
+  "file": "r-a-urbanheat.mp3",
+  "hash": "7a4d85d12109",
+  "match": 0.98,
+  "seconds": 67.3,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-voting16": {
+  "file": "r-a-voting16.mp3",
+  "hash": "61e50159a7a5",
+  "match": 0.94,
+  "seconds": 61.8,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-b-admin": {
   "file": "r-b-admin.mp3",
   "hash": "fc8b1670ff3c",
   "match": 0.97,
   "seconds": 21.2,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-adoptcat": {
+  "file": "r-b-adoptcat.mp3",
+  "hash": "bba0699e83ae",
+  "match": 0.95,
+  "seconds": 31.5,
   "voices": [
    "am_puck"
   ]
@@ -305,11 +881,128 @@
    "am_puck"
   ]
  },
+ "r-b-bakery": {
+  "file": "r-b-bakery.mp3",
+  "hash": "82b81508f1f9",
+  "match": 0.95,
+  "seconds": 28.2,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-baking": {
+  "file": "r-b-baking.mp3",
+  "hash": "c1f7f05f33cd",
+  "match": 0.98,
+  "seconds": 30.1,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-beachclean": {
+  "file": "r-b-beachclean.mp3",
+  "hash": "aaeda795e9dd",
+  "match": 0.95,
+  "seconds": 37.6,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-bikerepair": {
+  "file": "r-b-bikerepair.mp3",
+  "hash": "474727db0950",
+  "match": 0.98,
+  "seconds": 26.7,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-bikeride": {
+  "file": "r-b-bikeride.mp3",
+  "hash": "780ac7942811",
+  "match": 0.96,
+  "seconds": 33.4,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-birthday": {
+  "file": "r-b-birthday.mp3",
+  "hash": "c671e20a8edf",
+  "match": 0.94,
+  "seconds": 27.7,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-bookclub": {
+  "file": "r-b-bookclub.mp3",
+  "hash": "dfc34ebcc134",
+  "match": 0.92,
+  "seconds": 37.1,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-busdriver": {
+  "file": "r-b-busdriver.mp3",
+  "hash": "e4d6f2da2ff1",
+  "match": 0.94,
+  "seconds": 27.3,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-camera": {
+  "file": "r-b-camera.mp3",
+  "hash": "69fccc92f2e9",
+  "match": 0.98,
+  "seconds": 28.0,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-camping": {
+  "file": "r-b-camping.mp3",
+  "hash": "af8073a0aee5",
+  "match": 1.0,
+  "seconds": 27.5,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-chess": {
+  "file": "r-b-chess.mp3",
+  "hash": "1b7d054bbfa2",
+  "match": 0.97,
+  "seconds": 29.5,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-cookclass": {
+  "file": "r-b-cookclass.mp3",
+  "hash": "e5b0fb04e6a7",
+  "match": 0.98,
+  "seconds": 33.2,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-b-country": {
   "file": "r-b-country.mp3",
   "hash": "5cf61909c50f",
   "match": 0.93,
   "seconds": 23.5,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-dentist": {
+  "file": "r-b-dentist.mp3",
+  "hash": "3f50cb32944a",
+  "match": 0.94,
+  "seconds": 24.2,
   "voices": [
    "am_puck"
   ]
@@ -368,6 +1061,24 @@
    "am_puck"
   ]
  },
+ "r-b-firstday": {
+  "file": "r-b-firstday.mp3",
+  "hash": "f5d2b130b0e5",
+  "match": 0.98,
+  "seconds": 34.3,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-firstflight": {
+  "file": "r-b-firstflight.mp3",
+  "hash": "d5cbaddee8e2",
+  "match": 0.96,
+  "seconds": 32.8,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-b-food": {
   "file": "r-b-food.mp3",
   "hash": "cd3ecdf7d499",
@@ -382,6 +1093,15 @@
   "hash": "16e089a43f5b",
   "match": 1.0,
   "seconds": 23.1,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-grandpa": {
+  "file": "r-b-grandpa.mp3",
+  "hash": "e62e2b4e74d1",
+  "match": 0.97,
+  "seconds": 34.8,
   "voices": [
    "am_puck"
   ]
@@ -431,11 +1151,38 @@
    "am_puck"
   ]
  },
+ "r-b-japan-furoshiki": {
+  "file": "r-b-japan-furoshiki.mp3",
+  "hash": "fb2ef6a3c346",
+  "match": 0.95,
+  "seconds": 34.5,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-japan-genkan": {
+  "file": "r-b-japan-genkan.mp3",
+  "hash": "a46df5c69b41",
+  "match": 1.0,
+  "seconds": 28.0,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-b-japan-hanami": {
   "file": "r-b-japan-hanami.mp3",
   "hash": "90ffa5f0419e",
   "match": 0.98,
   "seconds": 29.4,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-japan-hinamatsuri": {
+  "file": "r-b-japan-hinamatsuri.mp3",
+  "hash": "51fb6a181381",
+  "match": 0.98,
+  "seconds": 35.8,
   "voices": [
    "am_puck"
   ]
@@ -449,11 +1196,65 @@
    "am_puck"
   ]
  },
+ "r-b-japan-karaoke": {
+  "file": "r-b-japan-karaoke.mp3",
+  "hash": "ee4149058f72",
+  "match": 1.0,
+  "seconds": 30.5,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-japan-koinobori": {
+  "file": "r-b-japan-koinobori.mp3",
+  "hash": "278800a936cb",
+  "match": 0.95,
+  "seconds": 34.0,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-japan-kotatsu": {
+  "file": "r-b-japan-kotatsu.mp3",
+  "hash": "c170158aee73",
+  "match": 1.0,
+  "seconds": 35.3,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-japan-kyushoku": {
+  "file": "r-b-japan-kyushoku.mp3",
+  "hash": "67b99f3485cc",
+  "match": 1.0,
+  "seconds": 30.4,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-japan-matsuri": {
+  "file": "r-b-japan-matsuri.mp3",
+  "hash": "04c29655267f",
+  "match": 0.98,
+  "seconds": 26.2,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-b-japan-newyear": {
   "file": "r-b-japan-newyear.mp3",
   "hash": "255f97e416dc",
   "match": 0.98,
   "seconds": 33.5,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-japan-omikuji": {
+  "file": "r-b-japan-omikuji.mp3",
+  "hash": "fc510126528b",
+  "match": 0.98,
+  "seconds": 28.4,
   "voices": [
    "am_puck"
   ]
@@ -467,11 +1268,101 @@
    "am_puck"
   ]
  },
+ "r-b-japan-otsukimi": {
+  "file": "r-b-japan-otsukimi.mp3",
+  "hash": "9035a1f0888c",
+  "match": 1.0,
+  "seconds": 34.1,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-japan-ricefield": {
+  "file": "r-b-japan-ricefield.mp3",
+  "hash": "162b65dfc38e",
+  "match": 1.0,
+  "seconds": 31.4,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-japan-sapporo": {
+  "file": "r-b-japan-sapporo.mp3",
+  "hash": "3dc7342db0d6",
+  "match": 0.95,
+  "seconds": 33.1,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-japan-schoolcleaning": {
+  "file": "r-b-japan-schoolcleaning.mp3",
+  "hash": "8093d4723376",
+  "match": 0.95,
+  "seconds": 37.4,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-japan-setsubun": {
+  "file": "r-b-japan-setsubun.mp3",
+  "hash": "48872ef2fdc0",
+  "match": 0.94,
+  "seconds": 35.0,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-japan-shichigosan": {
+  "file": "r-b-japan-shichigosan.mp3",
+  "hash": "861f8ad9dcdf",
+  "match": 0.95,
+  "seconds": 38.4,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-b-japan-shinkansen": {
   "file": "r-b-japan-shinkansen.mp3",
   "hash": "fd5535528518",
   "match": 1.0,
   "seconds": 30.9,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-japan-sumo": {
+  "file": "r-b-japan-sumo.mp3",
+  "hash": "9ded3b6541a7",
+  "match": 0.96,
+  "seconds": 29.5,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-japan-taiko": {
+  "file": "r-b-japan-taiko.mp3",
+  "hash": "6df6cb97fad8",
+  "match": 1.0,
+  "seconds": 31.3,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-japan-tanabata": {
+  "file": "r-b-japan-tanabata.mp3",
+  "hash": "fa8193c92a2c",
+  "match": 0.95,
+  "seconds": 37.4,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-japan-tea": {
+  "file": "r-b-japan-tea.mp3",
+  "hash": "c74b63a475b1",
+  "match": 0.98,
+  "seconds": 27.2,
   "voices": [
    "am_puck"
   ]
@@ -485,11 +1376,38 @@
    "am_puck"
   ]
  },
+ "r-b-japan-undokai": {
+  "file": "r-b-japan-undokai.mp3",
+  "hash": "7e05fae7a648",
+  "match": 0.95,
+  "seconds": 36.8,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-japan-vending": {
+  "file": "r-b-japan-vending.mp3",
+  "hash": "6c2d9d4bcd72",
+  "match": 0.98,
+  "seconds": 32.5,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-b-job": {
   "file": "r-b-job.mp3",
   "hash": "d6cb7541d1e8",
   "match": 1.0,
   "seconds": 19.8,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-library": {
+  "file": "r-b-library.mp3",
+  "hash": "865c0c12f053",
+  "match": 0.97,
+  "seconds": 28.0,
   "voices": [
    "am_puck"
   ]
@@ -512,6 +1430,42 @@
    "am_puck"
   ]
  },
+ "r-b-lostdog": {
+  "file": "r-b-lostdog.mp3",
+  "hash": "f69666e99570",
+  "match": 1.0,
+  "seconds": 28.1,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-market": {
+  "file": "r-b-market.mp3",
+  "hash": "1cdeff5ee10a",
+  "match": 0.98,
+  "seconds": 30.4,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-moving": {
+  "file": "r-b-moving.mp3",
+  "hash": "cfc04de4f2ad",
+  "match": 1.0,
+  "seconds": 29.6,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-museum": {
+  "file": "r-b-museum.mp3",
+  "hash": "0847968c001a",
+  "match": 1.0,
+  "seconds": 28.2,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-b-nature": {
   "file": "r-b-nature.mp3",
   "hash": "8ea982037623",
@@ -530,6 +1484,33 @@
    "am_puck"
   ]
  },
+ "r-b-neighbour": {
+  "file": "r-b-neighbour.mp3",
+  "hash": "bb4dfe4e6cec",
+  "match": 0.96,
+  "seconds": 35.1,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-parttime": {
+  "file": "r-b-parttime.mp3",
+  "hash": "20453da37966",
+  "match": 0.92,
+  "seconds": 33.2,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-penpal": {
+  "file": "r-b-penpal.mp3",
+  "hash": "93d97d468478",
+  "match": 0.97,
+  "seconds": 29.1,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-b-people": {
   "file": "r-b-people.mp3",
   "hash": "6306c2e36ee6",
@@ -539,11 +1520,74 @@
    "am_puck"
   ]
  },
+ "r-b-phonefree": {
+  "file": "r-b-phonefree.mp3",
+  "hash": "e7ccd94b8d05",
+  "match": 0.98,
+  "seconds": 33.1,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-picnic": {
+  "file": "r-b-picnic.mp3",
+  "hash": "6aa2728b7ad0",
+  "match": 1.0,
+  "seconds": 34.0,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-rainyseason": {
+  "file": "r-b-rainyseason.mp3",
+  "hash": "aadb6de13c85",
+  "match": 1.0,
+  "seconds": 28.8,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-secondhand": {
+  "file": "r-b-secondhand.mp3",
+  "hash": "deb8e466b9b8",
+  "match": 0.93,
+  "seconds": 38.1,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-b-service": {
   "file": "r-b-service.mp3",
   "hash": "cc6060fa1694",
   "match": 1.0,
   "seconds": 21.2,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-shelter": {
+  "file": "r-b-shelter.mp3",
+  "hash": "53edff66fd98",
+  "match": 0.97,
+  "seconds": 28.0,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-sickday": {
+  "file": "r-b-sickday.mp3",
+  "hash": "c5817c1a2e6c",
+  "match": 1.0,
+  "seconds": 28.5,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-snowday": {
+  "file": "r-b-snowday.mp3",
+  "hash": "653ead516f59",
+  "match": 0.96,
+  "seconds": 33.9,
   "voices": [
    "am_puck"
   ]
@@ -566,6 +1610,24 @@
    "am_puck"
   ]
  },
+ "r-b-storm": {
+  "file": "r-b-storm.mp3",
+  "hash": "df4d6d1c3ec7",
+  "match": 0.98,
+  "seconds": 27.5,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-swimlesson": {
+  "file": "r-b-swimlesson.mp3",
+  "hash": "17ac01f578af",
+  "match": 0.93,
+  "seconds": 34.3,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-b-tech": {
   "file": "r-b-tech.mp3",
   "hash": "c4f04c0d8f6e",
@@ -580,6 +1642,15 @@
   "hash": "cfcd1f6dc0c6",
   "match": 1.0,
   "seconds": 21.4,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-tomatoes": {
+  "file": "r-b-tomatoes.mp3",
+  "hash": "a915a2c62ff8",
+  "match": 0.98,
+  "seconds": 30.9,
   "voices": [
    "am_puck"
   ]
@@ -647,6 +1718,60 @@
    "am_puck"
   ]
  },
+ "r-i-bees": {
+  "file": "r-i-bees.mp3",
+  "hash": "64b00bd31eee",
+  "match": 0.94,
+  "seconds": 46.6,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-bilingual": {
+  "file": "r-i-bilingual.mp3",
+  "hash": "3ae10a593137",
+  "match": 0.99,
+  "seconds": 59.5,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-boardgames": {
+  "file": "r-i-boardgames.mp3",
+  "hash": "c9d7eefe799f",
+  "match": 0.94,
+  "seconds": 45.2,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-cashless": {
+  "file": "r-i-cashless.mp3",
+  "hash": "5319970f966e",
+  "match": 0.94,
+  "seconds": 54.0,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-citizenscience": {
+  "file": "r-i-citizenscience.mp3",
+  "hash": "4945df9e2f0e",
+  "match": 0.97,
+  "seconds": 57.5,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-coffee": {
+  "file": "r-i-coffee.mp3",
+  "hash": "a999d93e8957",
+  "match": 0.95,
+  "seconds": 59.2,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-i-country": {
   "file": "r-i-country.mp3",
   "hash": "a4cb06f5fc04",
@@ -661,6 +1786,15 @@
   "hash": "4b7d1967fc90",
   "match": 1.0,
   "seconds": 31.5,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-ecotourism": {
+  "file": "r-i-ecotourism.mp3",
+  "hash": "a0a956019381",
+  "match": 0.98,
+  "seconds": 64.8,
   "voices": [
    "am_puck"
   ]
@@ -683,11 +1817,38 @@
    "am_puck"
   ]
  },
+ "r-i-emoji": {
+  "file": "r-i-emoji.mp3",
+  "hash": "f387b42c1d92",
+  "match": 0.92,
+  "seconds": 62.3,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-i-enviro": {
   "file": "r-i-enviro.mp3",
   "hash": "cf65a920c74d",
   "match": 0.96,
   "seconds": 40.1,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-esports": {
+  "file": "r-i-esports.mp3",
+  "hash": "14aab8e12ec9",
+  "match": 0.98,
+  "seconds": 63.6,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-fastfashion": {
+  "file": "r-i-fastfashion.mp3",
+  "hash": "a30d25f535b3",
+  "match": 0.94,
+  "seconds": 56.7,
   "voices": [
    "am_puck"
   ]
@@ -737,6 +1898,24 @@
    "am_puck"
   ]
  },
+ "r-i-foodwaste": {
+  "file": "r-i-foodwaste.mp3",
+  "hash": "73cfff912cf0",
+  "match": 0.94,
+  "seconds": 62.6,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-handwriting": {
+  "file": "r-i-handwriting.mp3",
+  "hash": "890da4bf3b80",
+  "match": 1.0,
+  "seconds": 59.5,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-i-health": {
   "file": "r-i-health.mp3",
   "hash": "03935658c56e",
@@ -773,6 +1952,87 @@
    "am_puck"
   ]
  },
+ "r-i-japan-capsule": {
+  "file": "r-i-japan-capsule.mp3",
+  "hash": "51ea9c35d3a5",
+  "match": 0.98,
+  "seconds": 45.4,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-japan-catisland": {
+  "file": "r-i-japan-catisland.mp3",
+  "hash": "42780fe660e3",
+  "match": 0.94,
+  "seconds": 50.3,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-japan-cleanfans": {
+  "file": "r-i-japan-cleanfans.mp3",
+  "hash": "a100f5ea7c69",
+  "match": 0.96,
+  "seconds": 57.4,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-japan-depachika": {
+  "file": "r-i-japan-depachika.mp3",
+  "hash": "6a868513e722",
+  "match": 0.92,
+  "seconds": 46.5,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-japan-ekiden": {
+  "file": "r-i-japan-ekiden.mp3",
+  "hash": "3d5d09ffdd08",
+  "match": 0.92,
+  "seconds": 52.9,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-japan-hanko": {
+  "file": "r-i-japan-hanko.mp3",
+  "hash": "0417b6b9f400",
+  "match": 0.98,
+  "seconds": 56.3,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-japan-izakaya": {
+  "file": "r-i-japan-izakaya.mp3",
+  "hash": "ba3390ea2e7d",
+  "match": 0.97,
+  "seconds": 50.8,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-japan-kawaii": {
+  "file": "r-i-japan-kawaii.mp3",
+  "hash": "cede8035d5a3",
+  "match": 0.96,
+  "seconds": 64.3,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-japan-koban": {
+  "file": "r-i-japan-koban.mp3",
+  "hash": "61ca14eb1579",
+  "match": 0.95,
+  "seconds": 46.9,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-i-japan-konbini": {
   "file": "r-i-japan-konbini.mp3",
   "hash": "2d78111f682f",
@@ -787,6 +2047,42 @@
   "hash": "96de86ed3e59",
   "match": 0.98,
   "seconds": 46.3,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-japan-lostfound": {
+  "file": "r-i-japan-lostfound.mp3",
+  "hash": "767895de15be",
+  "match": 0.92,
+  "seconds": 58.6,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-japan-manholes": {
+  "file": "r-i-japan-manholes.mp3",
+  "hash": "f753cb99e9ab",
+  "match": 0.94,
+  "seconds": 56.2,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-japan-nara": {
+  "file": "r-i-japan-nara.mp3",
+  "hash": "f127a1ef1dec",
+  "match": 1.0,
+  "seconds": 48.4,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-japan-omiyage": {
+  "file": "r-i-japan-omiyage.mp3",
+  "hash": "c7ac9b16bff2",
+  "match": 0.97,
+  "seconds": 54.6,
   "voices": [
    "am_puck"
   ]
@@ -809,6 +2105,24 @@
    "am_puck"
   ]
  },
+ "r-i-japan-ramen": {
+  "file": "r-i-japan-ramen.mp3",
+  "hash": "265da0e666e0",
+  "match": 0.92,
+  "seconds": 55.4,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-japan-sakurafront": {
+  "file": "r-i-japan-sakurafront.mp3",
+  "hash": "36a96510d0aa",
+  "match": 0.97,
+  "seconds": 61.5,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-i-japan-school": {
   "file": "r-i-japan-school.mp3",
   "hash": "486ba3ef0756",
@@ -818,11 +2132,65 @@
    "am_puck"
   ]
  },
+ "r-i-japan-seasonal": {
+  "file": "r-i-japan-seasonal.mp3",
+  "hash": "9f3f66f1aa57",
+  "match": 0.93,
+  "seconds": 58.6,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-japan-snowmonkeys": {
+  "file": "r-i-japan-snowmonkeys.mp3",
+  "hash": "3002423863cc",
+  "match": 0.97,
+  "seconds": 53.8,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-japan-tattoos": {
+  "file": "r-i-japan-tattoos.mp3",
+  "hash": "f57095ab970b",
+  "match": 0.97,
+  "seconds": 63.0,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-japan-tessei": {
+  "file": "r-i-japan-tessei.mp3",
+  "hash": "3336ff41171a",
+  "match": 0.97,
+  "seconds": 48.8,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-japan-trainmanners": {
+  "file": "r-i-japan-trainmanners.mp3",
+  "hash": "db2c13d23f5e",
+  "match": 0.97,
+  "seconds": 54.4,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-i-japan-trains": {
   "file": "r-i-japan-trains.mp3",
   "hash": "5978e6d9558b",
   "match": 0.97,
   "seconds": 45.7,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-japan-wagashi": {
+  "file": "r-i-japan-wagashi.mp3",
+  "hash": "f90af93674d1",
+  "match": 1.0,
+  "seconds": 55.4,
   "voices": [
    "am_puck"
   ]
@@ -845,6 +2213,42 @@
    "am_puck"
   ]
  },
+ "r-i-kindness": {
+  "file": "r-i-kindness.mp3",
+  "hash": "20217ce64161",
+  "match": 1.0,
+  "seconds": 53.2,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-laughter": {
+  "file": "r-i-laughter.mp3",
+  "hash": "fb3c549a0b04",
+  "match": 0.91,
+  "seconds": 65.4,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-lefthanded": {
+  "file": "r-i-lefthanded.mp3",
+  "hash": "3546af75886a",
+  "match": 0.96,
+  "seconds": 56.1,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-libraries": {
+  "file": "r-i-libraries.mp3",
+  "hash": "4e8d32dc3ed3",
+  "match": 0.98,
+  "seconds": 65.0,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-i-life": {
   "file": "r-i-life.mp3",
   "hash": "cddf29969d75",
@@ -859,6 +2263,42 @@
   "hash": "1f57d32fcd97",
   "match": 0.98,
   "seconds": 28.0,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-maps": {
+  "file": "r-i-maps.mp3",
+  "hash": "9fb18133897a",
+  "match": 1.0,
+  "seconds": 55.7,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-memorypalace": {
+  "file": "r-i-memorypalace.mp3",
+  "hash": "34d0a03e6124",
+  "match": 0.97,
+  "seconds": 58.7,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-miyawaki": {
+  "file": "r-i-miyawaki.mp3",
+  "hash": "99bd34db9518",
+  "match": 0.97,
+  "seconds": 64.0,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-naps": {
+  "file": "r-i-naps.mp3",
+  "hash": "0dae1c2281fa",
+  "match": 0.96,
+  "seconds": 56.9,
   "voices": [
    "am_puck"
   ]
@@ -881,11 +2321,65 @@
    "am_puck"
   ]
  },
+ "r-i-noise": {
+  "file": "r-i-noise.mp3",
+  "hash": "6ff889b11765",
+  "match": 1.0,
+  "seconds": 51.4,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-octopus": {
+  "file": "r-i-octopus.mp3",
+  "hash": "8234bfe902fb",
+  "match": 0.96,
+  "seconds": 58.1,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-parkrun": {
+  "file": "r-i-parkrun.mp3",
+  "hash": "0a4e9db05af3",
+  "match": 0.92,
+  "seconds": 57.1,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-i-people": {
   "file": "r-i-people.mp3",
   "hash": "d649ac389566",
   "match": 0.9,
   "seconds": 27.6,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-petshealth": {
+  "file": "r-i-petshealth.mp3",
+  "hash": "1625ea8a6fa6",
+  "match": 0.97,
+  "seconds": 56.8,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-podcasts": {
+  "file": "r-i-podcasts.mp3",
+  "hash": "5990ae80df07",
+  "match": 0.97,
+  "seconds": 46.2,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-rooftop": {
+  "file": "r-i-rooftop.mp3",
+  "hash": "f028ec5bf930",
+  "match": 1.0,
+  "seconds": 44.3,
   "voices": [
    "am_puck"
   ]
@@ -899,11 +2393,65 @@
    "am_puck"
   ]
  },
+ "r-i-sharks": {
+  "file": "r-i-sharks.mp3",
+  "hash": "e5d05bbfdd95",
+  "match": 0.91,
+  "seconds": 56.5,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-sleep": {
+  "file": "r-i-sleep.mp3",
+  "hash": "c4742b1f8de4",
+  "match": 0.96,
+  "seconds": 52.6,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-spacefood": {
+  "file": "r-i-spacefood.mp3",
+  "hash": "3951d6ce9e61",
+  "match": 0.92,
+  "seconds": 57.2,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-i-sports": {
   "file": "r-i-sports.mp3",
   "hash": "1bf3a728e127",
   "match": 1.0,
   "seconds": 36.1,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-standing": {
+  "file": "r-i-standing.mp3",
+  "hash": "50ed573ba53e",
+  "match": 0.96,
+  "seconds": 51.0,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-subscriptions": {
+  "file": "r-i-subscriptions.mp3",
+  "hash": "a3b5c0487ed3",
+  "match": 0.97,
+  "seconds": 64.7,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-teaching": {
+  "file": "r-i-teaching.mp3",
+  "hash": "7d2ef06f189e",
+  "match": 0.97,
+  "seconds": 47.6,
   "voices": [
    "am_puck"
   ]
@@ -922,6 +2470,24 @@
   "hash": "c563fc792c2d",
   "match": 1.0,
   "seconds": 28.4,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-tinyhouses": {
+  "file": "r-i-tinyhouses.mp3",
+  "hash": "b16fcda5b288",
+  "match": 0.96,
+  "seconds": 48.1,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-toollibrary": {
+  "file": "r-i-toollibrary.mp3",
+  "hash": "f45246674773",
+  "match": 0.98,
+  "seconds": 56.9,
   "voices": [
    "am_puck"
   ]
@@ -958,6 +2524,15 @@
   "hash": "8604ab8bdad1",
   "match": 0.94,
   "seconds": 28.2,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-i-urbanbirds": {
+  "file": "r-i-urbanbirds.mp3",
+  "hash": "c5354829e3b1",
+  "match": 0.93,
+  "seconds": 57.5,
   "voices": [
    "am_puck"
   ]
