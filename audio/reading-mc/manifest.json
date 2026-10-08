@@ -17,6 +17,15 @@
    "am_puck"
   ]
  },
+ "r-a-ancientdna": {
+  "file": "r-a-ancientdna.mp3",
+  "hash": "aef6f0e9c357",
+  "match": 0.87,
+  "seconds": 76.1,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-a-antibiotics": {
   "file": "r-a-antibiotics.mp3",
   "hash": "c07dc1b98b4e",
@@ -58,6 +67,15 @@
   "hash": "777d6e753779",
   "match": 1.0,
   "seconds": 37.1,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-crispr": {
+  "file": "r-a-crispr.mp3",
+  "hash": "731c032679e5",
+  "match": 0.94,
+  "seconds": 75.2,
   "voices": [
    "am_puck"
   ]
@@ -197,6 +215,15 @@
    "am_puck"
   ]
  },
+ "r-a-geoengineering": {
+  "file": "r-a-geoengineering.mp3",
+  "hash": "59946d2c3233",
+  "match": 0.93,
+  "seconds": 68.7,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-a-groupthink": {
   "file": "r-a-groupthink.mp3",
   "hash": "e41aad138258",
@@ -278,6 +305,15 @@
    "am_puck"
   ]
  },
+ "r-a-japan-haiku": {
+  "file": "r-a-japan-haiku.mp3",
+  "hash": "91d2430f0e50",
+  "match": 0.94,
+  "seconds": 69.7,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-a-japan-hikikomori": {
   "file": "r-a-japan-hikikomori.mp3",
   "hash": "49182b4647d6",
@@ -319,6 +355,15 @@
   "hash": "34999af9ed10",
   "match": 0.96,
   "seconds": 61.9,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-japan-lifetime": {
+  "file": "r-a-japan-lifetime.mp3",
+  "hash": "0b4fe77e9c3c",
+  "match": 0.94,
+  "seconds": 72.2,
   "voices": [
    "am_puck"
   ]
@@ -494,6 +539,15 @@
    "am_puck"
   ]
  },
+ "r-a-loneliness": {
+  "file": "r-a-loneliness.mp3",
+  "hash": "438e9d9054a0",
+  "match": 0.94,
+  "seconds": 70.9,
+  "voices": [
+   "am_puck"
+  ]
+ },
  "r-a-microplastics": {
   "file": "r-a-microplastics.mp3",
   "hash": "4e8e0a41c537",
@@ -535,6 +589,15 @@
   "hash": "21b44353aefb",
   "match": 0.98,
   "seconds": 37.1,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-a-nudge": {
+  "file": "r-a-nudge.mp3",
+  "hash": "c95d1458289c",
+  "match": 0.93,
+  "seconds": 69.1,
   "voices": [
    "am_puck"
   ]
@@ -1003,6 +1066,15 @@
   "hash": "6c2a60704174",
   "match": 0.94,
   "seconds": 26.7,
+  "voices": [
+   "am_puck"
+  ]
+ },
+ "r-b-japan-hinamatsuri": {
+  "file": "r-b-japan-hinamatsuri.mp3",
+  "hash": "fbc5965df46d",
+  "match": 0.94,
+  "seconds": 34.9,
   "voices": [
    "am_puck"
   ]
