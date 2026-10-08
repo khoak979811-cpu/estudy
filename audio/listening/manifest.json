@@ -327,6 +327,15 @@
    "am_michael"
   ]
  },
+ "ls-a-adultlanguage": {
+  "file": "ls-a-adultlanguage.mp3",
+  "hash": "c8e348f56123",
+  "seconds": 108.0,
+  "voices": [
+   "af_heart",
+   "am_fenrir"
+  ]
+ },
  "ls-a-arts": {
   "file": "ls-a-arts.mp3",
   "hash": "0d11fbfc195c",
@@ -485,6 +494,15 @@
   "seconds": 107.7,
   "voices": [
    "af_heart"
+  ]
+ },
+ "ls-a-japan-koshien": {
+  "file": "ls-a-japan-koshien.mp3",
+  "hash": "150d21ecd9a1",
+  "seconds": 110.9,
+  "voices": [
+   "af_bella",
+   "am_michael"
   ]
  },
  "ls-a-japan-quakealert": {
@@ -667,6 +685,14 @@
    "am_michael"
   ]
  },
+ "ls-a-wildfires": {
+  "file": "ls-a-wildfires.mp3",
+  "hash": "549f89435e5e",
+  "seconds": 118.1,
+  "voices": [
+   "am_michael"
+  ]
+ },
  "ls-a-zoos": {
   "file": "ls-a-zoos.mp3",
   "hash": "c042d0984ca9",
@@ -692,6 +718,15 @@
   "voices": [
    "af_heart",
    "am_fenrir"
+  ]
+ },
+ "ls-b-busdirections": {
+  "file": "ls-b-busdirections.mp3",
+  "hash": "3813aaf61762",
+  "seconds": 63.0,
+  "voices": [
+   "af_heart",
+   "am_michael"
   ]
  },
  "ls-b-cinema": {
@@ -834,6 +869,15 @@
   "voices": [
    "af_bella",
    "am_michael"
+  ]
+ },
+ "ls-b-japan-postoffice": {
+  "file": "ls-b-japan-postoffice.mp3",
+  "hash": "b39ba3ce80d2",
+  "seconds": 71.6,
+  "voices": [
+   "af_bella",
+   "am_fenrir"
   ]
  },
  "ls-b-japan-ramen": {
@@ -991,6 +1035,15 @@
   "file": "ls-b-pharmacy.mp3",
   "hash": "62b1e5bcbd7a",
   "seconds": 49.7,
+  "voices": [
+   "af_bella",
+   "am_michael"
+  ]
+ },
+ "ls-b-restaurantbooking": {
+  "file": "ls-b-restaurantbooking.mp3",
+  "hash": "83763d9bf322",
+  "seconds": 76.7,
   "voices": [
    "af_bella",
    "am_michael"
@@ -1283,6 +1336,15 @@
    "af_heart"
   ]
  },
+ "ls-i-japan-typhoon": {
+  "file": "ls-i-japan-typhoon.mp3",
+  "hash": "cace693bea57",
+  "seconds": 106.6,
+  "voices": [
+   "af_heart",
+   "am_fenrir"
+  ]
+ },
  "ls-i-japan-workculture": {
   "file": "ls-i-japan-workculture.mp3",
   "hash": "9e92a62398c6",
@@ -1363,6 +1425,15 @@
    "am_michael"
   ]
  },
+ "ls-i-roommate": {
+  "file": "ls-i-roommate.mp3",
+  "hash": "7fc78044b15b",
+  "seconds": 97.2,
+  "voices": [
+   "af_bella",
+   "am_fenrir"
+  ]
+ },
  "ls-i-service": {
   "file": "ls-i-service.mp3",
   "hash": "188dde56ebc6",
@@ -1394,6 +1465,15 @@
   "file": "ls-i-studyabroad.mp3",
   "hash": "319d95976d51",
   "seconds": 77.8,
+  "voices": [
+   "af_heart",
+   "am_michael"
+  ]
+ },
+ "ls-i-teamproject": {
+  "file": "ls-i-teamproject.mp3",
+  "hash": "c5654c895bf9",
+  "seconds": 85.3,
   "voices": [
    "af_heart",
    "am_michael"

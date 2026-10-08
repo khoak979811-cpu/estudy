@@ -548,6 +548,15 @@
    "am_fenrir"
   ]
  },
+ "r-a-urbanheat": {
+  "file": "r-a-urbanheat.mp3",
+  "hash": "6cca1fd2ac8c",
+  "match": 0.97,
+  "seconds": 74.8,
+  "voices": [
+   "am_michael"
+  ]
+ },
  "r-b-admin": {
   "file": "r-b-admin.mp3",
   "hash": "57d94e9f16da",

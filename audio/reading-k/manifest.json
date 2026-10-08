@@ -15,6 +15,14 @@
    "am_fenrir"
   ]
  },
+ "r-a-ancientdna": {
+  "file": "r-a-ancientdna.mp3",
+  "hash": "8be635e15285",
+  "seconds": 90.4,
+  "voices": [
+   "am_michael"
+  ]
+ },
  "r-a-antibiotics": {
   "file": "r-a-antibiotics.mp3",
   "hash": "173a494d96ad",
@@ -51,6 +59,14 @@
   "file": "r-a-country.mp3",
   "hash": "2fb8de9a4f27",
   "seconds": 46.6,
+  "voices": [
+   "am_michael"
+  ]
+ },
+ "r-a-crispr": {
+  "file": "r-a-crispr.mp3",
+  "hash": "d28dbf0ededa",
+  "seconds": 88.8,
   "voices": [
    "am_michael"
   ]
@@ -175,6 +191,14 @@
    "af_bella"
   ]
  },
+ "r-a-geoengineering": {
+  "file": "r-a-geoengineering.mp3",
+  "hash": "528c672588a5",
+  "seconds": 81.8,
+  "voices": [
+   "af_heart"
+  ]
+ },
  "r-a-groupthink": {
   "file": "r-a-groupthink.mp3",
   "hash": "94c4f0288e6c",
@@ -247,6 +271,14 @@
    "af_heart"
   ]
  },
+ "r-a-japan-haiku": {
+  "file": "r-a-japan-haiku.mp3",
+  "hash": "e90cf8f4e809",
+  "seconds": 80.1,
+  "voices": [
+   "am_fenrir"
+  ]
+ },
  "r-a-japan-hikikomori": {
   "file": "r-a-japan-hikikomori.mp3",
   "hash": "6234d5e854c2",
@@ -287,10 +319,26 @@
    "am_fenrir"
   ]
  },
+ "r-a-japan-lifetime": {
+  "file": "r-a-japan-lifetime.mp3",
+  "hash": "0fc82f6341c7",
+  "seconds": 80.8,
+  "voices": [
+   "af_heart"
+  ]
+ },
  "r-a-japan-meiji": {
   "file": "r-a-japan-meiji.mp3",
   "hash": "fe75f4e7bd9c",
   "seconds": 69.5,
+  "voices": [
+   "af_bella"
+  ]
+ },
+ "r-a-japan-minamata": {
+  "file": "r-a-japan-minamata.mp3",
+  "hash": "76bcc4db7c0a",
+  "seconds": 80.9,
   "voices": [
    "af_bella"
   ]
@@ -431,6 +479,14 @@
    "am_michael"
   ]
  },
+ "r-a-loneliness": {
+  "file": "r-a-loneliness.mp3",
+  "hash": "029609d0fb55",
+  "seconds": 81.6,
+  "voices": [
+   "af_bella"
+  ]
+ },
  "r-a-microplastics": {
   "file": "r-a-microplastics.mp3",
   "hash": "175978210294",
@@ -469,6 +525,14 @@
   "seconds": 43.7,
   "voices": [
    "af_heart"
+  ]
+ },
+ "r-a-nudge": {
+  "file": "r-a-nudge.mp3",
+  "hash": "f328ddb8ca78",
+  "seconds": 79.7,
+  "voices": [
+   "am_fenrir"
   ]
  },
  "r-a-oceanacid": {
@@ -663,6 +727,14 @@
    "am_michael"
   ]
  },
+ "r-b-beachclean": {
+  "file": "r-b-beachclean.mp3",
+  "hash": "013a4adca530",
+  "seconds": 47.1,
+  "voices": [
+   "am_michael"
+  ]
+ },
  "r-b-bikerepair": {
   "file": "r-b-bikerepair.mp3",
   "hash": "124e309d7ea5",
@@ -707,6 +779,14 @@
   "file": "r-b-chess.mp3",
   "hash": "703d7218e813",
   "seconds": 32.8,
+  "voices": [
+   "af_heart"
+  ]
+ },
+ "r-b-cookclass": {
+  "file": "r-b-cookclass.mp3",
+  "hash": "87e5735882d2",
+  "seconds": 38.2,
   "voices": [
    "af_heart"
   ]
@@ -773,6 +853,14 @@
   "seconds": 24.3,
   "voices": [
    "af_bella"
+  ]
+ },
+ "r-b-firstflight": {
+  "file": "r-b-firstflight.mp3",
+  "hash": "50a1179f1e82",
+  "seconds": 45.1,
+  "voices": [
+   "am_fenrir"
   ]
  },
  "r-b-food": {
@@ -879,6 +967,14 @@
    "af_bella"
   ]
  },
+ "r-b-japan-koinobori": {
+  "file": "r-b-japan-koinobori.mp3",
+  "hash": "0055bc50c026",
+  "seconds": 52.1,
+  "voices": [
+   "am_fenrir"
+  ]
+ },
  "r-b-japan-kotatsu": {
   "file": "r-b-japan-kotatsu.mp3",
   "hash": "86dd75345de3",
@@ -927,6 +1023,14 @@
    "af_heart"
   ]
  },
+ "r-b-japan-otsukimi": {
+  "file": "r-b-japan-otsukimi.mp3",
+  "hash": "b1d897d13c0b",
+  "seconds": 41.7,
+  "voices": [
+   "af_heart"
+  ]
+ },
  "r-b-japan-ricefield": {
   "file": "r-b-japan-ricefield.mp3",
   "hash": "b5c5c0d337e6",
@@ -941,6 +1045,14 @@
   "seconds": 37.6,
   "voices": [
    "af_heart"
+  ]
+ },
+ "r-b-japan-setsubun": {
+  "file": "r-b-japan-setsubun.mp3",
+  "hash": "395446019167",
+  "seconds": 44.5,
+  "voices": [
+   "af_bella"
   ]
  },
  "r-b-japan-shinkansen": {
@@ -1087,6 +1199,14 @@
    "am_michael"
   ]
  },
+ "r-b-neighbour": {
+  "file": "r-b-neighbour.mp3",
+  "hash": "67414bfc9efd",
+  "seconds": 41.6,
+  "voices": [
+   "af_bella"
+  ]
+ },
  "r-b-parttime": {
   "file": "r-b-parttime.mp3",
   "hash": "c137a23c42b5",
@@ -1109,6 +1229,14 @@
   "seconds": 23.0,
   "voices": [
    "af_bella"
+  ]
+ },
+ "r-b-phonefree": {
+  "file": "r-b-phonefree.mp3",
+  "hash": "6806848bfc94",
+  "seconds": 42.5,
+  "voices": [
+   "am_michael"
   ]
  },
  "r-b-rainyseason": {
@@ -1359,6 +1487,14 @@
    "am_fenrir"
   ]
  },
+ "r-i-emoji": {
+  "file": "r-i-emoji.mp3",
+  "hash": "19185d2b6722",
+  "seconds": 81.0,
+  "voices": [
+   "am_fenrir"
+  ]
+ },
  "r-i-enviro": {
   "file": "r-i-enviro.mp3",
   "hash": "76a341798cf0",
@@ -1413,6 +1549,14 @@
   "seconds": 36.9,
   "voices": [
    "af_bella"
+  ]
+ },
+ "r-i-foodwaste": {
+  "file": "r-i-foodwaste.mp3",
+  "hash": "eea7885fe073",
+  "seconds": 77.3,
+  "voices": [
+   "am_michael"
   ]
  },
  "r-i-handwriting": {
@@ -1535,6 +1679,22 @@
    "af_bella"
   ]
  },
+ "r-i-japan-lostfound": {
+  "file": "r-i-japan-lostfound.mp3",
+  "hash": "868c334ff454",
+  "seconds": 81.2,
+  "voices": [
+   "am_fenrir"
+  ]
+ },
+ "r-i-japan-manholes": {
+  "file": "r-i-japan-manholes.mp3",
+  "hash": "74ff6dc0c99f",
+  "seconds": 67.4,
+  "voices": [
+   "af_bella"
+  ]
+ },
  "r-i-japan-nara": {
   "file": "r-i-japan-nara.mp3",
   "hash": "2cd6a9dd983d",
@@ -1581,6 +1741,14 @@
   "seconds": 55.7,
   "voices": [
    "am_michael"
+  ]
+ },
+ "r-i-japan-seasonal": {
+  "file": "r-i-japan-seasonal.mp3",
+  "hash": "90c153f421f6",
+  "seconds": 66.8,
+  "voices": [
+   "af_heart"
   ]
  },
  "r-i-japan-snowmonkeys": {
@@ -1679,6 +1847,14 @@
    "am_michael"
   ]
  },
+ "r-i-memorypalace": {
+  "file": "r-i-memorypalace.mp3",
+  "hash": "d46f9f86dcd6",
+  "seconds": 68.0,
+  "voices": [
+   "af_bella"
+  ]
+ },
  "r-i-naps": {
   "file": "r-i-naps.mp3",
   "hash": "2df89737f939",
@@ -1719,12 +1895,28 @@
    "af_heart"
   ]
  },
+ "r-i-parkrun": {
+  "file": "r-i-parkrun.mp3",
+  "hash": "5f3cac359bba",
+  "seconds": 65.8,
+  "voices": [
+   "af_heart"
+  ]
+ },
  "r-i-people": {
   "file": "r-i-people.mp3",
   "hash": "600dab8b7d77",
   "seconds": 33.3,
   "voices": [
    "af_heart"
+  ]
+ },
+ "r-i-petshealth": {
+  "file": "r-i-petshealth.mp3",
+  "hash": "375e519c9344",
+  "seconds": 75.0,
+  "voices": [
+   "am_michael"
   ]
  },
  "r-i-podcasts": {
