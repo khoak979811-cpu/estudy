@@ -1,0 +1,10754 @@
+{
+ "ad1": {
+  "file": "ad1.mp3",
+  "hash": "e7782ee61b8b",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad10": {
+  "file": "ad10.mp3",
+  "hash": "c3fbce48c8a6",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad11": {
+  "file": "ad11.mp3",
+  "hash": "419d67237421",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad12": {
+  "file": "ad12.mp3",
+  "hash": "72707b74fca4",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad13": {
+  "file": "ad13.mp3",
+  "hash": "26536f5f0aba",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad14": {
+  "file": "ad14.mp3",
+  "hash": "0386e5c2b71a",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad15": {
+  "file": "ad15.mp3",
+  "hash": "99aad4a5d8ce",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad16": {
+  "file": "ad16.mp3",
+  "hash": "737d0c733d15",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad17": {
+  "file": "ad17.mp3",
+  "hash": "d86499269851",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad18": {
+  "file": "ad18.mp3",
+  "hash": "978cadc410c9",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad19": {
+  "file": "ad19.mp3",
+  "hash": "b433901fad9c",
+  "seconds": 1.2,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad2": {
+  "file": "ad2.mp3",
+  "hash": "785f135b9693",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad20": {
+  "file": "ad20.mp3",
+  "hash": "b265cc9ed89f",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad21": {
+  "file": "ad21.mp3",
+  "hash": "4403783e4eb1",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad22": {
+  "file": "ad22.mp3",
+  "hash": "c33313013b63",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad23": {
+  "file": "ad23.mp3",
+  "hash": "789f12d66967",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad24": {
+  "file": "ad24.mp3",
+  "hash": "632ccb310452",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad25": {
+  "file": "ad25.mp3",
+  "hash": "5d3eda17ec9b",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad26": {
+  "file": "ad26.mp3",
+  "hash": "f2741647479b",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad27": {
+  "file": "ad27.mp3",
+  "hash": "182f0e50f832",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad28": {
+  "file": "ad28.mp3",
+  "hash": "ff2f6401ec77",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad29": {
+  "file": "ad29.mp3",
+  "hash": "571ee771533a",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad3": {
+  "file": "ad3.mp3",
+  "hash": "463fbbcbe4da",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad30": {
+  "file": "ad30.mp3",
+  "hash": "858c468e67cc",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad31": {
+  "file": "ad31.mp3",
+  "hash": "3288b964f60b",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad32": {
+  "file": "ad32.mp3",
+  "hash": "5d79ad872cc3",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad33": {
+  "file": "ad33.mp3",
+  "hash": "0d9f790378c4",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad34": {
+  "file": "ad34.mp3",
+  "hash": "586100052e97",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad35": {
+  "file": "ad35.mp3",
+  "hash": "4330f2387263",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad36": {
+  "file": "ad36.mp3",
+  "hash": "14132e149fcb",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad37": {
+  "file": "ad37.mp3",
+  "hash": "ad5ad21d568e",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad38": {
+  "file": "ad38.mp3",
+  "hash": "9c329efd3b62",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad39": {
+  "file": "ad39.mp3",
+  "hash": "1149413902e3",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad4": {
+  "file": "ad4.mp3",
+  "hash": "a996940fa166",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad40": {
+  "file": "ad40.mp3",
+  "hash": "1d05072041c1",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad41": {
+  "file": "ad41.mp3",
+  "hash": "fd2b418ca49b",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad42": {
+  "file": "ad42.mp3",
+  "hash": "d9f9ad4e16bc",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad43": {
+  "file": "ad43.mp3",
+  "hash": "16a1ccf88148",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad44": {
+  "file": "ad44.mp3",
+  "hash": "f1bf80eadea4",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad45": {
+  "file": "ad45.mp3",
+  "hash": "cef755799eee",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad46": {
+  "file": "ad46.mp3",
+  "hash": "90aa43a7c7fb",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad47": {
+  "file": "ad47.mp3",
+  "hash": "b91920e44aaa",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad48": {
+  "file": "ad48.mp3",
+  "hash": "d9b9166c907d",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad49": {
+  "file": "ad49.mp3",
+  "hash": "08f19021d15e",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad5": {
+  "file": "ad5.mp3",
+  "hash": "2f7f669f08bf",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad50": {
+  "file": "ad50.mp3",
+  "hash": "24148e8e098c",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad51": {
+  "file": "ad51.mp3",
+  "hash": "3aabf3c251c9",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad52": {
+  "file": "ad52.mp3",
+  "hash": "2346702ea6c6",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad53": {
+  "file": "ad53.mp3",
+  "hash": "592de9f8b68b",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad54": {
+  "file": "ad54.mp3",
+  "hash": "413f1695e90c",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad55": {
+  "file": "ad55.mp3",
+  "hash": "4a2ceb73df98",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad56": {
+  "file": "ad56.mp3",
+  "hash": "959e9e8f1dc9",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad6": {
+  "file": "ad6.mp3",
+  "hash": "929c2af7ef8e",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad7": {
+  "file": "ad7.mp3",
+  "hash": "3d2507158283",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad8": {
+  "file": "ad8.mp3",
+  "hash": "456bb6c9b280",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "ad9": {
+  "file": "ad9.mp3",
+  "hash": "1eb673d72121",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk1": {
+  "file": "bk1.mp3",
+  "hash": "c3c471eade7e",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk10": {
+  "file": "bk10.mp3",
+  "hash": "bfe78ec08428",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk11": {
+  "file": "bk11.mp3",
+  "hash": "af5052190a20",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk12": {
+  "file": "bk12.mp3",
+  "hash": "6de53a5811c9",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk13": {
+  "file": "bk13.mp3",
+  "hash": "a772f64ca0dd",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk14": {
+  "file": "bk14.mp3",
+  "hash": "45dc64c347c0",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk15": {
+  "file": "bk15.mp3",
+  "hash": "685058396267",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk16": {
+  "file": "bk16.mp3",
+  "hash": "c94547cb7a78",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk17": {
+  "file": "bk17.mp3",
+  "hash": "239f91a6e418",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk18": {
+  "file": "bk18.mp3",
+  "hash": "4b498e3c8eef",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk19": {
+  "file": "bk19.mp3",
+  "hash": "d5a9bc0f0b5b",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk2": {
+  "file": "bk2.mp3",
+  "hash": "2c21bc8e084b",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk20": {
+  "file": "bk20.mp3",
+  "hash": "f7f450cd174d",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk21": {
+  "file": "bk21.mp3",
+  "hash": "f8bf8e24a814",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk22": {
+  "file": "bk22.mp3",
+  "hash": "f4e6c19c6439",
+  "seconds": 1.3,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk23": {
+  "file": "bk23.mp3",
+  "hash": "2dd1a827a5db",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk24": {
+  "file": "bk24.mp3",
+  "hash": "3cf6dfa41f50",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk25": {
+  "file": "bk25.mp3",
+  "hash": "804d88d811c7",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk26": {
+  "file": "bk26.mp3",
+  "hash": "1f45a95df5e0",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk27": {
+  "file": "bk27.mp3",
+  "hash": "730ead0d22d9",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk28": {
+  "file": "bk28.mp3",
+  "hash": "fb3cb19cf7e4",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk29": {
+  "file": "bk29.mp3",
+  "hash": "baa8e8cd5ebe",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk3": {
+  "file": "bk3.mp3",
+  "hash": "e397f7691a23",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk30": {
+  "file": "bk30.mp3",
+  "hash": "a5cefbbe95b5",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk31": {
+  "file": "bk31.mp3",
+  "hash": "00a071de1f7b",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk32": {
+  "file": "bk32.mp3",
+  "hash": "48aaac136b04",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk33": {
+  "file": "bk33.mp3",
+  "hash": "90fd0f933c42",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk34": {
+  "file": "bk34.mp3",
+  "hash": "9b5c2f7c55d7",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk35": {
+  "file": "bk35.mp3",
+  "hash": "29550ec16cda",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk36": {
+  "file": "bk36.mp3",
+  "hash": "fc32a8fc22c0",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk37": {
+  "file": "bk37.mp3",
+  "hash": "332c27e4fd2e",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk38": {
+  "file": "bk38.mp3",
+  "hash": "d2970b58300d",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk39": {
+  "file": "bk39.mp3",
+  "hash": "bd18c4ca867d",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk4": {
+  "file": "bk4.mp3",
+  "hash": "f3b9d811c476",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk40": {
+  "file": "bk40.mp3",
+  "hash": "07f2019b97b7",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk41": {
+  "file": "bk41.mp3",
+  "hash": "facfc610b408",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk42": {
+  "file": "bk42.mp3",
+  "hash": "034b4b77337f",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk43": {
+  "file": "bk43.mp3",
+  "hash": "764f307c7164",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk44": {
+  "file": "bk44.mp3",
+  "hash": "3fb0dbe1fce2",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk45": {
+  "file": "bk45.mp3",
+  "hash": "63e2ec17863a",
+  "seconds": 2.1,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk46": {
+  "file": "bk46.mp3",
+  "hash": "2f99172377ef",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk47": {
+  "file": "bk47.mp3",
+  "hash": "6625265d48b7",
+  "seconds": 2.0,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk48": {
+  "file": "bk48.mp3",
+  "hash": "9d3efee15f28",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk49": {
+  "file": "bk49.mp3",
+  "hash": "29eca0c85643",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk5": {
+  "file": "bk5.mp3",
+  "hash": "ed2c580572e6",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk50": {
+  "file": "bk50.mp3",
+  "hash": "195d6945fe68",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk51": {
+  "file": "bk51.mp3",
+  "hash": "a6de40d6b8c4",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk52": {
+  "file": "bk52.mp3",
+  "hash": "4ffc319124b4",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk53": {
+  "file": "bk53.mp3",
+  "hash": "afb79f235757",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk54": {
+  "file": "bk54.mp3",
+  "hash": "2899b1151e57",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk55": {
+  "file": "bk55.mp3",
+  "hash": "065ab51af99b",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk56": {
+  "file": "bk56.mp3",
+  "hash": "acb8f9f7703c",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk6": {
+  "file": "bk6.mp3",
+  "hash": "e8a86a32e5ad",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk7": {
+  "file": "bk7.mp3",
+  "hash": "7a5063296ae2",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk8": {
+  "file": "bk8.mp3",
+  "hash": "90789b57fc83",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "bk9": {
+  "file": "bk9.mp3",
+  "hash": "3efc56c38785",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu1": {
+  "file": "cu1.mp3",
+  "hash": "ba5161fbebd8",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu10": {
+  "file": "cu10.mp3",
+  "hash": "16540681d1a2",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu11": {
+  "file": "cu11.mp3",
+  "hash": "817ee278519b",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu12": {
+  "file": "cu12.mp3",
+  "hash": "b631d386700b",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu13": {
+  "file": "cu13.mp3",
+  "hash": "1206cbc34dd9",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu14": {
+  "file": "cu14.mp3",
+  "hash": "4f813fceeae7",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu15": {
+  "file": "cu15.mp3",
+  "hash": "1dc03e7af7a4",
+  "seconds": 1.0,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu16": {
+  "file": "cu16.mp3",
+  "hash": "96a31a31cf4e",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu17": {
+  "file": "cu17.mp3",
+  "hash": "d98419f98581",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu18": {
+  "file": "cu18.mp3",
+  "hash": "1dd8bbf83c5f",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu19": {
+  "file": "cu19.mp3",
+  "hash": "a08fef064fff",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu2": {
+  "file": "cu2.mp3",
+  "hash": "c8a20698c1e4",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu20": {
+  "file": "cu20.mp3",
+  "hash": "b1ea4c600382",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu21": {
+  "file": "cu21.mp3",
+  "hash": "941dead174e6",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu22": {
+  "file": "cu22.mp3",
+  "hash": "1ef6e1e0cdde",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu23": {
+  "file": "cu23.mp3",
+  "hash": "f0e6c08d6188",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu24": {
+  "file": "cu24.mp3",
+  "hash": "6b0cd7d7169d",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu25": {
+  "file": "cu25.mp3",
+  "hash": "d1e1b8859916",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu26": {
+  "file": "cu26.mp3",
+  "hash": "e861e4b16573",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu27": {
+  "file": "cu27.mp3",
+  "hash": "b46ca6215b23",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu28": {
+  "file": "cu28.mp3",
+  "hash": "e50480cd4604",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu29": {
+  "file": "cu29.mp3",
+  "hash": "a6f69a30953e",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu3": {
+  "file": "cu3.mp3",
+  "hash": "c0ea0db35d2b",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu30": {
+  "file": "cu30.mp3",
+  "hash": "fb6b4764ae2f",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu31": {
+  "file": "cu31.mp3",
+  "hash": "b2cbd41a8273",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu32": {
+  "file": "cu32.mp3",
+  "hash": "cf343bdc55fa",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu33": {
+  "file": "cu33.mp3",
+  "hash": "4b61ac406696",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu34": {
+  "file": "cu34.mp3",
+  "hash": "f528b28b30e4",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu35": {
+  "file": "cu35.mp3",
+  "hash": "5ae1ffa47118",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu36": {
+  "file": "cu36.mp3",
+  "hash": "a574197d4c5a",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu37": {
+  "file": "cu37.mp3",
+  "hash": "a99249b46eef",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu38": {
+  "file": "cu38.mp3",
+  "hash": "a5b49c490dba",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu39": {
+  "file": "cu39.mp3",
+  "hash": "cdf9407c9a53",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu4": {
+  "file": "cu4.mp3",
+  "hash": "3a09c7ebf00a",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu40": {
+  "file": "cu40.mp3",
+  "hash": "eb62853fed0f",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu41": {
+  "file": "cu41.mp3",
+  "hash": "07d1ea7ae343",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu42": {
+  "file": "cu42.mp3",
+  "hash": "87aa7fc17dad",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu43": {
+  "file": "cu43.mp3",
+  "hash": "a9aa127b9da5",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu44": {
+  "file": "cu44.mp3",
+  "hash": "eb888c72b378",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu45": {
+  "file": "cu45.mp3",
+  "hash": "9c6de766bd98",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu46": {
+  "file": "cu46.mp3",
+  "hash": "ebaaea8b7f38",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu47": {
+  "file": "cu47.mp3",
+  "hash": "6fa5cc7aa095",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu48": {
+  "file": "cu48.mp3",
+  "hash": "671360101891",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu49": {
+  "file": "cu49.mp3",
+  "hash": "f84a44c5eb68",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu5": {
+  "file": "cu5.mp3",
+  "hash": "9d9e03cc6728",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu50": {
+  "file": "cu50.mp3",
+  "hash": "8c53614ae4c4",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu51": {
+  "file": "cu51.mp3",
+  "hash": "e1dd69822cfb",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu52": {
+  "file": "cu52.mp3",
+  "hash": "185292604898",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu53": {
+  "file": "cu53.mp3",
+  "hash": "e5e45959b2ee",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu54": {
+  "file": "cu54.mp3",
+  "hash": "e948ce990f47",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu55": {
+  "file": "cu55.mp3",
+  "hash": "23582c4f279e",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu56": {
+  "file": "cu56.mp3",
+  "hash": "4795209f4730",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu6": {
+  "file": "cu6.mp3",
+  "hash": "9d49425ac3b9",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu7": {
+  "file": "cu7.mp3",
+  "hash": "964480789cca",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu8": {
+  "file": "cu8.mp3",
+  "hash": "e783bdc3c5c8",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "cu9": {
+  "file": "cu9.mp3",
+  "hash": "42870fd127b5",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "d1": {
+  "file": "d1.mp3",
+  "hash": "35de8fb6b834",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "d10": {
+  "file": "d10.mp3",
+  "hash": "0a94c6f00883",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "d11": {
+  "file": "d11.mp3",
+  "hash": "33a05182813f",
+  "seconds": 1.2,
+  "voices": [
+   "g"
+  ]
+ },
+ "d12": {
+  "file": "d12.mp3",
+  "hash": "b9146257aec2",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "d13": {
+  "file": "d13.mp3",
+  "hash": "2c8f059fb470",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "d14": {
+  "file": "d14.mp3",
+  "hash": "990b4baaf6b2",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "d15": {
+  "file": "d15.mp3",
+  "hash": "9b001c2da9e8",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "d16": {
+  "file": "d16.mp3",
+  "hash": "47a34f0db025",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "d17": {
+  "file": "d17.mp3",
+  "hash": "79785f34fef7",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "d18": {
+  "file": "d18.mp3",
+  "hash": "e9d518967f19",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "d19": {
+  "file": "d19.mp3",
+  "hash": "6071fcc510ae",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "d2": {
+  "file": "d2.mp3",
+  "hash": "4d5ce2d79b5a",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "d20": {
+  "file": "d20.mp3",
+  "hash": "14a7e64f6534",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "d21": {
+  "file": "d21.mp3",
+  "hash": "0e692383b57a",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "d22": {
+  "file": "d22.mp3",
+  "hash": "fcd4f499a0bf",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "d23": {
+  "file": "d23.mp3",
+  "hash": "50f1d43c8cab",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "d24": {
+  "file": "d24.mp3",
+  "hash": "3f3441a02980",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "d25": {
+  "file": "d25.mp3",
+  "hash": "3dc3c6196341",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "d26": {
+  "file": "d26.mp3",
+  "hash": "6ec81d55942b",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "d27": {
+  "file": "d27.mp3",
+  "hash": "b1fe9071e675",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "d28": {
+  "file": "d28.mp3",
+  "hash": "2338da5493c7",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "d29": {
+  "file": "d29.mp3",
+  "hash": "057ebdaa85fb",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "d3": {
+  "file": "d3.mp3",
+  "hash": "7dc927e233e3",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "d30": {
+  "file": "d30.mp3",
+  "hash": "5e8df1c18139",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "d31": {
+  "file": "d31.mp3",
+  "hash": "bfa75f6f2ffd",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "d32": {
+  "file": "d32.mp3",
+  "hash": "4317dcefd82e",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "d33": {
+  "file": "d33.mp3",
+  "hash": "e60166bea4df",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "d34": {
+  "file": "d34.mp3",
+  "hash": "1e8069e78177",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "d35": {
+  "file": "d35.mp3",
+  "hash": "121302aa600e",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "d36": {
+  "file": "d36.mp3",
+  "hash": "7c3442770de1",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "d37": {
+  "file": "d37.mp3",
+  "hash": "28e880d7f16c",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "d38": {
+  "file": "d38.mp3",
+  "hash": "a6a6e1a9284d",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "d39": {
+  "file": "d39.mp3",
+  "hash": "983662ab1fb5",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "d4": {
+  "file": "d4.mp3",
+  "hash": "401fb7ea4f52",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "d40": {
+  "file": "d40.mp3",
+  "hash": "322eebdbda81",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "d41": {
+  "file": "d41.mp3",
+  "hash": "840f62585835",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "d42": {
+  "file": "d42.mp3",
+  "hash": "31bb6f1d15a4",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "d43": {
+  "file": "d43.mp3",
+  "hash": "c25f63519ddb",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "d44": {
+  "file": "d44.mp3",
+  "hash": "a6fd48c4a2b8",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "d45": {
+  "file": "d45.mp3",
+  "hash": "8e6b35b74a37",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "d46": {
+  "file": "d46.mp3",
+  "hash": "93d6eeffc9d4",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "d47": {
+  "file": "d47.mp3",
+  "hash": "d26d79df73aa",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "d48": {
+  "file": "d48.mp3",
+  "hash": "f2cb21162a0e",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "d49": {
+  "file": "d49.mp3",
+  "hash": "f34bb475eacc",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "d5": {
+  "file": "d5.mp3",
+  "hash": "463517c67d7b",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "d50": {
+  "file": "d50.mp3",
+  "hash": "bede0c6484d9",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "d51": {
+  "file": "d51.mp3",
+  "hash": "fd52df8cc6d9",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "d52": {
+  "file": "d52.mp3",
+  "hash": "9d0257793f91",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "d53": {
+  "file": "d53.mp3",
+  "hash": "c5ece4babcb0",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "d54": {
+  "file": "d54.mp3",
+  "hash": "49db2c121801",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "d55": {
+  "file": "d55.mp3",
+  "hash": "9fec574d1d1f",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "d56": {
+  "file": "d56.mp3",
+  "hash": "fd8f1ec31cd2",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "d6": {
+  "file": "d6.mp3",
+  "hash": "6cd9fa740a0a",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "d7": {
+  "file": "d7.mp3",
+  "hash": "3d781441c2e5",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "d8": {
+  "file": "d8.mp3",
+  "hash": "3cd6a59caa45",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "d9": {
+  "file": "d9.mp3",
+  "hash": "00acabd2640d",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv1": {
+  "file": "dv1.mp3",
+  "hash": "19c52283fac6",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv10": {
+  "file": "dv10.mp3",
+  "hash": "af27d24f9675",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv11": {
+  "file": "dv11.mp3",
+  "hash": "6e461e5352ae",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv12": {
+  "file": "dv12.mp3",
+  "hash": "94504db88aa9",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv13": {
+  "file": "dv13.mp3",
+  "hash": "ebfd12af7e10",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv14": {
+  "file": "dv14.mp3",
+  "hash": "d9c73100c0ba",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv15": {
+  "file": "dv15.mp3",
+  "hash": "434050917240",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv16": {
+  "file": "dv16.mp3",
+  "hash": "73951e00f092",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv17": {
+  "file": "dv17.mp3",
+  "hash": "2221354be9af",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv18": {
+  "file": "dv18.mp3",
+  "hash": "171b282ddc7a",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv19": {
+  "file": "dv19.mp3",
+  "hash": "7d5592b54471",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv2": {
+  "file": "dv2.mp3",
+  "hash": "460fdfdbdf2c",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv20": {
+  "file": "dv20.mp3",
+  "hash": "a26d48482f6f",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv21": {
+  "file": "dv21.mp3",
+  "hash": "a7fdd9618fa1",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv22": {
+  "file": "dv22.mp3",
+  "hash": "deca5674ec17",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv23": {
+  "file": "dv23.mp3",
+  "hash": "48aaac136b04",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv24": {
+  "file": "dv24.mp3",
+  "hash": "856f48dc4db1",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv25": {
+  "file": "dv25.mp3",
+  "hash": "060e5de9f730",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv26": {
+  "file": "dv26.mp3",
+  "hash": "33deadbcd4d8",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv27": {
+  "file": "dv27.mp3",
+  "hash": "d044217069a6",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv28": {
+  "file": "dv28.mp3",
+  "hash": "5505605b3a94",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv29": {
+  "file": "dv29.mp3",
+  "hash": "fb636449dcf1",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv3": {
+  "file": "dv3.mp3",
+  "hash": "3642ce6ae4bd",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv30": {
+  "file": "dv30.mp3",
+  "hash": "9f2c67aedc08",
+  "seconds": 2.0,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv31": {
+  "file": "dv31.mp3",
+  "hash": "857ef9903257",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv32": {
+  "file": "dv32.mp3",
+  "hash": "6ab6472d144a",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv33": {
+  "file": "dv33.mp3",
+  "hash": "620194098f74",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv34": {
+  "file": "dv34.mp3",
+  "hash": "dd0d99668865",
+  "seconds": 2.1,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv35": {
+  "file": "dv35.mp3",
+  "hash": "840045c76fbd",
+  "seconds": 2.0,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv36": {
+  "file": "dv36.mp3",
+  "hash": "43318144e7fc",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv37": {
+  "file": "dv37.mp3",
+  "hash": "325ffac84ccc",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv38": {
+  "file": "dv38.mp3",
+  "hash": "c49efb5f129b",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv39": {
+  "file": "dv39.mp3",
+  "hash": "09adf2dfd444",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv4": {
+  "file": "dv4.mp3",
+  "hash": "96b37681c70e",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv40": {
+  "file": "dv40.mp3",
+  "hash": "f39f3c817256",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv41": {
+  "file": "dv41.mp3",
+  "hash": "0b5830362004",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv42": {
+  "file": "dv42.mp3",
+  "hash": "21f2e917aa72",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv43": {
+  "file": "dv43.mp3",
+  "hash": "f38e4b3114f2",
+  "seconds": 2.1,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv44": {
+  "file": "dv44.mp3",
+  "hash": "7debca279fae",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv45": {
+  "file": "dv45.mp3",
+  "hash": "d8cca59074a2",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv46": {
+  "file": "dv46.mp3",
+  "hash": "902acb3cb771",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv47": {
+  "file": "dv47.mp3",
+  "hash": "5d79ad872cc3",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv48": {
+  "file": "dv48.mp3",
+  "hash": "c9bed2d406f0",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv49": {
+  "file": "dv49.mp3",
+  "hash": "0cde2a7e4f32",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv5": {
+  "file": "dv5.mp3",
+  "hash": "09f86c928bdf",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv50": {
+  "file": "dv50.mp3",
+  "hash": "9e190d4a2589",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv51": {
+  "file": "dv51.mp3",
+  "hash": "5b114c6b7888",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv52": {
+  "file": "dv52.mp3",
+  "hash": "bbebb7bbc4d0",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv53": {
+  "file": "dv53.mp3",
+  "hash": "8c4f65e5ca4f",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv54": {
+  "file": "dv54.mp3",
+  "hash": "c779d6e191c6",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv55": {
+  "file": "dv55.mp3",
+  "hash": "4a8977d384e5",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv56": {
+  "file": "dv56.mp3",
+  "hash": "e1897aef8991",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv6": {
+  "file": "dv6.mp3",
+  "hash": "f97df5d3bf56",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv7": {
+  "file": "dv7.mp3",
+  "hash": "7f3155a0ac80",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv8": {
+  "file": "dv8.mp3",
+  "hash": "9a3e0e5f2a8d",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "dv9": {
+  "file": "dv9.mp3",
+  "hash": "596608a09551",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "en1": {
+  "file": "en1.mp3",
+  "hash": "b43dc6220b41",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "en10": {
+  "file": "en10.mp3",
+  "hash": "0cde041246dd",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "en11": {
+  "file": "en11.mp3",
+  "hash": "8a3cbf3c7dd3",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "en12": {
+  "file": "en12.mp3",
+  "hash": "ebd275883565",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "en13": {
+  "file": "en13.mp3",
+  "hash": "1e641609625a",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "en14": {
+  "file": "en14.mp3",
+  "hash": "4cbd0c5eb32f",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "en15": {
+  "file": "en15.mp3",
+  "hash": "75045d01a6b2",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "en16": {
+  "file": "en16.mp3",
+  "hash": "d73f66927bf2",
+  "seconds": 2.1,
+  "voices": [
+   "g"
+  ]
+ },
+ "en17": {
+  "file": "en17.mp3",
+  "hash": "f2f166298083",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "en18": {
+  "file": "en18.mp3",
+  "hash": "9f4d35209ee8",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "en19": {
+  "file": "en19.mp3",
+  "hash": "797882a71735",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "en2": {
+  "file": "en2.mp3",
+  "hash": "b7bbc3eab7e7",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "en20": {
+  "file": "en20.mp3",
+  "hash": "23582c4f279e",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "en21": {
+  "file": "en21.mp3",
+  "hash": "40a126a3fa96",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "en22": {
+  "file": "en22.mp3",
+  "hash": "3527e79a8624",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "en23": {
+  "file": "en23.mp3",
+  "hash": "f6ffd5855958",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "en24": {
+  "file": "en24.mp3",
+  "hash": "a64a3eb7be73",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "en25": {
+  "file": "en25.mp3",
+  "hash": "c9d6e6a33bf3",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "en26": {
+  "file": "en26.mp3",
+  "hash": "147ff6138f39",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "en27": {
+  "file": "en27.mp3",
+  "hash": "49a9f9a9b025",
+  "seconds": 2.0,
+  "voices": [
+   "g"
+  ]
+ },
+ "en28": {
+  "file": "en28.mp3",
+  "hash": "3ad869599672",
+  "seconds": 2.0,
+  "voices": [
+   "g"
+  ]
+ },
+ "en29": {
+  "file": "en29.mp3",
+  "hash": "e3d81e56b527",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "en3": {
+  "file": "en3.mp3",
+  "hash": "caa0051bd467",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "en30": {
+  "file": "en30.mp3",
+  "hash": "f8a3bb6b4e9f",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "en31": {
+  "file": "en31.mp3",
+  "hash": "3fe2b6c5a552",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "en32": {
+  "file": "en32.mp3",
+  "hash": "504b3229f76c",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "en33": {
+  "file": "en33.mp3",
+  "hash": "b7e954f7960e",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "en34": {
+  "file": "en34.mp3",
+  "hash": "761fc1ffde37",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "en35": {
+  "file": "en35.mp3",
+  "hash": "3cbd429d7d45",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "en36": {
+  "file": "en36.mp3",
+  "hash": "bbaff0ed81fc",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "en37": {
+  "file": "en37.mp3",
+  "hash": "00896ac4a943",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "en38": {
+  "file": "en38.mp3",
+  "hash": "6641fb9ebce5",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "en39": {
+  "file": "en39.mp3",
+  "hash": "f1806ad7b10e",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "en4": {
+  "file": "en4.mp3",
+  "hash": "ba8e70361d1f",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "en40": {
+  "file": "en40.mp3",
+  "hash": "7423fd223d41",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "en41": {
+  "file": "en41.mp3",
+  "hash": "8b2669385029",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "en42": {
+  "file": "en42.mp3",
+  "hash": "3bcc29e5ff9e",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "en43": {
+  "file": "en43.mp3",
+  "hash": "7585eaedf218",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "en44": {
+  "file": "en44.mp3",
+  "hash": "d5977d977ddc",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "en45": {
+  "file": "en45.mp3",
+  "hash": "bbf5b1c8e4e3",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "en46": {
+  "file": "en46.mp3",
+  "hash": "2f3b1e4d0a12",
+  "seconds": 2.0,
+  "voices": [
+   "g"
+  ]
+ },
+ "en47": {
+  "file": "en47.mp3",
+  "hash": "d55f8773d37f",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "en48": {
+  "file": "en48.mp3",
+  "hash": "d421cce78fe8",
+  "seconds": 2.1,
+  "voices": [
+   "g"
+  ]
+ },
+ "en49": {
+  "file": "en49.mp3",
+  "hash": "d4d3b7234be6",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "en5": {
+  "file": "en5.mp3",
+  "hash": "468f5397ad9b",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "en50": {
+  "file": "en50.mp3",
+  "hash": "70f931f76b79",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "en51": {
+  "file": "en51.mp3",
+  "hash": "1d1c1b5c25c0",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "en52": {
+  "file": "en52.mp3",
+  "hash": "ee47fa5a3746",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "en53": {
+  "file": "en53.mp3",
+  "hash": "8adb15b1779e",
+  "seconds": 2.0,
+  "voices": [
+   "g"
+  ]
+ },
+ "en54": {
+  "file": "en54.mp3",
+  "hash": "a72eb53868be",
+  "seconds": 2.0,
+  "voices": [
+   "g"
+  ]
+ },
+ "en55": {
+  "file": "en55.mp3",
+  "hash": "a806ac8294e6",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "en56": {
+  "file": "en56.mp3",
+  "hash": "855680f29c1b",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "en6": {
+  "file": "en6.mp3",
+  "hash": "78b8e75d3be7",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "en7": {
+  "file": "en7.mp3",
+  "hash": "4a134b801a61",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "en8": {
+  "file": "en8.mp3",
+  "hash": "e4d2f7d3cb99",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "en9": {
+  "file": "en9.mp3",
+  "hash": "be3211da61c5",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "et1": {
+  "file": "et1.mp3",
+  "hash": "e9fec349c003",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "et10": {
+  "file": "et10.mp3",
+  "hash": "8cc11fb7ec48",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "et11": {
+  "file": "et11.mp3",
+  "hash": "eb4e70ef4066",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "et12": {
+  "file": "et12.mp3",
+  "hash": "5ed6ecf3479b",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "et13": {
+  "file": "et13.mp3",
+  "hash": "5ae2c0d1223a",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "et14": {
+  "file": "et14.mp3",
+  "hash": "5b53994a6663",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "et15": {
+  "file": "et15.mp3",
+  "hash": "fb3120f6cfaa",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "et16": {
+  "file": "et16.mp3",
+  "hash": "612c44d288f4",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "et17": {
+  "file": "et17.mp3",
+  "hash": "6c80baf598f5",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "et18": {
+  "file": "et18.mp3",
+  "hash": "845ab056dfe4",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "et19": {
+  "file": "et19.mp3",
+  "hash": "06beb5ea99a1",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "et2": {
+  "file": "et2.mp3",
+  "hash": "6638f382dbdc",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "et20": {
+  "file": "et20.mp3",
+  "hash": "b6c139c9a318",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "et21": {
+  "file": "et21.mp3",
+  "hash": "585ee9f54a96",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "et22": {
+  "file": "et22.mp3",
+  "hash": "2c5723d54810",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "et23": {
+  "file": "et23.mp3",
+  "hash": "15a7a4d6fb93",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "et24": {
+  "file": "et24.mp3",
+  "hash": "a1814f40ed0c",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "et25": {
+  "file": "et25.mp3",
+  "hash": "653a248242b3",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "et26": {
+  "file": "et26.mp3",
+  "hash": "365c656968aa",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "et27": {
+  "file": "et27.mp3",
+  "hash": "bf8b50a16852",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "et28": {
+  "file": "et28.mp3",
+  "hash": "e14b32e5c9fa",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "et29": {
+  "file": "et29.mp3",
+  "hash": "88d392cb2781",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "et3": {
+  "file": "et3.mp3",
+  "hash": "4772087be645",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "et30": {
+  "file": "et30.mp3",
+  "hash": "664642ea9081",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "et31": {
+  "file": "et31.mp3",
+  "hash": "8469a9716c29",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "et32": {
+  "file": "et32.mp3",
+  "hash": "ab9fde8fd7c4",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "et33": {
+  "file": "et33.mp3",
+  "hash": "05297d1739ea",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "et34": {
+  "file": "et34.mp3",
+  "hash": "8b7fa041f0f3",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "et35": {
+  "file": "et35.mp3",
+  "hash": "e40b1a83f668",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "et36": {
+  "file": "et36.mp3",
+  "hash": "3c0cbf3cc552",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "et37": {
+  "file": "et37.mp3",
+  "hash": "4a3624643065",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "et38": {
+  "file": "et38.mp3",
+  "hash": "1b57438dc93a",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "et39": {
+  "file": "et39.mp3",
+  "hash": "8a93736d86a8",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "et4": {
+  "file": "et4.mp3",
+  "hash": "940da89bde02",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "et40": {
+  "file": "et40.mp3",
+  "hash": "eb79e097c846",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "et41": {
+  "file": "et41.mp3",
+  "hash": "edf60003857d",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "et42": {
+  "file": "et42.mp3",
+  "hash": "c57d5aa6335f",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "et43": {
+  "file": "et43.mp3",
+  "hash": "ab59e9a7375f",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "et44": {
+  "file": "et44.mp3",
+  "hash": "b2dd86df0b67",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "et45": {
+  "file": "et45.mp3",
+  "hash": "90aa43a7c7fb",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "et46": {
+  "file": "et46.mp3",
+  "hash": "5a972479f02a",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "et47": {
+  "file": "et47.mp3",
+  "hash": "fdd01b2b77ab",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "et48": {
+  "file": "et48.mp3",
+  "hash": "8b3796f3e907",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "et49": {
+  "file": "et49.mp3",
+  "hash": "553e02b126e3",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "et5": {
+  "file": "et5.mp3",
+  "hash": "47ec1008fd6e",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "et50": {
+  "file": "et50.mp3",
+  "hash": "520c49cd3904",
+  "seconds": 2.0,
+  "voices": [
+   "g"
+  ]
+ },
+ "et51": {
+  "file": "et51.mp3",
+  "hash": "53cf28b7aa56",
+  "seconds": 2.0,
+  "voices": [
+   "g"
+  ]
+ },
+ "et52": {
+  "file": "et52.mp3",
+  "hash": "d1b1c221d375",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "et53": {
+  "file": "et53.mp3",
+  "hash": "32d02278a9ff",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "et54": {
+  "file": "et54.mp3",
+  "hash": "1468bde7b765",
+  "seconds": 2.0,
+  "voices": [
+   "g"
+  ]
+ },
+ "et55": {
+  "file": "et55.mp3",
+  "hash": "4437b838dfbb",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "et56": {
+  "file": "et56.mp3",
+  "hash": "2005b0539736",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "et6": {
+  "file": "et6.mp3",
+  "hash": "a176bf55f845",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "et7": {
+  "file": "et7.mp3",
+  "hash": "c25f63519ddb",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "et8": {
+  "file": "et8.mp3",
+  "hash": "8f5884eebaad",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "et9": {
+  "file": "et9.mp3",
+  "hash": "50ada46100c7",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa1": {
+  "file": "fa1.mp3",
+  "hash": "0eb32979ce21",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa10": {
+  "file": "fa10.mp3",
+  "hash": "bd5f1063773b",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa11": {
+  "file": "fa11.mp3",
+  "hash": "30d5c5a7487c",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa12": {
+  "file": "fa12.mp3",
+  "hash": "ae5b7ab36ffb",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa13": {
+  "file": "fa13.mp3",
+  "hash": "ca6344fa09f1",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa14": {
+  "file": "fa14.mp3",
+  "hash": "df41320814ad",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa15": {
+  "file": "fa15.mp3",
+  "hash": "7d1fb6cb1366",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa16": {
+  "file": "fa16.mp3",
+  "hash": "3299b1bed58a",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa17": {
+  "file": "fa17.mp3",
+  "hash": "f8570dee6b7e",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa18": {
+  "file": "fa18.mp3",
+  "hash": "39864f17af94",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa19": {
+  "file": "fa19.mp3",
+  "hash": "a62abeec8230",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa2": {
+  "file": "fa2.mp3",
+  "hash": "0cb99af416c1",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa20": {
+  "file": "fa20.mp3",
+  "hash": "34ff910fa008",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa21": {
+  "file": "fa21.mp3",
+  "hash": "caaf1d1f10a1",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa22": {
+  "file": "fa22.mp3",
+  "hash": "8b0e60e65d19",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa23": {
+  "file": "fa23.mp3",
+  "hash": "f9cfef519b6a",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa24": {
+  "file": "fa24.mp3",
+  "hash": "3bd1153f7bc8",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa25": {
+  "file": "fa25.mp3",
+  "hash": "0407cf17bf3d",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa26": {
+  "file": "fa26.mp3",
+  "hash": "f12449012824",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa27": {
+  "file": "fa27.mp3",
+  "hash": "30f1ea156ff1",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa28": {
+  "file": "fa28.mp3",
+  "hash": "1af8ab7fcd03",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa29": {
+  "file": "fa29.mp3",
+  "hash": "b27fe7b96cbc",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa3": {
+  "file": "fa3.mp3",
+  "hash": "dbe5d1ccd0a4",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa30": {
+  "file": "fa30.mp3",
+  "hash": "b4a0927dfe97",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa31": {
+  "file": "fa31.mp3",
+  "hash": "3f71247c3bad",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa32": {
+  "file": "fa32.mp3",
+  "hash": "4dab20349c5e",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa33": {
+  "file": "fa33.mp3",
+  "hash": "17522b698347",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa34": {
+  "file": "fa34.mp3",
+  "hash": "8e59ace36fbd",
+  "seconds": 2.0,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa35": {
+  "file": "fa35.mp3",
+  "hash": "9c299589ad78",
+  "seconds": 2.0,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa36": {
+  "file": "fa36.mp3",
+  "hash": "f6cf0671cc40",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa37": {
+  "file": "fa37.mp3",
+  "hash": "b265553fcc32",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa38": {
+  "file": "fa38.mp3",
+  "hash": "6ed9669e30f9",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa39": {
+  "file": "fa39.mp3",
+  "hash": "dbd194ca743f",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa4": {
+  "file": "fa4.mp3",
+  "hash": "9156641d160f",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa40": {
+  "file": "fa40.mp3",
+  "hash": "d63cdae3c6de",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa41": {
+  "file": "fa41.mp3",
+  "hash": "50c6e38818f1",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa42": {
+  "file": "fa42.mp3",
+  "hash": "342cf00819c7",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa43": {
+  "file": "fa43.mp3",
+  "hash": "96712af3632d",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa44": {
+  "file": "fa44.mp3",
+  "hash": "f59b808328ac",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa45": {
+  "file": "fa45.mp3",
+  "hash": "0a940ad337ef",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa46": {
+  "file": "fa46.mp3",
+  "hash": "e80265b4688f",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa47": {
+  "file": "fa47.mp3",
+  "hash": "e2afd37dfe6b",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa48": {
+  "file": "fa48.mp3",
+  "hash": "efce4530573a",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa49": {
+  "file": "fa49.mp3",
+  "hash": "b6d0be9879b2",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa5": {
+  "file": "fa5.mp3",
+  "hash": "5434e3d10d7c",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa50": {
+  "file": "fa50.mp3",
+  "hash": "e5f144569ef2",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa51": {
+  "file": "fa51.mp3",
+  "hash": "8abd0e7771b2",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa52": {
+  "file": "fa52.mp3",
+  "hash": "3ba62e4ebf43",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa53": {
+  "file": "fa53.mp3",
+  "hash": "256e34f2d509",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa54": {
+  "file": "fa54.mp3",
+  "hash": "6c01510c3f2e",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa55": {
+  "file": "fa55.mp3",
+  "hash": "f7f973e9d338",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa56": {
+  "file": "fa56.mp3",
+  "hash": "8ee92c1a6d38",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa6": {
+  "file": "fa6.mp3",
+  "hash": "914b1381b21d",
+  "seconds": 1.2,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa7": {
+  "file": "fa7.mp3",
+  "hash": "2a62d7b31f8e",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa8": {
+  "file": "fa8.mp3",
+  "hash": "d992ea90dca4",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "fa9": {
+  "file": "fa9.mp3",
+  "hash": "a9a69c90391b",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs1": {
+  "file": "fs1.mp3",
+  "hash": "856afe377514",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs10": {
+  "file": "fs10.mp3",
+  "hash": "0f31cf33d574",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs11": {
+  "file": "fs11.mp3",
+  "hash": "5f0a1cca7915",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs12": {
+  "file": "fs12.mp3",
+  "hash": "c54172242c6f",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs13": {
+  "file": "fs13.mp3",
+  "hash": "8c21cfe6333f",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs14": {
+  "file": "fs14.mp3",
+  "hash": "22641fe14bba",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs15": {
+  "file": "fs15.mp3",
+  "hash": "4e06212cd623",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs16": {
+  "file": "fs16.mp3",
+  "hash": "daea8349769e",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs17": {
+  "file": "fs17.mp3",
+  "hash": "3ed3cc3dbf81",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs18": {
+  "file": "fs18.mp3",
+  "hash": "f0328084022b",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs19": {
+  "file": "fs19.mp3",
+  "hash": "ac7138113da0",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs2": {
+  "file": "fs2.mp3",
+  "hash": "790d180ed948",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs20": {
+  "file": "fs20.mp3",
+  "hash": "50cbcfa2af45",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs21": {
+  "file": "fs21.mp3",
+  "hash": "fe1cf6f70f43",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs22": {
+  "file": "fs22.mp3",
+  "hash": "6f188b1a1b86",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs23": {
+  "file": "fs23.mp3",
+  "hash": "f81c5ceb4923",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs24": {
+  "file": "fs24.mp3",
+  "hash": "32d260f3686f",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs25": {
+  "file": "fs25.mp3",
+  "hash": "90d2a7ffcb18",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs26": {
+  "file": "fs26.mp3",
+  "hash": "7e1721e7e3ef",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs27": {
+  "file": "fs27.mp3",
+  "hash": "63f721d79e43",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs28": {
+  "file": "fs28.mp3",
+  "hash": "0fac2df2a13e",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs29": {
+  "file": "fs29.mp3",
+  "hash": "4ee7534b1c8c",
+  "seconds": 1.3,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs3": {
+  "file": "fs3.mp3",
+  "hash": "d70f9da3f935",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs30": {
+  "file": "fs30.mp3",
+  "hash": "c7e49094dd52",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs31": {
+  "file": "fs31.mp3",
+  "hash": "5900eb92442f",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs32": {
+  "file": "fs32.mp3",
+  "hash": "84222096531b",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs33": {
+  "file": "fs33.mp3",
+  "hash": "25fac007e620",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs34": {
+  "file": "fs34.mp3",
+  "hash": "4c4a5ed6e4af",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs35": {
+  "file": "fs35.mp3",
+  "hash": "887dce46c69f",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs36": {
+  "file": "fs36.mp3",
+  "hash": "b2d1f0121d91",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs37": {
+  "file": "fs37.mp3",
+  "hash": "a4b19f5c6c28",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs38": {
+  "file": "fs38.mp3",
+  "hash": "892732196658",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs39": {
+  "file": "fs39.mp3",
+  "hash": "cf842cb5497a",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs4": {
+  "file": "fs4.mp3",
+  "hash": "f8eddaf72e03",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs40": {
+  "file": "fs40.mp3",
+  "hash": "2e697e23b0a4",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs41": {
+  "file": "fs41.mp3",
+  "hash": "17d328e6bbab",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs42": {
+  "file": "fs42.mp3",
+  "hash": "11c1b13d88a2",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs43": {
+  "file": "fs43.mp3",
+  "hash": "b6ee1baa952b",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs44": {
+  "file": "fs44.mp3",
+  "hash": "555933458df2",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs45": {
+  "file": "fs45.mp3",
+  "hash": "aaf36a982e80",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs46": {
+  "file": "fs46.mp3",
+  "hash": "454d2f243d3c",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs47": {
+  "file": "fs47.mp3",
+  "hash": "6aa3db7ab637",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs48": {
+  "file": "fs48.mp3",
+  "hash": "fd98353af8f7",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs49": {
+  "file": "fs49.mp3",
+  "hash": "a1a79f0baaf6",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs5": {
+  "file": "fs5.mp3",
+  "hash": "f55a1959aca0",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs50": {
+  "file": "fs50.mp3",
+  "hash": "c14aa5c186ff",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs51": {
+  "file": "fs51.mp3",
+  "hash": "41625c940765",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs52": {
+  "file": "fs52.mp3",
+  "hash": "38fb1c9cd0d7",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs53": {
+  "file": "fs53.mp3",
+  "hash": "ed84e8f75f65",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs54": {
+  "file": "fs54.mp3",
+  "hash": "8f033c58bcbb",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs55": {
+  "file": "fs55.mp3",
+  "hash": "32786d8384ca",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs56": {
+  "file": "fs56.mp3",
+  "hash": "082179c42860",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs6": {
+  "file": "fs6.mp3",
+  "hash": "b8b41814179b",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs7": {
+  "file": "fs7.mp3",
+  "hash": "0401a98a25c3",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs8": {
+  "file": "fs8.mp3",
+  "hash": "46f58fe5664f",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "fs9": {
+  "file": "fs9.mp3",
+  "hash": "c3b65710d6c1",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd1": {
+  "file": "gd1.mp3",
+  "hash": "31b788813f9b",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd10": {
+  "file": "gd10.mp3",
+  "hash": "dd3c46944e26",
+  "seconds": 2.0,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd11": {
+  "file": "gd11.mp3",
+  "hash": "d930ab7e71c8",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd12": {
+  "file": "gd12.mp3",
+  "hash": "5957a08de5bf",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd13": {
+  "file": "gd13.mp3",
+  "hash": "f5c8169132f8",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd14": {
+  "file": "gd14.mp3",
+  "hash": "302b001af2a6",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd15": {
+  "file": "gd15.mp3",
+  "hash": "498eba105cf9",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd16": {
+  "file": "gd16.mp3",
+  "hash": "9d8010151842",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd17": {
+  "file": "gd17.mp3",
+  "hash": "b18211d9716a",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd18": {
+  "file": "gd18.mp3",
+  "hash": "b1621d8fd0a5",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd19": {
+  "file": "gd19.mp3",
+  "hash": "3d0bd92592ad",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd2": {
+  "file": "gd2.mp3",
+  "hash": "95401ad5d9f4",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd20": {
+  "file": "gd20.mp3",
+  "hash": "e9213a239934",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd21": {
+  "file": "gd21.mp3",
+  "hash": "4ebcea80c01d",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd22": {
+  "file": "gd22.mp3",
+  "hash": "918fa134e831",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd23": {
+  "file": "gd23.mp3",
+  "hash": "42570b70fbe9",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd24": {
+  "file": "gd24.mp3",
+  "hash": "1243167b266b",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd25": {
+  "file": "gd25.mp3",
+  "hash": "a847c55e2f35",
+  "seconds": 2.0,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd26": {
+  "file": "gd26.mp3",
+  "hash": "285aa7a09054",
+  "seconds": 2.1,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd27": {
+  "file": "gd27.mp3",
+  "hash": "e344b6c6601d",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd28": {
+  "file": "gd28.mp3",
+  "hash": "5d4c176e0101",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd29": {
+  "file": "gd29.mp3",
+  "hash": "50417588ac91",
+  "seconds": 2.3,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd3": {
+  "file": "gd3.mp3",
+  "hash": "3dea6e1638de",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd30": {
+  "file": "gd30.mp3",
+  "hash": "3b6ef594155b",
+  "seconds": 2.2,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd31": {
+  "file": "gd31.mp3",
+  "hash": "942fbb2f0227",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd32": {
+  "file": "gd32.mp3",
+  "hash": "00a071de1f7b",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd33": {
+  "file": "gd33.mp3",
+  "hash": "bd4ed6d477dd",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd34": {
+  "file": "gd34.mp3",
+  "hash": "d4b494a91a62",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd35": {
+  "file": "gd35.mp3",
+  "hash": "246b639c0898",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd36": {
+  "file": "gd36.mp3",
+  "hash": "9bff0d25b3a9",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd37": {
+  "file": "gd37.mp3",
+  "hash": "8b135a88c658",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd38": {
+  "file": "gd38.mp3",
+  "hash": "5649547ead53",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd39": {
+  "file": "gd39.mp3",
+  "hash": "0012d33ec31a",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd4": {
+  "file": "gd4.mp3",
+  "hash": "2f8faf009925",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd40": {
+  "file": "gd40.mp3",
+  "hash": "cb1e63c18bc3",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd41": {
+  "file": "gd41.mp3",
+  "hash": "407c9fb44d92",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd42": {
+  "file": "gd42.mp3",
+  "hash": "a55c59664b09",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd43": {
+  "file": "gd43.mp3",
+  "hash": "8c0b9db4b6ad",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd44": {
+  "file": "gd44.mp3",
+  "hash": "2d89e7ab2b59",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd45": {
+  "file": "gd45.mp3",
+  "hash": "6d69dbf3f3f7",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd46": {
+  "file": "gd46.mp3",
+  "hash": "8cfcdec7015a",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd47": {
+  "file": "gd47.mp3",
+  "hash": "55cfc203895a",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd48": {
+  "file": "gd48.mp3",
+  "hash": "f66bf17d3fe9",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd49": {
+  "file": "gd49.mp3",
+  "hash": "c150d65949e7",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd5": {
+  "file": "gd5.mp3",
+  "hash": "08181213933d",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd50": {
+  "file": "gd50.mp3",
+  "hash": "ede96bc79ac4",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd51": {
+  "file": "gd51.mp3",
+  "hash": "87165f1e21cb",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd52": {
+  "file": "gd52.mp3",
+  "hash": "2272d32fb46c",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd53": {
+  "file": "gd53.mp3",
+  "hash": "030bf40c122d",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd54": {
+  "file": "gd54.mp3",
+  "hash": "523dc47f6193",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd55": {
+  "file": "gd55.mp3",
+  "hash": "aaa10cf91dd5",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd56": {
+  "file": "gd56.mp3",
+  "hash": "77a364fdd9bb",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd6": {
+  "file": "gd6.mp3",
+  "hash": "7178db2ec632",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd7": {
+  "file": "gd7.mp3",
+  "hash": "615e1fd49c0e",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd8": {
+  "file": "gd8.mp3",
+  "hash": "852b9fc5364e",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gd9": {
+  "file": "gd9.mp3",
+  "hash": "fbde65086489",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo1": {
+  "file": "geo1.mp3",
+  "hash": "7d6208c86431",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo10": {
+  "file": "geo10.mp3",
+  "hash": "f3bf992d646f",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo11": {
+  "file": "geo11.mp3",
+  "hash": "475102fc9e2c",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo12": {
+  "file": "geo12.mp3",
+  "hash": "8426fe5b1db2",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo13": {
+  "file": "geo13.mp3",
+  "hash": "f50aadb67780",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo14": {
+  "file": "geo14.mp3",
+  "hash": "b03c51b030fd",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo15": {
+  "file": "geo15.mp3",
+  "hash": "ad9d7342cc55",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo16": {
+  "file": "geo16.mp3",
+  "hash": "4ecfe39e92e8",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo17": {
+  "file": "geo17.mp3",
+  "hash": "7925ce8edfce",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo18": {
+  "file": "geo18.mp3",
+  "hash": "12835335798b",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo19": {
+  "file": "geo19.mp3",
+  "hash": "c5538ff20cea",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo2": {
+  "file": "geo2.mp3",
+  "hash": "b8b5033c1f76",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo20": {
+  "file": "geo20.mp3",
+  "hash": "6f6274229719",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo21": {
+  "file": "geo21.mp3",
+  "hash": "4fdaeabf733e",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo22": {
+  "file": "geo22.mp3",
+  "hash": "1b6f085d9efd",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo23": {
+  "file": "geo23.mp3",
+  "hash": "9f5b73f49e72",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo24": {
+  "file": "geo24.mp3",
+  "hash": "c8f98a45fb43",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo25": {
+  "file": "geo25.mp3",
+  "hash": "1df0292ab087",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo26": {
+  "file": "geo26.mp3",
+  "hash": "85a1e144ee93",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo27": {
+  "file": "geo27.mp3",
+  "hash": "015b78c1a7a9",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo28": {
+  "file": "geo28.mp3",
+  "hash": "8a92dc36a229",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo29": {
+  "file": "geo29.mp3",
+  "hash": "ed0f47019773",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo3": {
+  "file": "geo3.mp3",
+  "hash": "fedf81fffa34",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo30": {
+  "file": "geo30.mp3",
+  "hash": "48893ed88c18",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo31": {
+  "file": "geo31.mp3",
+  "hash": "0113243812fc",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo32": {
+  "file": "geo32.mp3",
+  "hash": "481276d73cf6",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo33": {
+  "file": "geo33.mp3",
+  "hash": "a216c352e4f0",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo34": {
+  "file": "geo34.mp3",
+  "hash": "6b84b9ced8e1",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo35": {
+  "file": "geo35.mp3",
+  "hash": "44afe01b66df",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo36": {
+  "file": "geo36.mp3",
+  "hash": "43a0f203c8e2",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo37": {
+  "file": "geo37.mp3",
+  "hash": "ed39ee23c299",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo38": {
+  "file": "geo38.mp3",
+  "hash": "14da212e3dfb",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo39": {
+  "file": "geo39.mp3",
+  "hash": "72a241938d9f",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo4": {
+  "file": "geo4.mp3",
+  "hash": "5a42c7cec357",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo40": {
+  "file": "geo40.mp3",
+  "hash": "d94cd7565399",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo41": {
+  "file": "geo41.mp3",
+  "hash": "4f54f79b3514",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo42": {
+  "file": "geo42.mp3",
+  "hash": "0e812b6b987f",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo43": {
+  "file": "geo43.mp3",
+  "hash": "03a1099803a1",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo44": {
+  "file": "geo44.mp3",
+  "hash": "f1d43846a686",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo45": {
+  "file": "geo45.mp3",
+  "hash": "64153de42285",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo46": {
+  "file": "geo46.mp3",
+  "hash": "82456793b8ab",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo47": {
+  "file": "geo47.mp3",
+  "hash": "05d681b0c55f",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo48": {
+  "file": "geo48.mp3",
+  "hash": "08837bcd61a8",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo49": {
+  "file": "geo49.mp3",
+  "hash": "a4b23ab871f2",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo5": {
+  "file": "geo5.mp3",
+  "hash": "d9e896f04047",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo50": {
+  "file": "geo50.mp3",
+  "hash": "f1e67fb76d66",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo51": {
+  "file": "geo51.mp3",
+  "hash": "e0f66dbe5fdc",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo52": {
+  "file": "geo52.mp3",
+  "hash": "574a5b4d64f3",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo53": {
+  "file": "geo53.mp3",
+  "hash": "b090fa1f4855",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo54": {
+  "file": "geo54.mp3",
+  "hash": "62179e1d36bd",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo55": {
+  "file": "geo55.mp3",
+  "hash": "3cf85c18c02a",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo56": {
+  "file": "geo56.mp3",
+  "hash": "6812d43d5b0d",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo6": {
+  "file": "geo6.mp3",
+  "hash": "a963cad3173d",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo7": {
+  "file": "geo7.mp3",
+  "hash": "dccca1be0ebd",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo8": {
+  "file": "geo8.mp3",
+  "hash": "2b1347e80318",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "geo9": {
+  "file": "geo9.mp3",
+  "hash": "4baf2819a7a7",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm1": {
+  "file": "gm1.mp3",
+  "hash": "e955e104b572",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm10": {
+  "file": "gm10.mp3",
+  "hash": "fee96dcd108c",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm11": {
+  "file": "gm11.mp3",
+  "hash": "8c3922c8c45f",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm12": {
+  "file": "gm12.mp3",
+  "hash": "354776bdacf7",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm13": {
+  "file": "gm13.mp3",
+  "hash": "70ce2c2b197e",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm14": {
+  "file": "gm14.mp3",
+  "hash": "230a90c5e50e",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm15": {
+  "file": "gm15.mp3",
+  "hash": "f0e14ce5fec5",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm16": {
+  "file": "gm16.mp3",
+  "hash": "89728e939fa8",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm17": {
+  "file": "gm17.mp3",
+  "hash": "3d9f2b3d2128",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm18": {
+  "file": "gm18.mp3",
+  "hash": "fc48f7235b3f",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm19": {
+  "file": "gm19.mp3",
+  "hash": "c3d32ff8c146",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm2": {
+  "file": "gm2.mp3",
+  "hash": "4b90f1b99c35",
+  "seconds": 0.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm20": {
+  "file": "gm20.mp3",
+  "hash": "7c96728ee462",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm21": {
+  "file": "gm21.mp3",
+  "hash": "e95843b516e9",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm22": {
+  "file": "gm22.mp3",
+  "hash": "4f8ad7fd213c",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm23": {
+  "file": "gm23.mp3",
+  "hash": "4cf6138e80a0",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm24": {
+  "file": "gm24.mp3",
+  "hash": "3cc0b99cbd0d",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm25": {
+  "file": "gm25.mp3",
+  "hash": "4b387e992cb6",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm26": {
+  "file": "gm26.mp3",
+  "hash": "3408a3aadc8a",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm27": {
+  "file": "gm27.mp3",
+  "hash": "7c52a44693da",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm28": {
+  "file": "gm28.mp3",
+  "hash": "a0d48a04e7ac",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm29": {
+  "file": "gm29.mp3",
+  "hash": "1b8a6151f01c",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm3": {
+  "file": "gm3.mp3",
+  "hash": "b25b44be76b5",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm30": {
+  "file": "gm30.mp3",
+  "hash": "583560f3467d",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm31": {
+  "file": "gm31.mp3",
+  "hash": "0f1c36c76c2c",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm32": {
+  "file": "gm32.mp3",
+  "hash": "1b42424ec15a",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm33": {
+  "file": "gm33.mp3",
+  "hash": "69351c2ec92a",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm34": {
+  "file": "gm34.mp3",
+  "hash": "52bc101cce67",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm35": {
+  "file": "gm35.mp3",
+  "hash": "5147c04057a9",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm36": {
+  "file": "gm36.mp3",
+  "hash": "2aad0091302e",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm37": {
+  "file": "gm37.mp3",
+  "hash": "c9b2e7c5aa77",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm38": {
+  "file": "gm38.mp3",
+  "hash": "74bdf573c29e",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm39": {
+  "file": "gm39.mp3",
+  "hash": "615dc7dcbde5",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm4": {
+  "file": "gm4.mp3",
+  "hash": "ec1f4495896e",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm40": {
+  "file": "gm40.mp3",
+  "hash": "9e9d00e55d77",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm41": {
+  "file": "gm41.mp3",
+  "hash": "a2d959f64ff3",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm42": {
+  "file": "gm42.mp3",
+  "hash": "6c5ffa8d1006",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm43": {
+  "file": "gm43.mp3",
+  "hash": "c99c097d9b49",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm44": {
+  "file": "gm44.mp3",
+  "hash": "62e5f8bf9261",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm45": {
+  "file": "gm45.mp3",
+  "hash": "c8276069e3bc",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm46": {
+  "file": "gm46.mp3",
+  "hash": "50445a4031c0",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm47": {
+  "file": "gm47.mp3",
+  "hash": "5ae2c0d1223a",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm48": {
+  "file": "gm48.mp3",
+  "hash": "19120b0e7b14",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm49": {
+  "file": "gm49.mp3",
+  "hash": "152d4b7c1de8",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm5": {
+  "file": "gm5.mp3",
+  "hash": "8966da7af516",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm50": {
+  "file": "gm50.mp3",
+  "hash": "eab02b656b05",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm51": {
+  "file": "gm51.mp3",
+  "hash": "7f149b85abfb",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm52": {
+  "file": "gm52.mp3",
+  "hash": "12d846da8fdc",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm53": {
+  "file": "gm53.mp3",
+  "hash": "bed83868f211",
+  "seconds": 1.3,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm54": {
+  "file": "gm54.mp3",
+  "hash": "9405d347fb88",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm55": {
+  "file": "gm55.mp3",
+  "hash": "cf160e17370c",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm56": {
+  "file": "gm56.mp3",
+  "hash": "33a26fa59e34",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm6": {
+  "file": "gm6.mp3",
+  "hash": "b16888a3df02",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm7": {
+  "file": "gm7.mp3",
+  "hash": "5a5a86e8d1e5",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm8": {
+  "file": "gm8.mp3",
+  "hash": "dc26baec6eb2",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gm9": {
+  "file": "gm9.mp3",
+  "hash": "a492f85a92d0",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt1": {
+  "file": "gt1.mp3",
+  "hash": "e3897ebdae82",
+  "seconds": 2.0,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt10": {
+  "file": "gt10.mp3",
+  "hash": "df8a7cf5bb47",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt11": {
+  "file": "gt11.mp3",
+  "hash": "2b5a014de2d4",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt12": {
+  "file": "gt12.mp3",
+  "hash": "5644e69d6253",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt13": {
+  "file": "gt13.mp3",
+  "hash": "53b52c52ae3f",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt14": {
+  "file": "gt14.mp3",
+  "hash": "78e2e5dd25f8",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt15": {
+  "file": "gt15.mp3",
+  "hash": "1bbc642bbb53",
+  "seconds": 2.0,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt16": {
+  "file": "gt16.mp3",
+  "hash": "2f62102faa83",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt17": {
+  "file": "gt17.mp3",
+  "hash": "88e4e89f0c47",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt18": {
+  "file": "gt18.mp3",
+  "hash": "53b7b5b8a9e6",
+  "seconds": 2.1,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt19": {
+  "file": "gt19.mp3",
+  "hash": "1bd245ad31cd",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt2": {
+  "file": "gt2.mp3",
+  "hash": "263e6c463f91",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt20": {
+  "file": "gt20.mp3",
+  "hash": "386fdf342216",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt21": {
+  "file": "gt21.mp3",
+  "hash": "6ab6472d144a",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt22": {
+  "file": "gt22.mp3",
+  "hash": "be683614fa65",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt23": {
+  "file": "gt23.mp3",
+  "hash": "b4d7252685df",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt24": {
+  "file": "gt24.mp3",
+  "hash": "47c64d671162",
+  "seconds": 2.2,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt25": {
+  "file": "gt25.mp3",
+  "hash": "dbbc244d9fa6",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt26": {
+  "file": "gt26.mp3",
+  "hash": "e16862e94250",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt27": {
+  "file": "gt27.mp3",
+  "hash": "27acf74e1ecc",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt28": {
+  "file": "gt28.mp3",
+  "hash": "461ad00f0333",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt29": {
+  "file": "gt29.mp3",
+  "hash": "936892b1663b",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt3": {
+  "file": "gt3.mp3",
+  "hash": "cbfff51d7efe",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt30": {
+  "file": "gt30.mp3",
+  "hash": "68322f78d7fc",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt31": {
+  "file": "gt31.mp3",
+  "hash": "a08f556c95b4",
+  "seconds": 2.1,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt32": {
+  "file": "gt32.mp3",
+  "hash": "785f135b9693",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt33": {
+  "file": "gt33.mp3",
+  "hash": "3288b964f60b",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt34": {
+  "file": "gt34.mp3",
+  "hash": "b265cc9ed89f",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt35": {
+  "file": "gt35.mp3",
+  "hash": "dd1711386ed2",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt36": {
+  "file": "gt36.mp3",
+  "hash": "09f86c928bdf",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt37": {
+  "file": "gt37.mp3",
+  "hash": "857ef9903257",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt38": {
+  "file": "gt38.mp3",
+  "hash": "6fe803594fe8",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt39": {
+  "file": "gt39.mp3",
+  "hash": "463fbbcbe4da",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt4": {
+  "file": "gt4.mp3",
+  "hash": "5205019fe087",
+  "seconds": 2.0,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt40": {
+  "file": "gt40.mp3",
+  "hash": "4a823bece6df",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt41": {
+  "file": "gt41.mp3",
+  "hash": "a2ca3db633f6",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt42": {
+  "file": "gt42.mp3",
+  "hash": "3dfd55487d30",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt43": {
+  "file": "gt43.mp3",
+  "hash": "e39e909c1143",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt44": {
+  "file": "gt44.mp3",
+  "hash": "dd2ac8d010a7",
+  "seconds": 2.0,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt45": {
+  "file": "gt45.mp3",
+  "hash": "a9d69f2cde59",
+  "seconds": 2.0,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt46": {
+  "file": "gt46.mp3",
+  "hash": "3ee04206dadc",
+  "seconds": 2.2,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt47": {
+  "file": "gt47.mp3",
+  "hash": "9b001c2da9e8",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt48": {
+  "file": "gt48.mp3",
+  "hash": "4330f2387263",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt49": {
+  "file": "gt49.mp3",
+  "hash": "9d6c9347f11e",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt5": {
+  "file": "gt5.mp3",
+  "hash": "98152ce3f55e",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt50": {
+  "file": "gt50.mp3",
+  "hash": "b5603652140e",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt51": {
+  "file": "gt51.mp3",
+  "hash": "e5f9a51f8e8d",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt52": {
+  "file": "gt52.mp3",
+  "hash": "1f6f3f747bc4",
+  "seconds": 2.1,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt53": {
+  "file": "gt53.mp3",
+  "hash": "3e21b28c18ab",
+  "seconds": 2.0,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt54": {
+  "file": "gt54.mp3",
+  "hash": "fa0926759e84",
+  "seconds": 2.1,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt55": {
+  "file": "gt55.mp3",
+  "hash": "d07a44ca8d09",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt56": {
+  "file": "gt56.mp3",
+  "hash": "67410d76cf59",
+  "seconds": 2.0,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt6": {
+  "file": "gt6.mp3",
+  "hash": "a94d5e83b449",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt7": {
+  "file": "gt7.mp3",
+  "hash": "586100052e97",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt8": {
+  "file": "gt8.mp3",
+  "hash": "8a9aea6ad4a7",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "gt9": {
+  "file": "gt9.mp3",
+  "hash": "41e15411ee13",
+  "seconds": 2.1,
+  "voices": [
+   "g"
+  ]
+ },
+ "he1": {
+  "file": "he1.mp3",
+  "hash": "a59e9f9cffcd",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "he10": {
+  "file": "he10.mp3",
+  "hash": "e4ed5aef6092",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "he11": {
+  "file": "he11.mp3",
+  "hash": "35ffa48b4768",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "he12": {
+  "file": "he12.mp3",
+  "hash": "de478fedbf23",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "he13": {
+  "file": "he13.mp3",
+  "hash": "a65079d54d79",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "he14": {
+  "file": "he14.mp3",
+  "hash": "00368a78a270",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "he15": {
+  "file": "he15.mp3",
+  "hash": "54c41ae8b2bb",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "he16": {
+  "file": "he16.mp3",
+  "hash": "2a4679303853",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "he17": {
+  "file": "he17.mp3",
+  "hash": "44b47b091716",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "he18": {
+  "file": "he18.mp3",
+  "hash": "013575b2674c",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "he19": {
+  "file": "he19.mp3",
+  "hash": "838c1f401d9e",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "he2": {
+  "file": "he2.mp3",
+  "hash": "3c22b3c64d28",
+  "seconds": 1.3,
+  "voices": [
+   "g"
+  ]
+ },
+ "he20": {
+  "file": "he20.mp3",
+  "hash": "8a67d7d9f432",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "he21": {
+  "file": "he21.mp3",
+  "hash": "cd8e01376f70",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "he22": {
+  "file": "he22.mp3",
+  "hash": "f2c0f82f2b23",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "he23": {
+  "file": "he23.mp3",
+  "hash": "fd53bdc15cc6",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "he24": {
+  "file": "he24.mp3",
+  "hash": "40f657bb49ff",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "he25": {
+  "file": "he25.mp3",
+  "hash": "0aea4cb37a57",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "he26": {
+  "file": "he26.mp3",
+  "hash": "7a951bc4c756",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "he27": {
+  "file": "he27.mp3",
+  "hash": "656e42037330",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "he28": {
+  "file": "he28.mp3",
+  "hash": "1154ec7fd636",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "he29": {
+  "file": "he29.mp3",
+  "hash": "4deb040191e7",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "he3": {
+  "file": "he3.mp3",
+  "hash": "ec7ac5f51e5a",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "he30": {
+  "file": "he30.mp3",
+  "hash": "8820ec221565",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "he31": {
+  "file": "he31.mp3",
+  "hash": "ce80526642fe",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "he32": {
+  "file": "he32.mp3",
+  "hash": "dadf835dd586",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "he33": {
+  "file": "he33.mp3",
+  "hash": "5199be307057",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "he34": {
+  "file": "he34.mp3",
+  "hash": "12bfc49d11f4",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "he35": {
+  "file": "he35.mp3",
+  "hash": "4e61983e566c",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "he36": {
+  "file": "he36.mp3",
+  "hash": "f15fac276c6c",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "he37": {
+  "file": "he37.mp3",
+  "hash": "5774fe856c2a",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "he38": {
+  "file": "he38.mp3",
+  "hash": "d27430815475",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "he39": {
+  "file": "he39.mp3",
+  "hash": "0d23107dc56c",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "he4": {
+  "file": "he4.mp3",
+  "hash": "a92b26b9f5be",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "he40": {
+  "file": "he40.mp3",
+  "hash": "cc9e93849b0e",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "he41": {
+  "file": "he41.mp3",
+  "hash": "0488ebde52f7",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "he42": {
+  "file": "he42.mp3",
+  "hash": "8ee63aeb0317",
+  "seconds": 2.0,
+  "voices": [
+   "g"
+  ]
+ },
+ "he43": {
+  "file": "he43.mp3",
+  "hash": "7336dc21ad68",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "he44": {
+  "file": "he44.mp3",
+  "hash": "b71766a16ca8",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "he45": {
+  "file": "he45.mp3",
+  "hash": "3be53d90dc81",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "he46": {
+  "file": "he46.mp3",
+  "hash": "51760c9dc067",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "he47": {
+  "file": "he47.mp3",
+  "hash": "7411419ab4df",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "he48": {
+  "file": "he48.mp3",
+  "hash": "8b5ca41935d8",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "he49": {
+  "file": "he49.mp3",
+  "hash": "27273aff89f6",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "he5": {
+  "file": "he5.mp3",
+  "hash": "7073060561c3",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "he50": {
+  "file": "he50.mp3",
+  "hash": "d160a28dc6f7",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "he51": {
+  "file": "he51.mp3",
+  "hash": "c83b90a92953",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "he52": {
+  "file": "he52.mp3",
+  "hash": "4fe36f76f88e",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "he53": {
+  "file": "he53.mp3",
+  "hash": "ea6636f87ba6",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "he54": {
+  "file": "he54.mp3",
+  "hash": "afe6dc96d87a",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "he55": {
+  "file": "he55.mp3",
+  "hash": "0eaaea439988",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "he56": {
+  "file": "he56.mp3",
+  "hash": "726d94d07cf2",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "he6": {
+  "file": "he6.mp3",
+  "hash": "031c30a3103b",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "he7": {
+  "file": "he7.mp3",
+  "hash": "787baee345a9",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "he8": {
+  "file": "he8.mp3",
+  "hash": "858662c681f4",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "he9": {
+  "file": "he9.mp3",
+  "hash": "67718bdf7cd0",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp1": {
+  "file": "jp1.mp3",
+  "hash": "fd4d17d440fd",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp10": {
+  "file": "jp10.mp3",
+  "hash": "e73b1cae2fa1",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp11": {
+  "file": "jp11.mp3",
+  "hash": "38d36f916306",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp12": {
+  "file": "jp12.mp3",
+  "hash": "7a37c8ba3bb4",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp13": {
+  "file": "jp13.mp3",
+  "hash": "5c7eac0dc9f6",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp14": {
+  "file": "jp14.mp3",
+  "hash": "23c1c5cbfac6",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp15": {
+  "file": "jp15.mp3",
+  "hash": "360d29c025aa",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp16": {
+  "file": "jp16.mp3",
+  "hash": "35c067334744",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp17": {
+  "file": "jp17.mp3",
+  "hash": "ac765fd99984",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp18": {
+  "file": "jp18.mp3",
+  "hash": "b4c7b27a9333",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp19": {
+  "file": "jp19.mp3",
+  "hash": "cd8945962dc0",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp2": {
+  "file": "jp2.mp3",
+  "hash": "3507180958de",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp20": {
+  "file": "jp20.mp3",
+  "hash": "40f07fa334b9",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp21": {
+  "file": "jp21.mp3",
+  "hash": "f8f148a2bd12",
+  "seconds": 2.0,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp22": {
+  "file": "jp22.mp3",
+  "hash": "af604b68b845",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp23": {
+  "file": "jp23.mp3",
+  "hash": "3a7889f66dfd",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp24": {
+  "file": "jp24.mp3",
+  "hash": "a02fbbf523cc",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp25": {
+  "file": "jp25.mp3",
+  "hash": "247747defaf3",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp26": {
+  "file": "jp26.mp3",
+  "hash": "1761611fd68c",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp27": {
+  "file": "jp27.mp3",
+  "hash": "8c7b4a818e85",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp28": {
+  "file": "jp28.mp3",
+  "hash": "3e58a4f3a763",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp29": {
+  "file": "jp29.mp3",
+  "hash": "0b1812d3fc2e",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp3": {
+  "file": "jp3.mp3",
+  "hash": "03c10ad419ff",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp30": {
+  "file": "jp30.mp3",
+  "hash": "c7977c888bd1",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp31": {
+  "file": "jp31.mp3",
+  "hash": "b9dbc90f574c",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp32": {
+  "file": "jp32.mp3",
+  "hash": "590571805a8d",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp33": {
+  "file": "jp33.mp3",
+  "hash": "24d79563f8d4",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp34": {
+  "file": "jp34.mp3",
+  "hash": "6b96d8b5c2ca",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp35": {
+  "file": "jp35.mp3",
+  "hash": "510458148b78",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp36": {
+  "file": "jp36.mp3",
+  "hash": "a247eff745d7",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp37": {
+  "file": "jp37.mp3",
+  "hash": "12c98f8f0d5b",
+  "seconds": 2.0,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp38": {
+  "file": "jp38.mp3",
+  "hash": "69bdbc9106d9",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp39": {
+  "file": "jp39.mp3",
+  "hash": "98cec4015db1",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp4": {
+  "file": "jp4.mp3",
+  "hash": "0dee164abf49",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp40": {
+  "file": "jp40.mp3",
+  "hash": "828e411b8a67",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp41": {
+  "file": "jp41.mp3",
+  "hash": "d6901aa5f860",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp42": {
+  "file": "jp42.mp3",
+  "hash": "49a4d83b8109",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp43": {
+  "file": "jp43.mp3",
+  "hash": "c1abcc4c3533",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp44": {
+  "file": "jp44.mp3",
+  "hash": "62d8153d00f5",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp45": {
+  "file": "jp45.mp3",
+  "hash": "72bb78cab176",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp46": {
+  "file": "jp46.mp3",
+  "hash": "9c1c2474693f",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp47": {
+  "file": "jp47.mp3",
+  "hash": "09d878a3c7f6",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp48": {
+  "file": "jp48.mp3",
+  "hash": "913c798e009e",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp49": {
+  "file": "jp49.mp3",
+  "hash": "df3f63858a97",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp5": {
+  "file": "jp5.mp3",
+  "hash": "5a41962d205d",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp50": {
+  "file": "jp50.mp3",
+  "hash": "0bd234ff4ab9",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp51": {
+  "file": "jp51.mp3",
+  "hash": "375ebd01ff98",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp52": {
+  "file": "jp52.mp3",
+  "hash": "aea49918c7bc",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp53": {
+  "file": "jp53.mp3",
+  "hash": "d5ff785c4e07",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp54": {
+  "file": "jp54.mp3",
+  "hash": "5a82df7a6a94",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp55": {
+  "file": "jp55.mp3",
+  "hash": "b293964edc1d",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp56": {
+  "file": "jp56.mp3",
+  "hash": "9dcc33337833",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp6": {
+  "file": "jp6.mp3",
+  "hash": "290ea9bd3b19",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp7": {
+  "file": "jp7.mp3",
+  "hash": "3bd6221a012a",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp8": {
+  "file": "jp8.mp3",
+  "hash": "6494c49c0cef",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "jp9": {
+  "file": "jp9.mp3",
+  "hash": "9d61d8b73665",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks1": {
+  "file": "ks1.mp3",
+  "hash": "73d374567dd0",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks10": {
+  "file": "ks10.mp3",
+  "hash": "69a7eaaa3882",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks11": {
+  "file": "ks11.mp3",
+  "hash": "3dcb56fd324e",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks12": {
+  "file": "ks12.mp3",
+  "hash": "21e64dcfb67a",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks13": {
+  "file": "ks13.mp3",
+  "hash": "8635d87939b4",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks14": {
+  "file": "ks14.mp3",
+  "hash": "007741445ea5",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks15": {
+  "file": "ks15.mp3",
+  "hash": "f286406a579b",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks16": {
+  "file": "ks16.mp3",
+  "hash": "04bbe6d1a44c",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks17": {
+  "file": "ks17.mp3",
+  "hash": "f565ed700573",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks18": {
+  "file": "ks18.mp3",
+  "hash": "e1dd69822cfb",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks19": {
+  "file": "ks19.mp3",
+  "hash": "c37c0cd64d45",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks2": {
+  "file": "ks2.mp3",
+  "hash": "0c4678104ec4",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks20": {
+  "file": "ks20.mp3",
+  "hash": "317bb8f87902",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks21": {
+  "file": "ks21.mp3",
+  "hash": "68f94705557b",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks22": {
+  "file": "ks22.mp3",
+  "hash": "81a305ab72a5",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks23": {
+  "file": "ks23.mp3",
+  "hash": "6df3c8b16be5",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks24": {
+  "file": "ks24.mp3",
+  "hash": "c30979b1f664",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks25": {
+  "file": "ks25.mp3",
+  "hash": "7c41339a9d7c",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks26": {
+  "file": "ks26.mp3",
+  "hash": "ec6ee82a0a3d",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks27": {
+  "file": "ks27.mp3",
+  "hash": "bb3d95ffe8d7",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks28": {
+  "file": "ks28.mp3",
+  "hash": "dfad6d425d87",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks29": {
+  "file": "ks29.mp3",
+  "hash": "36f0e62ef734",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks3": {
+  "file": "ks3.mp3",
+  "hash": "4b28ba177550",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks30": {
+  "file": "ks30.mp3",
+  "hash": "e2a091d67626",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks31": {
+  "file": "ks31.mp3",
+  "hash": "56761d0ae438",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks32": {
+  "file": "ks32.mp3",
+  "hash": "01b12fdccac0",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks33": {
+  "file": "ks33.mp3",
+  "hash": "f7a4a06553e3",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks34": {
+  "file": "ks34.mp3",
+  "hash": "368c8e8d501c",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks35": {
+  "file": "ks35.mp3",
+  "hash": "250e0444b11e",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks36": {
+  "file": "ks36.mp3",
+  "hash": "53fe781fff34",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks37": {
+  "file": "ks37.mp3",
+  "hash": "3d19ff97f22d",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks38": {
+  "file": "ks38.mp3",
+  "hash": "77365df8f862",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks39": {
+  "file": "ks39.mp3",
+  "hash": "617c4cdd83cc",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks4": {
+  "file": "ks4.mp3",
+  "hash": "b51d68a1e1e7",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks40": {
+  "file": "ks40.mp3",
+  "hash": "1da6f2f1901b",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks41": {
+  "file": "ks41.mp3",
+  "hash": "db07bce24304",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks42": {
+  "file": "ks42.mp3",
+  "hash": "1739f851f4b8",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks43": {
+  "file": "ks43.mp3",
+  "hash": "a6a398be9ec9",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks44": {
+  "file": "ks44.mp3",
+  "hash": "85b58d3baadc",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks45": {
+  "file": "ks45.mp3",
+  "hash": "0de17ea0b239",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks46": {
+  "file": "ks46.mp3",
+  "hash": "d8c616e6f4ac",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks47": {
+  "file": "ks47.mp3",
+  "hash": "523ce5785106",
+  "seconds": 2.2,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks48": {
+  "file": "ks48.mp3",
+  "hash": "5a590a6f806c",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks49": {
+  "file": "ks49.mp3",
+  "hash": "10b0660c0dda",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks5": {
+  "file": "ks5.mp3",
+  "hash": "9618a43d0c48",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks50": {
+  "file": "ks50.mp3",
+  "hash": "90bed5ff9b10",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks51": {
+  "file": "ks51.mp3",
+  "hash": "d97d01042197",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks52": {
+  "file": "ks52.mp3",
+  "hash": "e238254760de",
+  "seconds": 2.1,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks53": {
+  "file": "ks53.mp3",
+  "hash": "8717a6bfb3ee",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks54": {
+  "file": "ks54.mp3",
+  "hash": "9f159a2762e3",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks55": {
+  "file": "ks55.mp3",
+  "hash": "a525a1427861",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks56": {
+  "file": "ks56.mp3",
+  "hash": "4f1f11ec995e",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks6": {
+  "file": "ks6.mp3",
+  "hash": "497bff7c512a",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks7": {
+  "file": "ks7.mp3",
+  "hash": "0038ca5d4a63",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks8": {
+  "file": "ks8.mp3",
+  "hash": "b054b0913124",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "ks9": {
+  "file": "ks9.mp3",
+  "hash": "3f3921b1a8c8",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn1": {
+  "file": "nn1.mp3",
+  "hash": "5c9d3c1de965",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn10": {
+  "file": "nn10.mp3",
+  "hash": "0af70868091a",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn11": {
+  "file": "nn11.mp3",
+  "hash": "c49efb5f129b",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn12": {
+  "file": "nn12.mp3",
+  "hash": "ef4ceec58998",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn13": {
+  "file": "nn13.mp3",
+  "hash": "cd95a6bebfeb",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn14": {
+  "file": "nn14.mp3",
+  "hash": "18f68f5e3c50",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn15": {
+  "file": "nn15.mp3",
+  "hash": "cd597edd36f9",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn16": {
+  "file": "nn16.mp3",
+  "hash": "fcaf6df2d268",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn17": {
+  "file": "nn17.mp3",
+  "hash": "b40150d1d78a",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn18": {
+  "file": "nn18.mp3",
+  "hash": "b4e6fbb64f60",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn19": {
+  "file": "nn19.mp3",
+  "hash": "ffb1b70740a5",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn2": {
+  "file": "nn2.mp3",
+  "hash": "e2fe3ae544b7",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn20": {
+  "file": "nn20.mp3",
+  "hash": "f0aa2d483ded",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn21": {
+  "file": "nn21.mp3",
+  "hash": "11177afc398d",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn22": {
+  "file": "nn22.mp3",
+  "hash": "4c153dcc378e",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn23": {
+  "file": "nn23.mp3",
+  "hash": "3a9e5def8ca9",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn24": {
+  "file": "nn24.mp3",
+  "hash": "d088f7029cf1",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn25": {
+  "file": "nn25.mp3",
+  "hash": "0590ad6e1b93",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn26": {
+  "file": "nn26.mp3",
+  "hash": "c8586fbcea21",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn27": {
+  "file": "nn27.mp3",
+  "hash": "0b49332990ec",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn28": {
+  "file": "nn28.mp3",
+  "hash": "f6b37be11829",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn29": {
+  "file": "nn29.mp3",
+  "hash": "013e443f05cf",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn3": {
+  "file": "nn3.mp3",
+  "hash": "81b07d91f4e5",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn30": {
+  "file": "nn30.mp3",
+  "hash": "08397681d363",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn31": {
+  "file": "nn31.mp3",
+  "hash": "125c45179163",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn32": {
+  "file": "nn32.mp3",
+  "hash": "de9437b64796",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn33": {
+  "file": "nn33.mp3",
+  "hash": "118f4c09e06e",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn34": {
+  "file": "nn34.mp3",
+  "hash": "fe5e9423ef1a",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn35": {
+  "file": "nn35.mp3",
+  "hash": "bea023082083",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn36": {
+  "file": "nn36.mp3",
+  "hash": "8e6b35b74a37",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn37": {
+  "file": "nn37.mp3",
+  "hash": "95f75bb6f176",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn38": {
+  "file": "nn38.mp3",
+  "hash": "28c96a4e4e1f",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn39": {
+  "file": "nn39.mp3",
+  "hash": "ab4f60f69953",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn4": {
+  "file": "nn4.mp3",
+  "hash": "1d8eb458c240",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn40": {
+  "file": "nn40.mp3",
+  "hash": "ecc4ff920c91",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn41": {
+  "file": "nn41.mp3",
+  "hash": "5b0bdc6f35ca",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn42": {
+  "file": "nn42.mp3",
+  "hash": "a9d59ddb2361",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn43": {
+  "file": "nn43.mp3",
+  "hash": "acb92a31cd23",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn44": {
+  "file": "nn44.mp3",
+  "hash": "01565257f1ad",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn45": {
+  "file": "nn45.mp3",
+  "hash": "b2e92a949c46",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn46": {
+  "file": "nn46.mp3",
+  "hash": "d2f598c35f4e",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn47": {
+  "file": "nn47.mp3",
+  "hash": "15c19dea65b8",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn48": {
+  "file": "nn48.mp3",
+  "hash": "81a8cbfb5b7c",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn49": {
+  "file": "nn49.mp3",
+  "hash": "18cac205fff3",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn5": {
+  "file": "nn5.mp3",
+  "hash": "04578b2efef4",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn50": {
+  "file": "nn50.mp3",
+  "hash": "18edf28c9511",
+  "seconds": 2.0,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn51": {
+  "file": "nn51.mp3",
+  "hash": "89c3028a907c",
+  "seconds": 2.0,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn52": {
+  "file": "nn52.mp3",
+  "hash": "63216bfa3b23",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn53": {
+  "file": "nn53.mp3",
+  "hash": "f8e83a25bcde",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn54": {
+  "file": "nn54.mp3",
+  "hash": "cba6dae553f4",
+  "seconds": 2.0,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn55": {
+  "file": "nn55.mp3",
+  "hash": "aaaf0b66fe0d",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn56": {
+  "file": "nn56.mp3",
+  "hash": "8913ed790592",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn6": {
+  "file": "nn6.mp3",
+  "hash": "6dc9c96b1ebb",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn7": {
+  "file": "nn7.mp3",
+  "hash": "379a1db9436f",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn8": {
+  "file": "nn8.mp3",
+  "hash": "428c7d660edc",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "nn9": {
+  "file": "nn9.mp3",
+  "hash": "05f0ba24a0f2",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg1": {
+  "file": "rg1.mp3",
+  "hash": "e82aa54f86f5",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg10": {
+  "file": "rg10.mp3",
+  "hash": "be4cc906e723",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg11": {
+  "file": "rg11.mp3",
+  "hash": "84e01f150cff",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg12": {
+  "file": "rg12.mp3",
+  "hash": "b02e169d9e0c",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg13": {
+  "file": "rg13.mp3",
+  "hash": "0ddeaf00b03f",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg14": {
+  "file": "rg14.mp3",
+  "hash": "26416d28d17f",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg15": {
+  "file": "rg15.mp3",
+  "hash": "e9e504512925",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg16": {
+  "file": "rg16.mp3",
+  "hash": "6f6fd46c3a45",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg17": {
+  "file": "rg17.mp3",
+  "hash": "0df7f2aff714",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg18": {
+  "file": "rg18.mp3",
+  "hash": "dddb28581124",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg19": {
+  "file": "rg19.mp3",
+  "hash": "4e2bb8898874",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg2": {
+  "file": "rg2.mp3",
+  "hash": "5257b4030de5",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg20": {
+  "file": "rg20.mp3",
+  "hash": "bcedbb58f431",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg21": {
+  "file": "rg21.mp3",
+  "hash": "69d5918e104a",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg22": {
+  "file": "rg22.mp3",
+  "hash": "d4938488d3d7",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg23": {
+  "file": "rg23.mp3",
+  "hash": "977b3ee118f4",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg24": {
+  "file": "rg24.mp3",
+  "hash": "d047680755e2",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg25": {
+  "file": "rg25.mp3",
+  "hash": "114ccecf0820",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg26": {
+  "file": "rg26.mp3",
+  "hash": "b28e6787f9b1",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg27": {
+  "file": "rg27.mp3",
+  "hash": "44e9e4cd825a",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg28": {
+  "file": "rg28.mp3",
+  "hash": "93d5205e65fc",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg29": {
+  "file": "rg29.mp3",
+  "hash": "30220b04f692",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg3": {
+  "file": "rg3.mp3",
+  "hash": "dbdf604e6193",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg30": {
+  "file": "rg30.mp3",
+  "hash": "7fcd0ecb72a7",
+  "seconds": 2.0,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg31": {
+  "file": "rg31.mp3",
+  "hash": "5927bfc09b2b",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg32": {
+  "file": "rg32.mp3",
+  "hash": "1f100f7620da",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg33": {
+  "file": "rg33.mp3",
+  "hash": "cfad08a4c028",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg34": {
+  "file": "rg34.mp3",
+  "hash": "713ad169cb02",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg35": {
+  "file": "rg35.mp3",
+  "hash": "42a3b63c8668",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg36": {
+  "file": "rg36.mp3",
+  "hash": "227e39b72df8",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg37": {
+  "file": "rg37.mp3",
+  "hash": "7af3338469b7",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg38": {
+  "file": "rg38.mp3",
+  "hash": "d90d09e41918",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg39": {
+  "file": "rg39.mp3",
+  "hash": "044d733ccba1",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg4": {
+  "file": "rg4.mp3",
+  "hash": "e19136de621b",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg40": {
+  "file": "rg40.mp3",
+  "hash": "ec580efae4cf",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg41": {
+  "file": "rg41.mp3",
+  "hash": "3944f33804e2",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg42": {
+  "file": "rg42.mp3",
+  "hash": "427aed0adceb",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg43": {
+  "file": "rg43.mp3",
+  "hash": "b3a25913d16d",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg44": {
+  "file": "rg44.mp3",
+  "hash": "7440436dba22",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg45": {
+  "file": "rg45.mp3",
+  "hash": "1a68568299bd",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg46": {
+  "file": "rg46.mp3",
+  "hash": "9607f1f3891f",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg47": {
+  "file": "rg47.mp3",
+  "hash": "a57d3d3e503a",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg48": {
+  "file": "rg48.mp3",
+  "hash": "fa03a599f1f2",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg49": {
+  "file": "rg49.mp3",
+  "hash": "49a9af8bc4e9",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg5": {
+  "file": "rg5.mp3",
+  "hash": "5f0d78c72665",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg50": {
+  "file": "rg50.mp3",
+  "hash": "13ce60abad1f",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg51": {
+  "file": "rg51.mp3",
+  "hash": "1747a69af307",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg52": {
+  "file": "rg52.mp3",
+  "hash": "492d7252aa8e",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg53": {
+  "file": "rg53.mp3",
+  "hash": "eb09aa5d1f16",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg54": {
+  "file": "rg54.mp3",
+  "hash": "f82196f19dbe",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg55": {
+  "file": "rg55.mp3",
+  "hash": "6be5a4433605",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg56": {
+  "file": "rg56.mp3",
+  "hash": "5799fa6e6941",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg6": {
+  "file": "rg6.mp3",
+  "hash": "ecaee74b0afe",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg7": {
+  "file": "rg7.mp3",
+  "hash": "8ddc8cecb49c",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg8": {
+  "file": "rg8.mp3",
+  "hash": "48572ac720c6",
+  "seconds": 2.0,
+  "voices": [
+   "g"
+  ]
+ },
+ "rg9": {
+  "file": "rg9.mp3",
+  "hash": "9e89e18290e7",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc1": {
+  "file": "sc1.mp3",
+  "hash": "a8befb0b2436",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc10": {
+  "file": "sc10.mp3",
+  "hash": "a7a53413c4bb",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc11": {
+  "file": "sc11.mp3",
+  "hash": "e85d848c321a",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc12": {
+  "file": "sc12.mp3",
+  "hash": "d0891a06f944",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc13": {
+  "file": "sc13.mp3",
+  "hash": "8afec4324dd4",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc14": {
+  "file": "sc14.mp3",
+  "hash": "52f3676e89f4",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc15": {
+  "file": "sc15.mp3",
+  "hash": "e0c84ed33a94",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc16": {
+  "file": "sc16.mp3",
+  "hash": "0b5389045bba",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc17": {
+  "file": "sc17.mp3",
+  "hash": "fdda9ab97205",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc18": {
+  "file": "sc18.mp3",
+  "hash": "44afe01b66df",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc19": {
+  "file": "sc19.mp3",
+  "hash": "96d0eb8cae70",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc2": {
+  "file": "sc2.mp3",
+  "hash": "481276d73cf6",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc20": {
+  "file": "sc20.mp3",
+  "hash": "e95843b516e9",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc21": {
+  "file": "sc21.mp3",
+  "hash": "ef0ee06c8dcc",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc22": {
+  "file": "sc22.mp3",
+  "hash": "aebf1dc154a0",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc23": {
+  "file": "sc23.mp3",
+  "hash": "561d0038f2c7",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc24": {
+  "file": "sc24.mp3",
+  "hash": "f2ee45c203d0",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc25": {
+  "file": "sc25.mp3",
+  "hash": "ab66c74869ab",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc26": {
+  "file": "sc26.mp3",
+  "hash": "3cf85c18c02a",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc27": {
+  "file": "sc27.mp3",
+  "hash": "a216c352e4f0",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc28": {
+  "file": "sc28.mp3",
+  "hash": "4d7ab55b5a68",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc29": {
+  "file": "sc29.mp3",
+  "hash": "6b84b9ced8e1",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc3": {
+  "file": "sc3.mp3",
+  "hash": "72a241938d9f",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc30": {
+  "file": "sc30.mp3",
+  "hash": "83447778ed5f",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc31": {
+  "file": "sc31.mp3",
+  "hash": "7d6208c86431",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc32": {
+  "file": "sc32.mp3",
+  "hash": "a963cad3173d",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc33": {
+  "file": "sc33.mp3",
+  "hash": "2b1347e80318",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc34": {
+  "file": "sc34.mp3",
+  "hash": "5a42c7cec357",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc35": {
+  "file": "sc35.mp3",
+  "hash": "574a5b4d64f3",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc36": {
+  "file": "sc36.mp3",
+  "hash": "9f5b73f49e72",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc37": {
+  "file": "sc37.mp3",
+  "hash": "f3bf992d646f",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc38": {
+  "file": "sc38.mp3",
+  "hash": "e56be8398f62",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc39": {
+  "file": "sc39.mp3",
+  "hash": "82456793b8ab",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc4": {
+  "file": "sc4.mp3",
+  "hash": "3c35208ade92",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc40": {
+  "file": "sc40.mp3",
+  "hash": "f1e67fb76d66",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc41": {
+  "file": "sc41.mp3",
+  "hash": "ed39ee23c299",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc42": {
+  "file": "sc42.mp3",
+  "hash": "ba0539089a50",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc43": {
+  "file": "sc43.mp3",
+  "hash": "8512f49d47f5",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc44": {
+  "file": "sc44.mp3",
+  "hash": "c61a48f7d99c",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc45": {
+  "file": "sc45.mp3",
+  "hash": "81b71688b0c6",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc46": {
+  "file": "sc46.mp3",
+  "hash": "44463a35364d",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc47": {
+  "file": "sc47.mp3",
+  "hash": "983410860673",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc48": {
+  "file": "sc48.mp3",
+  "hash": "30ce7c530894",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc49": {
+  "file": "sc49.mp3",
+  "hash": "f4e8c159b157",
+  "seconds": 1.2,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc5": {
+  "file": "sc5.mp3",
+  "hash": "0113243812fc",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc50": {
+  "file": "sc50.mp3",
+  "hash": "d94cd7565399",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc51": {
+  "file": "sc51.mp3",
+  "hash": "7925ce8edfce",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc52": {
+  "file": "sc52.mp3",
+  "hash": "43a0f203c8e2",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc53": {
+  "file": "sc53.mp3",
+  "hash": "14da212e3dfb",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc54": {
+  "file": "sc54.mp3",
+  "hash": "1b6f085d9efd",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc55": {
+  "file": "sc55.mp3",
+  "hash": "4fdaeabf733e",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc56": {
+  "file": "sc56.mp3",
+  "hash": "7a3aa994ae72",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc6": {
+  "file": "sc6.mp3",
+  "hash": "56ae7e7b0e36",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc7": {
+  "file": "sc7.mp3",
+  "hash": "25e10416d9ac",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc8": {
+  "file": "sc8.mp3",
+  "hash": "35d4adab38cb",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "sc9": {
+  "file": "sc9.mp3",
+  "hash": "c5a9ead6ed12",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh1": {
+  "file": "sh1.mp3",
+  "hash": "518310c4d560",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh10": {
+  "file": "sh10.mp3",
+  "hash": "ca5bdc52f2e5",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh11": {
+  "file": "sh11.mp3",
+  "hash": "7297616a2cd9",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh12": {
+  "file": "sh12.mp3",
+  "hash": "d6ba53ea47c9",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh13": {
+  "file": "sh13.mp3",
+  "hash": "daf20b1cf40c",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh14": {
+  "file": "sh14.mp3",
+  "hash": "f9c0af1b6255",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh15": {
+  "file": "sh15.mp3",
+  "hash": "985a07f5621a",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh16": {
+  "file": "sh16.mp3",
+  "hash": "7cfdff9cc538",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh17": {
+  "file": "sh17.mp3",
+  "hash": "d49867217448",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh18": {
+  "file": "sh18.mp3",
+  "hash": "f2ce72f63366",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh19": {
+  "file": "sh19.mp3",
+  "hash": "fc9bcd4e9d85",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh2": {
+  "file": "sh2.mp3",
+  "hash": "75517c25e58e",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh20": {
+  "file": "sh20.mp3",
+  "hash": "e13c9ef462b8",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh21": {
+  "file": "sh21.mp3",
+  "hash": "5312ee15d8af",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh22": {
+  "file": "sh22.mp3",
+  "hash": "64b6cc71c491",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh23": {
+  "file": "sh23.mp3",
+  "hash": "79169941d68f",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh24": {
+  "file": "sh24.mp3",
+  "hash": "493a55d181ad",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh25": {
+  "file": "sh25.mp3",
+  "hash": "2b0b67de123a",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh26": {
+  "file": "sh26.mp3",
+  "hash": "930b61c8a3e4",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh27": {
+  "file": "sh27.mp3",
+  "hash": "ac81a908aaa3",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh28": {
+  "file": "sh28.mp3",
+  "hash": "1b58bc1e6f05",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh29": {
+  "file": "sh29.mp3",
+  "hash": "1b835f82c26c",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh3": {
+  "file": "sh3.mp3",
+  "hash": "1f0447c9b4b3",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh30": {
+  "file": "sh30.mp3",
+  "hash": "3f1deca46f61",
+  "seconds": 1.3,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh31": {
+  "file": "sh31.mp3",
+  "hash": "ec801a4aef2b",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh32": {
+  "file": "sh32.mp3",
+  "hash": "2b04de678134",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh33": {
+  "file": "sh33.mp3",
+  "hash": "2b411f41a3dc",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh34": {
+  "file": "sh34.mp3",
+  "hash": "7602c5874ba2",
+  "seconds": 2.0,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh35": {
+  "file": "sh35.mp3",
+  "hash": "ecba01c3aafb",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh36": {
+  "file": "sh36.mp3",
+  "hash": "52f9836ac089",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh37": {
+  "file": "sh37.mp3",
+  "hash": "507f767b2ba4",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh38": {
+  "file": "sh38.mp3",
+  "hash": "58d7c9bed95e",
+  "seconds": 2.0,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh39": {
+  "file": "sh39.mp3",
+  "hash": "6f95c89ad618",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh4": {
+  "file": "sh4.mp3",
+  "hash": "267114981b5c",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh40": {
+  "file": "sh40.mp3",
+  "hash": "cf2bf33c77a2",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh41": {
+  "file": "sh41.mp3",
+  "hash": "770d9592336d",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh42": {
+  "file": "sh42.mp3",
+  "hash": "bf860abe79ed",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh43": {
+  "file": "sh43.mp3",
+  "hash": "5a9583fb96d8",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh44": {
+  "file": "sh44.mp3",
+  "hash": "e9927d12114b",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh45": {
+  "file": "sh45.mp3",
+  "hash": "723af8f2a5b8",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh46": {
+  "file": "sh46.mp3",
+  "hash": "d4f38f63d3c3",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh47": {
+  "file": "sh47.mp3",
+  "hash": "f3d3954cf2e7",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh48": {
+  "file": "sh48.mp3",
+  "hash": "2bc3d0a29255",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh49": {
+  "file": "sh49.mp3",
+  "hash": "e0352d1dc31b",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh5": {
+  "file": "sh5.mp3",
+  "hash": "c280e1024e65",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh50": {
+  "file": "sh50.mp3",
+  "hash": "e2282146c307",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh51": {
+  "file": "sh51.mp3",
+  "hash": "553ff0e6c1fe",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh52": {
+  "file": "sh52.mp3",
+  "hash": "2066ac7297d0",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh53": {
+  "file": "sh53.mp3",
+  "hash": "0fc6e369b1e9",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh54": {
+  "file": "sh54.mp3",
+  "hash": "8bddf1a8dbde",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh55": {
+  "file": "sh55.mp3",
+  "hash": "50f494cede09",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh56": {
+  "file": "sh56.mp3",
+  "hash": "3fce38c4c6fa",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh6": {
+  "file": "sh6.mp3",
+  "hash": "00afa5ab3a15",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh7": {
+  "file": "sh7.mp3",
+  "hash": "445b5436931f",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh8": {
+  "file": "sh8.mp3",
+  "hash": "00674ed80253",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "sh9": {
+  "file": "sh9.mp3",
+  "hash": "cdd6076b0552",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp1": {
+  "file": "sp1.mp3",
+  "hash": "81a8cbfb5b7c",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp10": {
+  "file": "sp10.mp3",
+  "hash": "728fe3050a04",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp11": {
+  "file": "sp11.mp3",
+  "hash": "6c5a4fec36bb",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp12": {
+  "file": "sp12.mp3",
+  "hash": "3cafa8987719",
+  "seconds": 0.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp13": {
+  "file": "sp13.mp3",
+  "hash": "5370ff9b07ef",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp14": {
+  "file": "sp14.mp3",
+  "hash": "a04038f15c09",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp15": {
+  "file": "sp15.mp3",
+  "hash": "8049ef9f5a28",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp16": {
+  "file": "sp16.mp3",
+  "hash": "066879020e27",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp17": {
+  "file": "sp17.mp3",
+  "hash": "5be5ee55738e",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp18": {
+  "file": "sp18.mp3",
+  "hash": "a79415ddb9d9",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp19": {
+  "file": "sp19.mp3",
+  "hash": "06545d09e102",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp2": {
+  "file": "sp2.mp3",
+  "hash": "7a13f9408b1e",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp20": {
+  "file": "sp20.mp3",
+  "hash": "f8274a5ce606",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp21": {
+  "file": "sp21.mp3",
+  "hash": "20628f6cf6b5",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp22": {
+  "file": "sp22.mp3",
+  "hash": "9228d082f6dc",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp23": {
+  "file": "sp23.mp3",
+  "hash": "d760caaaa2e6",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp24": {
+  "file": "sp24.mp3",
+  "hash": "852ec306e3e5",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp25": {
+  "file": "sp25.mp3",
+  "hash": "3aec1bdb9e3e",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp26": {
+  "file": "sp26.mp3",
+  "hash": "71ab237b2016",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp27": {
+  "file": "sp27.mp3",
+  "hash": "f429c00e0317",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp28": {
+  "file": "sp28.mp3",
+  "hash": "ee36b7a30e50",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp29": {
+  "file": "sp29.mp3",
+  "hash": "dfc53bf9e6ac",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp3": {
+  "file": "sp3.mp3",
+  "hash": "ea7e94155507",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp30": {
+  "file": "sp30.mp3",
+  "hash": "33d40362ac03",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp31": {
+  "file": "sp31.mp3",
+  "hash": "8e1e8948c94e",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp32": {
+  "file": "sp32.mp3",
+  "hash": "4b035dc090f0",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp33": {
+  "file": "sp33.mp3",
+  "hash": "41eb723c0371",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp34": {
+  "file": "sp34.mp3",
+  "hash": "63de8c8b62b4",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp35": {
+  "file": "sp35.mp3",
+  "hash": "ebacc6f5efb0",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp36": {
+  "file": "sp36.mp3",
+  "hash": "045419771388",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp37": {
+  "file": "sp37.mp3",
+  "hash": "342a41d6c381",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp38": {
+  "file": "sp38.mp3",
+  "hash": "e2df6576cee0",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp39": {
+  "file": "sp39.mp3",
+  "hash": "5840f6318d48",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp4": {
+  "file": "sp4.mp3",
+  "hash": "2101227b718d",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp40": {
+  "file": "sp40.mp3",
+  "hash": "512bb6ab959f",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp41": {
+  "file": "sp41.mp3",
+  "hash": "f915af8b5a46",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp42": {
+  "file": "sp42.mp3",
+  "hash": "e62758b71f44",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp43": {
+  "file": "sp43.mp3",
+  "hash": "1a01e2896a75",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp44": {
+  "file": "sp44.mp3",
+  "hash": "871563a2dc71",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp45": {
+  "file": "sp45.mp3",
+  "hash": "e423b2338cdc",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp46": {
+  "file": "sp46.mp3",
+  "hash": "d00b0acf8f9f",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp47": {
+  "file": "sp47.mp3",
+  "hash": "1c4b6bcf2443",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp48": {
+  "file": "sp48.mp3",
+  "hash": "2a8351758578",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp49": {
+  "file": "sp49.mp3",
+  "hash": "fcafbde2cd5e",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp5": {
+  "file": "sp5.mp3",
+  "hash": "18cac205fff3",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp50": {
+  "file": "sp50.mp3",
+  "hash": "c3b890a51ffd",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp51": {
+  "file": "sp51.mp3",
+  "hash": "c3b154ef59e7",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp52": {
+  "file": "sp52.mp3",
+  "hash": "8172ee4cf6d2",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp53": {
+  "file": "sp53.mp3",
+  "hash": "acab8b1d6720",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp54": {
+  "file": "sp54.mp3",
+  "hash": "3e08f35814a0",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp55": {
+  "file": "sp55.mp3",
+  "hash": "aaaf0b66fe0d",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp56": {
+  "file": "sp56.mp3",
+  "hash": "96ee2b5fdf3c",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp6": {
+  "file": "sp6.mp3",
+  "hash": "c7a656f991cf",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp7": {
+  "file": "sp7.mp3",
+  "hash": "afc0e0c3710d",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp8": {
+  "file": "sp8.mp3",
+  "hash": "1cecc1099ada",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "sp9": {
+  "file": "sp9.mp3",
+  "hash": "7fa8c175dc4a",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc1": {
+  "file": "tc1.mp3",
+  "hash": "4db899cc998d",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc10": {
+  "file": "tc10.mp3",
+  "hash": "3d2e0180098e",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc11": {
+  "file": "tc11.mp3",
+  "hash": "f66c9c17eb96",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc12": {
+  "file": "tc12.mp3",
+  "hash": "f7e055b53db4",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc13": {
+  "file": "tc13.mp3",
+  "hash": "57684e945b08",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc14": {
+  "file": "tc14.mp3",
+  "hash": "eb4715928333",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc15": {
+  "file": "tc15.mp3",
+  "hash": "c4f3ce15bf18",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc16": {
+  "file": "tc16.mp3",
+  "hash": "3dee97f5c3ed",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc17": {
+  "file": "tc17.mp3",
+  "hash": "d236f5b9e601",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc18": {
+  "file": "tc18.mp3",
+  "hash": "4d41df007a13",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc19": {
+  "file": "tc19.mp3",
+  "hash": "0030b4861ee8",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc2": {
+  "file": "tc2.mp3",
+  "hash": "e1648a789276",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc20": {
+  "file": "tc20.mp3",
+  "hash": "373bf782feea",
+  "seconds": 1.3,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc21": {
+  "file": "tc21.mp3",
+  "hash": "4f8c8ecbde04",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc22": {
+  "file": "tc22.mp3",
+  "hash": "209a9f99be37",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc23": {
+  "file": "tc23.mp3",
+  "hash": "bb0deb9ef9bc",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc24": {
+  "file": "tc24.mp3",
+  "hash": "8458f44d8e67",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc25": {
+  "file": "tc25.mp3",
+  "hash": "5e99465b1259",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc26": {
+  "file": "tc26.mp3",
+  "hash": "88fa52e38b06",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc27": {
+  "file": "tc27.mp3",
+  "hash": "d0d5388ed957",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc28": {
+  "file": "tc28.mp3",
+  "hash": "054d9fadc183",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc29": {
+  "file": "tc29.mp3",
+  "hash": "2e2c8be67305",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc3": {
+  "file": "tc3.mp3",
+  "hash": "9be6074790fd",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc30": {
+  "file": "tc30.mp3",
+  "hash": "5b114c6b7888",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc31": {
+  "file": "tc31.mp3",
+  "hash": "836130020736",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc32": {
+  "file": "tc32.mp3",
+  "hash": "b3ed31ec868c",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc33": {
+  "file": "tc33.mp3",
+  "hash": "62db8b61dec5",
+  "seconds": 1.0,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc34": {
+  "file": "tc34.mp3",
+  "hash": "96fdc661cb69",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc35": {
+  "file": "tc35.mp3",
+  "hash": "97bcc36dc518",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc36": {
+  "file": "tc36.mp3",
+  "hash": "8c3551922c5f",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc37": {
+  "file": "tc37.mp3",
+  "hash": "509daf92db32",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc38": {
+  "file": "tc38.mp3",
+  "hash": "1bc88b4f8374",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc39": {
+  "file": "tc39.mp3",
+  "hash": "3757af065ddb",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc4": {
+  "file": "tc4.mp3",
+  "hash": "c1ed3de830ed",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc40": {
+  "file": "tc40.mp3",
+  "hash": "f4594cd7ad04",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc41": {
+  "file": "tc41.mp3",
+  "hash": "ebd9d8e8a3c5",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc42": {
+  "file": "tc42.mp3",
+  "hash": "30658328649d",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc43": {
+  "file": "tc43.mp3",
+  "hash": "95fde49350e6",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc44": {
+  "file": "tc44.mp3",
+  "hash": "a857a659f477",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc45": {
+  "file": "tc45.mp3",
+  "hash": "1199775b26c7",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc46": {
+  "file": "tc46.mp3",
+  "hash": "555c11960ded",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc47": {
+  "file": "tc47.mp3",
+  "hash": "2d3a27c8db71",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc48": {
+  "file": "tc48.mp3",
+  "hash": "2aa69eae7ca4",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc49": {
+  "file": "tc49.mp3",
+  "hash": "7cc209895c6f",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc5": {
+  "file": "tc5.mp3",
+  "hash": "a8d92090ec6a",
+  "seconds": 2.2,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc50": {
+  "file": "tc50.mp3",
+  "hash": "4c7581bfceb6",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc51": {
+  "file": "tc51.mp3",
+  "hash": "208e3331d7af",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc52": {
+  "file": "tc52.mp3",
+  "hash": "01565257f1ad",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc53": {
+  "file": "tc53.mp3",
+  "hash": "cfcf90e01485",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc54": {
+  "file": "tc54.mp3",
+  "hash": "d6ac5f896fc1",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc55": {
+  "file": "tc55.mp3",
+  "hash": "f2f5dcac48fc",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc56": {
+  "file": "tc56.mp3",
+  "hash": "2ad9a43d41ef",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc6": {
+  "file": "tc6.mp3",
+  "hash": "0ef15bdee832",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc7": {
+  "file": "tc7.mp3",
+  "hash": "184dd5ea0862",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc8": {
+  "file": "tc8.mp3",
+  "hash": "ddbfadc1b875",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tc9": {
+  "file": "tc9.mp3",
+  "hash": "9f9c12744f08",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr1": {
+  "file": "tr1.mp3",
+  "hash": "b40caed1ffd3",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr10": {
+  "file": "tr10.mp3",
+  "hash": "11565be8415e",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr11": {
+  "file": "tr11.mp3",
+  "hash": "20af4bd04d42",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr12": {
+  "file": "tr12.mp3",
+  "hash": "e1c51d8f2a77",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr13": {
+  "file": "tr13.mp3",
+  "hash": "68d80f70146c",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr14": {
+  "file": "tr14.mp3",
+  "hash": "3ea608d813bb",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr15": {
+  "file": "tr15.mp3",
+  "hash": "6fd0abe078b7",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr16": {
+  "file": "tr16.mp3",
+  "hash": "0ddb4c310e01",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr17": {
+  "file": "tr17.mp3",
+  "hash": "81b760436c47",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr18": {
+  "file": "tr18.mp3",
+  "hash": "936e909926c8",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr19": {
+  "file": "tr19.mp3",
+  "hash": "66fb42e5092b",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr2": {
+  "file": "tr2.mp3",
+  "hash": "82bb79f74bc2",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr20": {
+  "file": "tr20.mp3",
+  "hash": "b4a4b5dc0e96",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr21": {
+  "file": "tr21.mp3",
+  "hash": "5e7d12d7e72c",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr22": {
+  "file": "tr22.mp3",
+  "hash": "b55d81d04d43",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr23": {
+  "file": "tr23.mp3",
+  "hash": "e0b5ad5b3434",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr24": {
+  "file": "tr24.mp3",
+  "hash": "745ac93f92f9",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr25": {
+  "file": "tr25.mp3",
+  "hash": "d236e5b2eced",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr26": {
+  "file": "tr26.mp3",
+  "hash": "712274b5f28b",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr27": {
+  "file": "tr27.mp3",
+  "hash": "71bfe57efec5",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr28": {
+  "file": "tr28.mp3",
+  "hash": "f5261dc738e1",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr29": {
+  "file": "tr29.mp3",
+  "hash": "27fada079127",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr3": {
+  "file": "tr3.mp3",
+  "hash": "e6f4c5f94a23",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr30": {
+  "file": "tr30.mp3",
+  "hash": "c5cd829d87ae",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr31": {
+  "file": "tr31.mp3",
+  "hash": "89fb0cbc5106",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr32": {
+  "file": "tr32.mp3",
+  "hash": "2747210c239a",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr33": {
+  "file": "tr33.mp3",
+  "hash": "ee339d279fc9",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr34": {
+  "file": "tr34.mp3",
+  "hash": "dfebdc9c523f",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr35": {
+  "file": "tr35.mp3",
+  "hash": "7583cbafcf24",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr36": {
+  "file": "tr36.mp3",
+  "hash": "c9177f0139c5",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr37": {
+  "file": "tr37.mp3",
+  "hash": "328f60da0cb9",
+  "seconds": 1.1,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr38": {
+  "file": "tr38.mp3",
+  "hash": "7d914268e8c6",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr39": {
+  "file": "tr39.mp3",
+  "hash": "c24533d7ad76",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr4": {
+  "file": "tr4.mp3",
+  "hash": "07ec3d28e337",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr40": {
+  "file": "tr40.mp3",
+  "hash": "8a68e009fde3",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr41": {
+  "file": "tr41.mp3",
+  "hash": "35b95791cb0c",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr42": {
+  "file": "tr42.mp3",
+  "hash": "c8a31ee6ac44",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr43": {
+  "file": "tr43.mp3",
+  "hash": "f0940f5ea804",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr44": {
+  "file": "tr44.mp3",
+  "hash": "141e89f7b456",
+  "seconds": 2.1,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr45": {
+  "file": "tr45.mp3",
+  "hash": "0d834ef3a80c",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr46": {
+  "file": "tr46.mp3",
+  "hash": "222086d7877c",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr47": {
+  "file": "tr47.mp3",
+  "hash": "7c12b6c19456",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr48": {
+  "file": "tr48.mp3",
+  "hash": "43008cd6e279",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr49": {
+  "file": "tr49.mp3",
+  "hash": "7813c07b6c31",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr5": {
+  "file": "tr5.mp3",
+  "hash": "5a76f1e4d383",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr50": {
+  "file": "tr50.mp3",
+  "hash": "02eca430570e",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr51": {
+  "file": "tr51.mp3",
+  "hash": "afe1580ca54d",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr52": {
+  "file": "tr52.mp3",
+  "hash": "d6e4ef679a3e",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr53": {
+  "file": "tr53.mp3",
+  "hash": "16cf2c5334e2",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr54": {
+  "file": "tr54.mp3",
+  "hash": "4656ebec3b80",
+  "seconds": 2.0,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr55": {
+  "file": "tr55.mp3",
+  "hash": "fc0adbd436ef",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr56": {
+  "file": "tr56.mp3",
+  "hash": "1852aa443c21",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr6": {
+  "file": "tr6.mp3",
+  "hash": "71080bc9533a",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr7": {
+  "file": "tr7.mp3",
+  "hash": "80b13e2d00ae",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr8": {
+  "file": "tr8.mp3",
+  "hash": "8f7f011be6dc",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "tr9": {
+  "file": "tr9.mp3",
+  "hash": "79990ac468d7",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt1": {
+  "file": "wt1.mp3",
+  "hash": "c241a027a3dd",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt10": {
+  "file": "wt10.mp3",
+  "hash": "30fa20655f61",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt11": {
+  "file": "wt11.mp3",
+  "hash": "f74b56f24fee",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt12": {
+  "file": "wt12.mp3",
+  "hash": "71d00f19a5b0",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt13": {
+  "file": "wt13.mp3",
+  "hash": "f8e6a18531d4",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt14": {
+  "file": "wt14.mp3",
+  "hash": "e030ae4691d4",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt15": {
+  "file": "wt15.mp3",
+  "hash": "eef042bbdb7d",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt16": {
+  "file": "wt16.mp3",
+  "hash": "f3d258915e2a",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt17": {
+  "file": "wt17.mp3",
+  "hash": "b5aac11bd7e0",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt18": {
+  "file": "wt18.mp3",
+  "hash": "a34b9a23d745",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt19": {
+  "file": "wt19.mp3",
+  "hash": "7f2f388ed6bf",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt2": {
+  "file": "wt2.mp3",
+  "hash": "da9b2aae1d0a",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt20": {
+  "file": "wt20.mp3",
+  "hash": "455fa0cdd637",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt21": {
+  "file": "wt21.mp3",
+  "hash": "c033a73a7f9e",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt22": {
+  "file": "wt22.mp3",
+  "hash": "d831c57cd443",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt23": {
+  "file": "wt23.mp3",
+  "hash": "66c2ba8419f8",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt24": {
+  "file": "wt24.mp3",
+  "hash": "03a1099803a1",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt25": {
+  "file": "wt25.mp3",
+  "hash": "0bff87185cd8",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt26": {
+  "file": "wt26.mp3",
+  "hash": "f74ed1ddc0a0",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt27": {
+  "file": "wt27.mp3",
+  "hash": "e5cee0cc8396",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt28": {
+  "file": "wt28.mp3",
+  "hash": "936a5a27eafe",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt29": {
+  "file": "wt29.mp3",
+  "hash": "ae0b7bc4502e",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt3": {
+  "file": "wt3.mp3",
+  "hash": "1bcab32d4275",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt30": {
+  "file": "wt30.mp3",
+  "hash": "1c9ed47b58f3",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt31": {
+  "file": "wt31.mp3",
+  "hash": "e4e94f3cb54d",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt32": {
+  "file": "wt32.mp3",
+  "hash": "9ebd0cf8ba4c",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt33": {
+  "file": "wt33.mp3",
+  "hash": "5e08f7d91dab",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt34": {
+  "file": "wt34.mp3",
+  "hash": "282052230abe",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt35": {
+  "file": "wt35.mp3",
+  "hash": "025104861fff",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt36": {
+  "file": "wt36.mp3",
+  "hash": "50aa44cb52f3",
+  "seconds": 2.0,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt37": {
+  "file": "wt37.mp3",
+  "hash": "40b42c8ad6db",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt38": {
+  "file": "wt38.mp3",
+  "hash": "8c5e782fb625",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt39": {
+  "file": "wt39.mp3",
+  "hash": "fd6fdae4fac6",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt4": {
+  "file": "wt4.mp3",
+  "hash": "1a26abb9b3b3",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt40": {
+  "file": "wt40.mp3",
+  "hash": "10d9dc22746b",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt41": {
+  "file": "wt41.mp3",
+  "hash": "7d034244c850",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt42": {
+  "file": "wt42.mp3",
+  "hash": "0bcea0033c49",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt43": {
+  "file": "wt43.mp3",
+  "hash": "6edefbe8ee02",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt44": {
+  "file": "wt44.mp3",
+  "hash": "2bbd5b029005",
+  "seconds": 2.0,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt45": {
+  "file": "wt45.mp3",
+  "hash": "5b1b0f9bff0a",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt46": {
+  "file": "wt46.mp3",
+  "hash": "acc524c8875a",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt47": {
+  "file": "wt47.mp3",
+  "hash": "8ff901a00168",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt48": {
+  "file": "wt48.mp3",
+  "hash": "595e20effd07",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt49": {
+  "file": "wt49.mp3",
+  "hash": "8997e38b87fe",
+  "seconds": 1.9,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt5": {
+  "file": "wt5.mp3",
+  "hash": "ac085777117b",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt50": {
+  "file": "wt50.mp3",
+  "hash": "f01f30c88ff3",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt51": {
+  "file": "wt51.mp3",
+  "hash": "38234015c584",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt52": {
+  "file": "wt52.mp3",
+  "hash": "a956506c3e55",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt53": {
+  "file": "wt53.mp3",
+  "hash": "31896d9a77af",
+  "seconds": 1.7,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt54": {
+  "file": "wt54.mp3",
+  "hash": "b3b4b7ab3e3e",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt55": {
+  "file": "wt55.mp3",
+  "hash": "86f3bb728946",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt56": {
+  "file": "wt56.mp3",
+  "hash": "e032c6395b92",
+  "seconds": 1.8,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt6": {
+  "file": "wt6.mp3",
+  "hash": "c73864ac328a",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt7": {
+  "file": "wt7.mp3",
+  "hash": "0a9232d97aeb",
+  "seconds": 1.5,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt8": {
+  "file": "wt8.mp3",
+  "hash": "0ff6ba3d992f",
+  "seconds": 1.4,
+  "voices": [
+   "g"
+  ]
+ },
+ "wt9": {
+  "file": "wt9.mp3",
+  "hash": "62f8b74d4220",
+  "seconds": 1.6,
+  "voices": [
+   "g"
+  ]
+ }
+}
